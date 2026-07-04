@@ -56,3 +56,14 @@ honest **declaration that it is open**.
 | Death / finitude | Open (writable as an extension of Irrecoverability; not yet developed) |
 | Aesthetics / philosophy of religion / political detail / theory of reference | Declared out of scope |
 | Residues of the Ready-stances | R1–R4 objection points explicitly left open |
+| A serious Nietzsche reading | Future work; the early Hatena layer-mapping is not adopted (superficial, misreads the Übermensch) |
+
+## Superseded (retracted — [`30-superseded.md`](./30-superseded.md))
+
+| # | Retracted claim | Replaced by |
+|---|---|---|
+| S1 | Reversible ontology / "world = whole brain" / "observer = world" as a necessity (Hatena, Oct 2025) | F1/F2/F3 (OSR + posit realism + indirect realism & silence; the idealist overshoot dropped) |
+| S2 | "Pleasure = Coherence" (identity) | pleasure = dC/dt, a functional correlate (F8) |
+| S3 | "Value = Ω" / "Ω = growth" / "one scale-invariant law" | F1 (Ω descriptive) + F7 (non-normative); only the question-form + reversibility criterion transfer across scales |
+| S4 | Nāgārjuna's emptiness reified into an "Ω coherence field" | Companion C1 (Kant/Yogācāra-labelled); panpsychism only as one undecided option under F8 |
+| S5 | ZZ integration as a fact achieved by the Buddha | Companion C5 as a phenomenological hypothesis; "achieved fact" withdrawn |

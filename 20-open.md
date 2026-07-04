@@ -27,6 +27,14 @@ mechanisms in core/companion, but the epistemic problem is separate).
 The core holds individual terminality / irrecoverability, yet the *meaning of death itself* is undeveloped.
 Writable as a natural extension of the liberation model (C3). → **Open** (writable, not yet undertaken).
 
+### A serious Nietzsche reading (future companion)
+An early layer-mapping of Nietzsche onto BYXCZ/Ω exists (Hatena, Oct 2025) but is **not adopted**: it is
+superficial and misreads the *Übermensch* as a Buddhist-style total integration (ZZ), whereas Nietzsche is
+anti-renunciation. A serious reading would place Nietzsche as the champion of the **opposite fork from
+liberation** — the affirmation of grasping / intensity / the peak (cf. the liberation model's own admission
+that "the peak-seeker rightly declines this path") — and would note that his demolition of the "true world"
+(*Twilight of the Idols*) **resonates with F3's rejection of a noumenal ground**. → open / future work.
+
 ## O2. Out-of-scope declarations (not gaps)
 
 - **Aesthetics** — leave "beauty" as an item in the appearance channels; no more.

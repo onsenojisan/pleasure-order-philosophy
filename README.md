@@ -30,6 +30,7 @@ reversible correction, non-identity-based justification).
 | [`00-frozen-core.md`](./00-frozen-core.md) | **Frozen core** | Defended, stable. Settled. Revised only under explicit versioning. |
 | [`10-companion.md`](./10-companion.md) | **Companion** | Speculative / applied. Not the core. Revisable. |
 | [`20-open.md`](./20-open.md) | **Open** | Deliberately open questions. Not to be filled — by design. |
+| [`30-superseded.md`](./30-superseded.md) | **Superseded** | Retracted early positions, with why and what replaced them — the theory's own revision history. |
 | [`STATUS.md`](./STATUS.md) | Ledger | Every proposition with its tier, status, and one-line position. **Read this first.** |
 
 ## Status labels
