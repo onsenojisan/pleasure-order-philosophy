@@ -1,53 +1,56 @@
-# 快の秩序論 — 哲学の核（Philosophy Core）
+# The Pleasure Order — Philosophy Core
 
-*The Pleasure Order — Philosophical Foundation*
+*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-04 · License: CC-BY 4.0*
 
-最終更新: 2026-07-04 / 著者: Hiroaki Aizawa（AI哲学作成業 / onsen_ojisan）
+Japanese source of the underlying deliberation is kept in [`ja/`](./ja).
 
 ---
 
-## このリポジトリは何か
+## What this repository is
 
-快の秩序論（The Pleasure Order / VOT）の、**防御可能な哲学的核**を一箇所に整理したもの。
-既発表の [note（onsen_ojisan）](https://note.com/onsen_ojisan) と Zenodo 群に散在していた立場を、
-**互いに整合する一つの骨格**として凍結し、まだ開いている部分を正直に「開」と印す。
+The defensible **philosophical foundation** of The Pleasure Order (快の秩序論 / Valence Order Theory),
+consolidated in one place. Positions that were scattered across
+[note (onsen_ojisan)](https://note.com/onsen_ojisan) and the Zenodo record are collected here as **one
+mutually-consistent skeleton**, with every still-open part honestly marked *Open*.
 
-- **note** = 理論を説明し育てる場
-- **Zenodo** = 個別成果を凍結する場
-- **本リポジトリ** = *骨格そのもの*を凍結し、改訂を追跡する台帳
+- **note** — where the theory is explained and grown
+- **Zenodo** — where individual results are frozen
+- **This repository** — where the *skeleton itself* is frozen and its revisions tracked
 
-## 三層構造 — リポジトリ自身が理論を体現する
+## Three-tier structure — the repo embodies the theory
 
-理論の核が「**可逆性・改訂可能性・非人格的記憶**」（fixation＝カテゴリの死）なら、
-リポジトリ自身がそれを体現すべきである。だから各文書に status を打ち、三層に分ける。
-これは Zenodo 版 *Directionality Ω のスケール遷移* が導いた4制約
-（交換可能性・非人格的記憶・可逆的訂正・非同一性正当化）を、**理論自身のテキストに適用**したもの。
+The theory's core is **reversibility · revisability · non-personal memory** (fixation = the death of a
+category). The repository is built to embody that: every document carries a *status* and sits in one of
+three tiers. This applies, to the theory's own text, the four scale-transition constraints derived in the
+Zenodo paper *Directionality Ω and Scale Transition* (carrier replaceability, non-personal memory,
+reversible correction, non-identity-based justification).
 
-| フォルダ / ファイル | 層 | 意味 |
+| File | Tier | Meaning |
 |---|---|---|
-| `00-frozen-core.md` | **Frozen 核** | 防御可能・安定。この対話で決着済み。改訂は明示的な版管理で。 |
-| `10-companion.md` | **Companion** | 思索的・応用的。核ではない。改訂可能な同伴文書。 |
-| `20-open.md` | **Open** | 意図的に開いている問い。設計上、埋めない／埋める必要がない。 |
-| `STATUS.md` | 台帳 | 全命題の層・状態・一行立場の一覧。まずここを読む。 |
+| [`00-frozen-core.md`](./00-frozen-core.md) | **Frozen core** | Defended, stable. Settled. Revised only under explicit versioning. |
+| [`10-companion.md`](./10-companion.md) | **Companion** | Speculative / applied. Not the core. Revisable. |
+| [`20-open.md`](./20-open.md) | **Open** | Deliberately open questions. Not to be filled — by design. |
+| [`STATUS.md`](./STATUS.md) | Ledger | Every proposition with its tier, status, and one-line position. **Read this first.** |
 
-## status ラベル
+## Status labels
 
-- **Frozen**：決着済み。防御可能な立場が確定。
-- **Ready-stance**：基礎から自動で出る立場。書き留めるだけ（悩む段階は終わっている）。
-- **Companion**：核から派生した思索。真偽未確定、レンズとして提示。
-- **Open**：決着不能 or 未着手。「開いている」と正直に宣言する。
+- **Frozen** — settled; a defensible position is fixed.
+- **Ready-stance** — a position that follows automatically from the foundation; only needs writing down (the deciding is over).
+- **Companion** — speculation derived from the core; truth-value undecided; offered as a lens.
+- **Open** — undecidable or not-yet-addressed; honestly declared open.
 
-## 核となる一貫原理
+## The single governing principle
 
-全体を貫く一つの掟：
+One rule runs through everything:
 
-> **届かないものは断言せず沈黙し、過大化しない。**
-> **アクセスできる構造には、可逆的・可謬的に届く。**
+> **What cannot be reached is left silent and not inflated.**
+> **The structure of the accessible world is reached — reversibly and fallibly.**
 
-究極グラウンド・物自体・「なぜ感じがあるか」の深い事実は、観察限界の外にある → **沈黙・棚上げ**。
-一方、共有された現象世界の構造（実在パターン）には、圧縮・予測を通じて可謬的に届く → **記述する**。
-この非対称が、以下すべての立場を生む。
+The ultimate ground, the thing-in-itself, and the deep fact of "why there is feeling at all" lie beyond the
+**observation limit** → *silence / shelved*. The structure of the shared, appeared world (real patterns),
+by contrast, is reached fallibly through compression and prediction → *described*. This asymmetry generates
+every position below.
 
-## 言語
+## Language
 
-一次言語は日本語（技術用語は英語併記）。英語版は必要に応じて別途作成する。
+English is primary. The Japanese source of the deliberation (from which this was distilled) is in [`ja/`](./ja).

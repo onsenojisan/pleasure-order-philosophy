@@ -1,179 +1,199 @@
-# Frozen 核 — 防御可能な哲学的骨格
+# Frozen Core — the defensible philosophical skeleton
 
-*status: Frozen（決着済み）。改訂は明示的な版管理で。*
-最終更新: 2026-07-04
+*status: Frozen (settled). Revised only under explicit versioning.*
+Last updated: 2026-07-04
 
-全体を貫く一つの掟：
-**届かないものは断言せず沈黙し過大化しない／アクセスできる構造には可逆的・可謬的に届く。**
-
----
-
-## Ⅰ. 背骨（8つのコミットメント）
-
-### F1. 形而上学 ＝ 存在論的構造実在論（Ontic Structural Realism, OSR）
-
-世界の底にあるのは「自前で立つ内在的本性を持つ"もの"」ではなく、**関係・構造・様式**である。
-自性（それ自体で、他に依らず、内在的にそのものであること）は、何にも当てはまらない
-（もし真に独立なら、変化も因果も関係もできない＝何者でもない）。
-だから世界は、**自性なしの依存的な様式**が続く。
-
-**Ω は、この構造の記述的な読み取り（D）**である。温度・エントロピー型：実在するが"もの"ではない。
-Ω は世界に浮かぶ実体（場・グラウンド）ではなく、関係・方向の構造を読む量。
-参照：`10-companion.md` の龍樹論が Ω を「宇宙の整合場」と実体化した箇所は、この核では採らない。
-
-### F2. 実在論 ＝ 方法論的"仮置き"
-
-「世界は実在し、観察者に先立ち、共有されている」——これを保持する。
-根拠は**間主観性**（自分一人でなく他者もみな同じ世界に合致し、世界は押し返す＝独我論の反証）。
-
-ただし、これは**形而上学的断言ではなく、方法論的な仮置き（working posit）**である。
-理由は二つ：(1) 現実問題を考えるのに workable、(2)「自分の幻影」とすると逃避（escapism）に繋がる。
-＝ 龍樹の**俗諦の正用**（空を虚無・逃げにしない安全装置）。
-
-規律：「世界は実在と**仮置きする**（働くし逃げを防ぐから）」を保ち、
-「世界は究極の自立した土台**である**」に硬化させない。硬化した瞬間、諸論争が復活する。
-
-### F3. 認識論 ＝ 間接実在論（一世界版）＋ 究極グラウンドは沈黙
-
-脳は五感から世界を再構成する。我々が見るのは、依存的な世界の**部分的・間接的な像**。
-ただし、隠れた noumenal な「究極の床」（カントの二世界）は**立てない**。
-間接実在論が要るのは「心から独立した感覚入力の源」だけで、その源は**それ自体もまた依存的な世界**でよい。
-
-**究極グラウンド（自性の床）の存否は、決着不能・触れられない。**
-「在る」とも「無い」とも断言しない。形も与えない（"四次元だ"等もNG）。
-※「在るが触れられない床が存在する」という断言すら、わずかに言い過ぎ
-（在ると知るには触れる必要がある）。安全形は「**判定が届かない → 沈黙**」。
-これは案外、龍樹の"無主張"にも近い（『廻諍論』29「私には主張がない」）。
-
-### F4. 真理論
-
-- **対応（神の視点の真理＝物自体との一致）**：届かない・沈黙。
-- **構造的・可謬的・実用的真理**：届く。実在パターンが**圧縮・予測**という仕事をすれば「真」（Dennett／実用説）。
-- **論理**：規範であって、脳の活動そのものではない（反心理主義 Frege/Husserl：論理が脳の活動なら"論理的間違い"が存在しないはず。だが間違いはある）。
-
-「真理に届かない」は**神の視点の真理にのみ真**で、構造的・可謬的真理には行き過ぎ。
-かつ「一切届かない」を主張すると自己論駁する（それ自体が一つの真理主張になる）。
-だから正直な形は「究極は沈黙、構造には可謬的に届く」。
-
-### F5. 様式（パターン）＝ 実在パターン（Real Patterns, Dennett）
-
-様式＝物質が入れ替わっても持続する、関係・過程の形（渦・炎・生物・自己・社会）。
-「再構築か世界側か」は偽の二択。答えは**実在パターン**：
-
-- 世界側で**仕事**をする（圧縮・予測・拘束。渦は葉を運ぶ。見ていようがいまいが）→ 単なる再構築でない。
-- どのパターンを拾うかは**観察者の粒度に相対的**（ミツバチは別の世界）→ 素朴な世界側でもない。
-
-**五感の限界は「構造を渡し、実体を渡さない」＝OSR を駆動する**。
-限界は結論の解体でなく、結論のエンジン：感覚器が実体でなく構造を渡すからこそ、
-「実在するのは構造・関係、内在的な床は不可知」となる。
-
-### F6. 中核基準 ＝ 反固着・可逆性
-
-**可逆性・改訂可能性・批判可能性が、唯一の構造的（記述的、規範でない）基準**。
-その喪失＝**fixation（固着）＝そのカテゴリ（生・決定・説明・文明）自体の死**。
-これが理論全体の背骨で、龍樹論（2025-11「空＝可逆的整合、中道＝固着なき往復」）が起源。
-「停止は死、可逆こそ生命」。
-
-### F7. 非規範
-
-理論は**記述的**であり、**仮言命法のみ**を扱う（「Xを避けたいなら、Yせよ」）。
-Ω は記述であって価値・善ではない。categorical な「〜すべき」は導かない。
-
-### F8. 意識・クオリア（観察限界による締め）
-
-**「なぜ構造・機能に"感じ"が伴うのか」の深い事実は、観察限界の外にある → 棚上げ（原理的不可知）。**
-
-構造：
-- **内側の観察**：龍樹が終端まで行った（自己は空、概念は究極に届かない、観察限界の確定）。
-- **外側の観察**：科学に開いておく（前線は動く）。
-- **外→内の橋**（外の構造が内の感じを説明できるか）＝ **ハードプロブレム＝決着不能**。龍樹はこの橋を扱っていない。
-
-論拠（原理的に稼いだ不可知）：
-- ゾンビ論法（感じは余分）は「想像できる→可能」に乗るが、それは飛躍（"熱くて冷たい水"同様、想像できる≠可能）。
-- かといって「ゾンビは不可能（＝機能主義）」も、様相事実の僭称で断言できない。
-- **両側とも当てにならない肘掛け椅子の想像可能性に乗る → 肘掛け椅子では決着不能 → 棚上げが最も正直**。
-
-さらに：著者のOSR＋様相不可知では「他は全部必然、感じだけ浮く」は**偽**
-（純粋な必然は世界のどこにも無い、感じ含め全部が偶然的様式、"浮く土台"が無い）。
-だが問いは「なぜある様式は感じ、別（石・昆虫）は感じないか」に生き残る。
-OSRだと、これは〈感じ＝構造の一部（機能主義）／感じ＝構造の内在的本性（ラッセル的一元論＝原-汎心論）〉の
-**決着不能なフォーク**になる。
-→ **機能主義にも汎心論にも言い切らず、両方を未決の候補として棚上げ**。
-→ 帰結：「感じ＝快 dC/dt で説明済み」とは言わない。快 dC/dt は**機能相関物**であり、
-felt そのものを汲み尽くすかは**開**。
+The single governing rule:
+**What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
 
 ---
 
-## Ⅱ. 決着した個別命題
+## I. The spine (eight commitments)
 
-### F9. 規範の握力（なぜ気にかけるか）
+### F1. Metaphysics = Ontic Structural Realism (OSR)
 
-理論は categorical な「気にかけるべき」を**根拠づけない**。
-気にかけ（自他の苦・逃避しないこと）は、進化・共感・自己保存に由来する**事実**であり、
-理論はそれを読み・仕えるのであって正当化しない。
-**反-escapism は命令でなく仮言命法**：「逃げたくないなら、世界を実在と扱え」。
-気にかけないこと・短期快・不整合を選ぶのも**主体の自由**（構成主義の"不整合だ"すら拘束力を持たない）。
-深い「そもそもなぜ気にかけるか」は、記述理論の内からは根拠づけられない → **開**、過大化しない。
+What lies at the bottom of the world is not "things with self-standing intrinsic natures" but
+**relations, structure, styles (patterns)**. *Svabhāva* (being what one is intrinsically, independently of
+everything) applies to nothing: anything truly independent could not change, cause, or relate — hence would
+be nothing. So the world is **svabhāva-less, dependent patterns**, all the way.
 
-### F10. 自由意志（note 決着編 2025-11 で決着済）
+**Ω is a descriptive reading of that structure (D)** — of the temperature/entropy kind: real, but not a
+"thing". Ω is not a substance or field floating in the world; it is a quantity that reads relational and
+directional structure. (See `10-companion.md`: where the Nāgārjuna papers reify Ω into a "cosmic coherence
+field", that move is *not* adopted in this core.)
 
-- **行動レイヤー＝完全決定論**：行動は身体・入力・記憶・意味・情動の因果で生起。「自分が決めた」はZ層の後付け物語。
-- **主体性＝Intrinsic Directionality（方向性）**：外の因果を内部でどう変換するかの偏り・向き・クセ。因果の中に生じる主体性であって、独立した意思ではない。
-- 「自由意志は無い。しかし方向性としての主体性はある。方向は変わりうる。」
-- この記事は既に**観察限界＝沈黙の認識論**（Ωそのものは見えず、BYXCZ再構成像のみ）を含む＝F3・F8の起源。
+### F2. Realism = a methodological "posit"
 
-### F11. 時間（核）
+"The world is real, prior to observers, and shared" — this is kept. Its ground is **intersubjectivity**
+(not only I but others converge on the same world, and the world pushes back = a refutation of solipsism).
 
-時間は外的実体でなく、**整合の変化率を自己（Z層）が観測することで生じる指標**。
-過去は現在の拘束、未来は現在の状態空間、現在は形成の局面。
-（詳細な過程的因果史モデルは companion。）
+But this is **not a metaphysical assertion; it is a methodological working posit.** Two reasons:
+(1) it is workable for thinking about real problems; (2) treating the world as "my own illusion" tends toward
+**escapism**. This is the *correct use of conventional truth* (a safeguard that keeps emptiness from
+collapsing into nihilism / evasion).
 
-### F12. 自己・持続
+Discipline: keep "I *posit* the world as real (because it works and prevents evasion)"; do not let it harden
+into "the world *is* the ultimate self-standing ground." The moment it hardens, all the old disputes return.
 
-持続＝同一物の保存でなく、**変化の中で様式が維持されること**。
-自己＝過去の立ち現れの積み重ねでできた、書き換え可能な像（固定した核はない）。
+### F3. Epistemology = indirect realism (one-world) + silence on the ultimate ground
 
-### F13. 心的因果（Kim 排除問題への答え）
+The brain reconstructs the world from the senses. What we see is a **partial, indirect image** of the
+dependent world. But we do **not** posit a hidden noumenal "final floor" (Kantian two-world). Indirect realism
+needs only a "mind-independent source of sensory input", and that source can itself be *more dependent world*.
 
-創発＝「高次が低次を拘束」だが、方向性（主体性）は**物理と競合する別立ての因果ではなく、
-低次パターンへの構造的制約**。だから Kim の排除論法（高次の心的因果は余剰か過剰決定）を回避する。
-＝ F1 OSR で逃げる（因果的な"力"の追加でなく、関係構造の偏り）。
+**Whether a self-standing ground (svabhāva-floor) exists is undecidable and untouchable.** Neither "it exists"
+nor "it does not" is asserted; no shape is given to it (not even "it is 4-dimensional"). Note: even asserting
+"there is an unreachable true world" slightly overreaches (to know it is there you would have to reach it).
+The safe form is **"no verdict is reachable → silence."** This is, in fact, close to Nāgārjuna's *no-thesis*
+(Vigrahavyāvartanī 29: "I have no thesis").
+
+### F4. Truth
+
+- **Correspondence (the God's-eye truth = matching the thing-in-itself):** unreachable / silent.
+- **Structural, fallible, pragmatic truth:** reachable. A real pattern is "true" to the extent it does the
+  work of **compression and prediction** (Dennett / pragmatism).
+- **Logic:** normative, not "just brain activity" (anti-psychologism, Frege/Husserl: if logic were merely how
+  brains happen to think, there could be no such thing as a *logical error* — but there is).
+
+"Truth is unreachable" is true *only* of the God's-eye truth; extended to structural/fallible truth it
+overreaches. And "no truth is reachable" is self-refuting (it is itself a truth-claim). Hence the honest form:
+the ultimate is silent, structure is reached fallibly.
+
+### F5. Styles (patterns) = Real Patterns (Dennett)
+
+A *style* is a form of relations/process that persists while its material turns over (a whirlpool, a flame, an
+organism, a self, a society). "Reconstructed vs world-side" is a false dichotomy; the answer is **real
+patterns**:
+
+- They do **work** on the world side (compress / predict / constrain — a whirlpool steers the leaf whether or
+  not anyone watches) → not merely reconstructed.
+- Which patterns are picked out is **relative to the observer's grain** (a bee inhabits a different world) →
+  not naively pre-carved either.
+
+**The five-sense limit "hands over structure, not substance" — and thereby *drives* OSR.** The limit is not
+the dissolution of the position but its engine: because the senses deliver structure rather than intrinsic
+natures, what is real is structure/relations, and the intrinsic floor is unknowable.
+
+### F6. Core criterion = anti-fixation / reversibility
+
+**Reversibility · revisability · criticizability is the one structural (descriptive, not normative) criterion.**
+Its loss = **fixation = the death of that category** (of a life, a decision, an explanation, a civilization).
+This is the spine of the whole theory; its origin is the Nāgārjuna papers (Nov 2025: "emptiness = reversible
+coherence; the Middle Way = oscillation without fixation"). *Cessation is death; reversibility is life.*
+
+### F7. Non-normative
+
+The theory is **descriptive** and admits **hypothetical imperatives only** ("if you want to avoid X, then do
+Y"). Ω is descriptive, not a value or a good. No categorical "ought" is derived.
+
+### F8. Consciousness / qualia (closed by the observation limit)
+
+**The deep fact of "why is structure/function accompanied by *feeling*" lies beyond the observation limit →
+shelved (principled agnosticism).**
+
+Structure:
+- **Inner observation:** Nāgārjuna reached the terminus (the self is empty; concepts do not reach the ultimate;
+  the observation limit is fixed).
+- **Outer observation:** left open to science (the frontier moves).
+- **The outer→inner bridge** (can outer structure explain inner feeling?) = **the hard problem = undecidable.**
+  Nāgārjuna did not address this bridge.
+
+Justification (a *principled* agnosticism, not avoidance):
+- The zombie argument (feeling is "extra") rests on "conceivable → possible", which is a leap
+  (like "water that is hot and cold at once", apparent conceivability can hide incoherence).
+- But "zombies are impossible (= functionalism)" also over-claims a modal fact we cannot verify.
+- **Both sides ride on unreliable armchair conceivability → the armchair cannot settle it → shelving is the
+  most honest verdict.**
+
+Further: on this theory's own OSR + modal humility, "everything else is necessary and feeling alone floats" is
+**false** (nothing is pure necessity; everything, feeling included, is a contingent pattern; there is no
+necessity-substrate for feeling to float free of). The surviving question — "why do some styles feel and others
+(a rock, perhaps an insect) not?" — becomes, under OSR, an undecidable fork:
+⟨feeling = part of the structure (functionalism) / feeling = the intrinsic nature the structure describes from
+outside (Russellian monism ≈ proto-panpsychism)⟩.
+→ **Commit to neither; keep both as undecided options, shelved.**
+Consequence: we do *not* say "feeling is explained by pleasure = dC/dt". Pleasure = dC/dt is a **functional
+correlate**; whether it exhausts felt experience is **open**.
 
 ---
 
-## Ⅲ. 基礎から自動で出る立場（Ready-stance — 書き留めるだけ）
+## II. Settled individual propositions
 
-以下は「解く」問題ではない。上の基礎から立場が**自動で供給される**。
-各々に残りカスがあるが、理論は解く義務を負わない（可謬主義）。残りカスは `20-open.md` に明示。
+### F9. The grip of normativity (why care?)
 
-### R1. 因果 → 過程説
+The theory does **not** ground a categorical "you ought to care." Caring (about one's own and others'
+suffering, about not evading) is a **fact** — evolved, empathic, self-concerned — which the theory reads and
+serves rather than justifies. **Anti-escapism is a hypothetical imperative, not a command**: "if you do not
+wish to evade, then treat the world as real." Choosing not to care, choosing short-term pleasure, choosing
+inconsistency, are the **agent's freedom** (even the constitutivist "you are inconsistent" carries no binding
+force). The deep "why care at all" cannot be grounded from inside a descriptive theory → **open**, not inflated.
 
-反実仮想（もし〜だったら）を禁じた以上、反事実で因果を定義する主流説（Lewis/Woodward）は使えない。
-→ **過程説（Salmon/Dowe）**：因果＝実際の物理過程・保存量の伝達。現実世界の実際の連結を見る。
-縁起・崩壊・方向性・dΩ/dt は、この意味の因果に乗る。
+### F10. Free will (settled in note, Nov 2025)
 
-### R2. 様相・確率 → 実際頻度（frequentist）
+- **Action layer = full determinism**: action arises from the causal confluence of body, input, memory,
+  meaning, affect. "I decided" is a post-hoc narrative of the Z layer.
+- **Agency = Intrinsic Directionality**: the bias / direction / grain in how outer causes are transformed
+  internally — an agency that arises *within* causation, not an independent will.
+- "There is no free will; but there is agency as directionality; the direction can change."
+- That article already contains the **observation-limit → silence** epistemology (Ω-itself is unseen; only the
+  BYXCZ-reconstructed image is available) = the origin of F3 and F8.
 
-様相（可能世界）を禁じたまま、実証は確率 P(崩壊 | 高Ω) を使う。
-→ この確率は**実際に起きた頻度**（記述的）として扱う。様相の形而上学にコミットしない。
-＝ 反実仮想禁止・記述の掟と整合。予測は可謬的に行う（R3）。
+### F11. Time (core)
 
-### R3. 帰納 → 可謬主義
+Time is not an external substance but an **index that arises when the self (Z layer) observes the rate of
+coherence change.** The past is a constraint on the present; the future is a state-space handled within the
+present; the present is the locus of formation. (The fuller processual causal-history model is a companion.)
 
-「未来は過去に似る」を保証するものは無い（Hume）。全科学が同じ。
-→ **解かない。可謬的に賭ける**。方向性の読みも予測も、反証可能な賭けとして提示する。
-「最終真理でなく、信頼できる追跡」の F4 と整合。
+### F12. Self / persistence
 
-### R4. 論理・数学の身分 → 数学的構造主義
+Persistence is not the preservation of an identical thing but the **maintenance of a style through change.**
+The self is a rewritable image built from accumulated appearances (no fixed core).
 
-「論理はソフト」（F4 で規範として位置づけ済み）なら、数学の対象は何か。
-→ **数学的構造主義（Shapiro/Resnik）**：数学は構造を捉える学。
-その構造は F5 の実在パターンとして世界で仕事をする。＝ F1 OSR と対になる。
-「数学は構造を捉え、その構造は実在パターンとして世界で仕事をする」で一貫。
+### F13. Mental causation (answer to Kim's exclusion problem)
+
+Emergence = "higher-order constrains lower-order", but directionality (agency) is **not a rival cause competing
+with physics; it is a structural constraint on lower-order patterns.** This avoids Kim's exclusion argument
+(that higher-order mental causation is either redundant or overdetermining) — it escapes via F1 OSR (a bias in
+relational structure, not an added causal "force").
 
 ---
 
-## 参照
+## III. Positions that follow from the foundation (Ready-stance — just write them down)
 
-- note（onsen_ojisan）: 自由意志問題・決着編 / 龍樹 / 二諦と可逆性 / 世界の構成要素としての様式 / 内的・外的整合 ほか
-- Zenodo: The Pleasure Order v1.3 / Prohibition of Counterfactuals / Directionality Ω のスケール遷移 / Reconstruction of Nāgārjuna's Middle Way ほか
+These are not problems to "solve." The positions are **supplied automatically** by the foundation above.
+Each has a residue, but the theory owes no solution (fallibilism); the residues are made explicit in
+`20-open.md`.
+
+### R1. Causation → process theory
+
+Having banned counterfactuals ("if it had been otherwise"), the dominant counterfactual/interventionist
+accounts (Lewis / Woodward) are unavailable. → **Process theory (Salmon / Dowe)**: causation = actual physical
+process / transmission of conserved quantities; look at the actual connections in the actual world. Dependent
+origination, collapse, directionality, dΩ/dt all ride on causation in this sense.
+
+### R2. Modality / probability → actual frequency (frequentist)
+
+With modality (possible worlds) banned, the empirical program still uses probability P(collapse | high Ω).
+→ Treat this probability as **observed frequency** (descriptive). No commitment to modal metaphysics.
+Consistent with the counterfactual ban and the descriptive rule; prediction proceeds fallibly (R3).
+
+### R3. Induction → fallibilism
+
+Nothing guarantees "the future resembles the past" (Hume); all science shares this.
+→ **Do not solve it; bet fallibly.** Directional readings and predictions are offered as falsifiable bets.
+Consistent with F4 ("reliable tracking, not final truth").
+
+### R4. Status of logic / mathematics → mathematical structuralism
+
+"Logic is software" (positioned as normative in F4) — so what is the object of mathematics?
+→ **Mathematical structuralism (Shapiro / Resnik)**: mathematics is the study of structure; that structure
+does work in the world as the real patterns of F5. Pairs with F1 OSR.
+
+---
+
+## References
+
+- note (onsen_ojisan): *Free Will · Settlement Edition* / *Nāgārjuna* / *Two Truths and Reversibility* /
+  *Style as the constituent of the world* / *Inner & Outer Coherence*, and others.
+- Zenodo: *The Pleasure Order v1.3* / *Prohibition of Counterfactuals* / *Directionality Ω and Scale Transition* /
+  *Reconstruction of Nāgārjuna's Middle Way as the Ω Coherence Theory of Mind*, and others.

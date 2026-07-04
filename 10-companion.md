@@ -1,58 +1,70 @@
-# Companion — 思索的・応用的な同伴文書
+# Companion — speculative / applied companion documents
 
-*status: Companion（核ではない）。核から派生した思索・応用。真偽未確定、レンズとして提示。改訂可能。*
-最終更新: 2026-07-04
+*status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
+offered as a lens. Revisable.*
+Last updated: 2026-07-04
 
-これらは `00-frozen-core.md` の核から派生した読み・応用であり、**正典核そのものではない**。
-有力な仮説・レンズとして出すが、断言はしない。
+These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
+core**. They are put forward as strong hypotheses / lenses, not asserted.
 
 ---
 
-## C1. 龍樹-Ω 意識論 — カント／唯識寄りの読み（厳密な中観ではない）
+## C1. Nāgārjuna–Ω theory of mind — a Kant/Yogācāra-flavored reading (not strict Madhyamaka)
 
-出典: Zenodo *Reconstruction of Nāgārjuna's Middle Way as the Ω Coherence Theory of Mind*（2025-11、全5本）
-+ note「龍樹」「二諦と可逆性」。
+Source: Zenodo *Reconstruction of Nāgārjuna's Middle Way as the Ω Coherence Theory of Mind* (Nov 2025, 5 papers)
++ note "Nāgārjuna" and "Two Truths and Reversibility".
 
-**中身**：空＝可逆的整合（dC/dt→0 だが d²C/dt²≠0＝dynamic zero）、中道＝partial(YXCZ)⇄total(Ω)を
-固着なく往復する可逆性、沈黙⇄慈悲＝静的Ω⇄動的Ω。
-これは反固着スパイン（F6）の**起源**であり、価値がある。
+**Content:** emptiness = reversible coherence (dC/dt → 0 but d²C/dt² ≠ 0, a dynamic zero); the Middle Way =
+oscillation between partial (YXCZ) and total (Ω) coherence *without fixation*; silence ⇄ compassion =
+static Ω ⇄ dynamic Ω. This is the **origin** of the anti-fixation spine (F6) and is valuable.
 
-**ただし正直なラベル付け（重要）**：
-この読みは、空を「万物を貫く不変の整合原理／Ω整合場」に**実体化**している
-（「śūnyatā as the invariant principle」「unified field theory of consciousness」）。
-これは龍樹が名指しで禁じる**悪取空**（MMK 13.8「空を見解として把持する者は救い難い」）。
-勝義諦＝空＝無自性であって、"より高い正の実在"ではない。
-→ **これは厳密な中観（Madhyamaka）ではなく、Ω一元論／唯識・カント寄りの構成的形而上学**である。
-そう明記すれば、「悪取空」批判も「中観と唯識の混同」批判も回避できる。
+**Honest labelling (important):**
+This reading **reifies** emptiness into "the invariant principle running through everything / an Ω coherence
+field" ("śūnyatā as the invariant principle", "unified field theory of consciousness"). That is precisely the
+error Madhyamaka warns against — *grasping emptiness as a view* (MMK 13.8: "those who take emptiness as a view
+are incurable"). The ultimate truth = emptiness = absence of svabhāva; it is *not* a higher positive reality.
+→ **This is therefore not strict Madhyamaka but a constructive metaphysics of the Ω-monist / Yogācāra–Kant
+kind.** Saying so explicitly deflects both the "reified emptiness" objection and the "conflating Madhyamaka
+with Yogācāra" objection.
 
-**核との関係**：
-- Ω を「宇宙の実在整合場（グラウンド）」とする箇所は、核（F1: Ω＝記述的読み取りD、実在の場ではない）と対立する。→ **companion に留める**。
-- 「感じ＝宇宙が慈悲を通じて感じる」＝汎心論は、核 F8 の**"未決の一候補"**として残す（機能主義と並ぶ、決着不能な選択肢の一方。OSRと組めば自然に出る）。捨てはしない。
-- 「goodness＝entropy minimization／慈悲＝物理的必然」＝is/oughtを渡る自然主義倫理は、核 F7（非規範）と衝突する。→ companion の思索に留める。
+**Relation to the core:**
+- Where Ω is treated as a "real cosmic coherence field (ground)", it conflicts with the core (F1: Ω = a
+  descriptive reading (D), not a real field). → kept in the companion.
+- "Feeling = the universe feeling through compassion" (panpsychism) is retained only as **one of the undecided
+  options under core F8** (alongside functionalism, an undecidable fork; it falls out naturally when combined
+  with OSR). It is not discarded.
+- "Goodness = entropy minimization / compassion = physical necessity" (a naturalistic ethics crossing is→ought)
+  conflicts with core F7 (non-normative). → kept as companion speculation.
 
-## C2. 文明論 — 枠2＋力3
+## C2. Civilizational theory — 2 frames + 3 forces
 
-出典: note / Zenodo 文明 companion。
+Source: note / Zenodo civilization companion.
 
-文明は BYXCZ 五層と同型ではない。**枠2（B身体・物質、Z時間・歴史）＋力3（Y意味競争、Cs倫理・他者、X観察・メタ）**。
-崩壊勾配：X/Z 弱化 → Cs 摩耗 → Y 暴走 → B 退行。
-Scale Transition（Zenodo）：Ω が世代を超えて存続する carrier は
-交換可能性・非人格的記憶・可逆的訂正・非同一性正当化の4制約を満たすしかない（＝Civilization Level 7＝境界であって理想でない）。
-これらは有力な companion 仮説だが、実証されていない。
+Civilization is not isomorphic to the five BYXCZ layers. **Two frames (B: body/matter, Z: time/history) +
+three forces (Y: competition over meaning, Cs: ethics/others, X: observation/meta).**
+Collapse gradient: X/Z weaken → Cs erodes → Y runs away → regression to B.
+*Scale Transition* (Zenodo): a carrier of Ω persisting across generations must satisfy four constraints
+(carrier replaceability, non-personal memory, reversible correction, non-identity justification) —
+which converge on "Civilization Level 7", treated as a **boundary, not an ideal**. Strong companion hypotheses,
+not established empirically.
 
-## C3. 解脱論 — B/Z/Ω̂
+## C3. Liberation model — B/Z/Ω̂
 
-出典: note 解脱記事 / Zenodo。
+Source: note liberation articles / Zenodo.
 
-個人層の companion。苦の滅＝Z を凍らせない自己適用的不動点（反固着 F6 の自己適用）。
-解脱＝掴まないこと（一つ）、そこから退く道（静的）と還る道（動的）の二向き。
-Hell Fixation（Zenodo）＝個人が固着したロック状態（可逆性喪失・出口無価値化・苦が安定装置）
-＝反固着の喪失端。scope は静謐系のみ（恍惚系は将来課題）。
+An individual-scale companion. Cessation of suffering = a self-applied fixed point that does not freeze Z
+(self-application of anti-fixation, F6). Liberation = "not grasping" (one thing), from which two directions
+open: the withdrawing path (static) and the returning path (dynamic).
+*Hell Fixation* (Zenodo) = the locked state of an individual who has fixated (loss of reversibility, devaluation
+of exit, suffering functioning as a stabilizer) = the loss-end of anti-fixation. Scope: quiescent systems only
+(ecstatic systems are future work).
 
-## C4. 過程的因果史モデル（時間）
+## C4. Processual causal-history model (time)
 
-出典: note「未来は、もう決まっているのか」/ Zenodo。
+Source: note "Is the future already decided?" / Zenodo.
 
-核 F11（時間＝観測の指標）の補助理論。一本の過程的因果史。
-過去＝現在の拘束、未来＝現在に形成される状態空間、主体性＝未来側状態空間形成への参加。
-**強い宇宙論は不採用**（四次元ブロック・宇宙の目的は採らない）。作業前提であって究極構造の断定ではない。
+An auxiliary theory for core F11 (time = an index of observation). A single processual causal history.
+The past = a constraint on the present; the future = a state-space formed within the present; agency =
+participation in forming the future-side state-space.
+**Strong cosmology is not adopted** (no four-dimensional block, no cosmic purpose). It is a working premise,
+not an assertion about the ultimate structure of time.

@@ -1,59 +1,67 @@
-# Open — 意図的に開いている問い
+# Open — deliberately open questions
 
-*status: Open。設計上、埋めない／埋める必要がない。「開いている」と正直に宣言する。*
-最終更新: 2026-07-04
+*status: Open. Not to be filled — by design. Honestly declared open.*
+Last updated: 2026-07-04
 
-著者の掟（Absence of Final Explanation）：**説明は原理的に収束しない**。
-だからこのリストは永遠に閉じない。それは欠陥ではなく設計。
-ここに置くのは、(a) 核に不要で「開」と宣言するもの、(b) Ready-stance の残りカス、(c) 範囲外宣言。
-
----
-
-## O1. 核に不要 — 「開」と宣言する
-
-### 志向性（intentionality）
-表象・言葉がどうやって世界に"ついて"あるのか。核に不可欠ではない。
-方向性としては「実在パターンとの因果的・予測的結合」（F5＋R1）で書けるが、未主題化。→ **開**。
-
-### 他者の心（認識問題）
-他人に内的経験があるとどう知るか。
-実践的には間主観性（F2）＋類推＋実在パターンとして扱う。
-だが認識論的問題としての解決は据え置き。→ **開**（慈悲・共感は機構として core/companion にあるが、認識問題は別）。
-
-### 死・有限性
-個人の終端・回収不能（Irrecoverability）を核に持つのに、死そのものの意味は未展開。
-解脱論（C3）の自然な延長として書ける。→ **開**（書けば埋まる、未着手）。
-
-## O2. 範囲外宣言（gap ではない）
-
-- **美学**：appearance channel に「美」を列挙するに留める。
-- **宗教哲学**：解脱論（C3）で足りる。それ以上は範囲外。
-- **政治理論の細部**：Meta-Ethical Governance（Zenodo）で枠だけ。細部は範囲外。
-- **指示論の細部**：範囲外。
-
-これらは核の掟に沿って「開いている」と宣言し、埋めようとしない。
-
-## O3. Ready-stance の残りカス（`00-frozen-core.md` §Ⅲ の各批判点）
-
-各 Ready-stance は防御可能な立場だが、"解いた"のではない。以下の残りカスを正直に開く：
-
-- **R1 因果＝過程説**：過程説一般への批判（欠如因果・因果の方向性など）。→ 開。
-- **R2 確率＝実際頻度**：頻度説の参照クラス問題／「would continue」に潜む様相の残り。→ 開。
-- **R3 帰納**：原理的に未解決（全科学共通）。可謬的に賭ける、以上は言わない。→ 開（設計通り）。
-- **R4 数学＝構造主義**：「関係項なき関係（relations without relata）」批判。→ 開。
-
-## O4. 意識のフォーク（F8 の内実）
-
-「感じ＝構造の一部（機能主義）／構造の内在的本性（ラッセル的一元論＝原-汎心論）」は
-肘掛け椅子では決着不能 → **両方を未決の候補として開く**。
-どちらにも言い切らない。外→内の橋（ハードプロブレム）は観察限界の外。→ 開（原理的に）。
+The author's principle (Absence of Final Explanation): **explanation does not, in principle, converge.**
+So this list never closes. That is not a defect but the design.
+Placed here: (a) things not needed by the core, declared open; (b) residues of the Ready-stances;
+(c) out-of-scope declarations.
 
 ---
 
-## メタ：なぜ「開」を明示するか
+## O1. Not needed by the core — declared open
 
-理論の核（F6 反固着・可逆性）が「固着＝死」なら、
-**すべてを閉じた doctrine にすること自体が、理論の自己否定**になる。
-だから「開」を正直に印すことは、弱さの告白ではなく、**理論の一貫性の証明**である。
-リポジトリが三層（Frozen/Companion/Open）で status を打つのは、
-Scale Transition の4制約（可逆的訂正・非人格的記憶…）を、理論自身のテキストに体現させるため。
+### Intentionality
+How representations / words come to be "about" the world. Not essential to the core.
+As a direction it can be written as "causal / predictive coupling with real patterns" (F5 + R1), but it is not
+developed. → **Open.**
+
+### Other minds (the epistemological problem)
+How one knows that other people have inner experience.
+Handled in practice by intersubjectivity (F2) + analogy + treatment as real patterns.
+But its resolution *as an epistemological problem* is shelved. → **Open** (empathy/compassion exist as
+mechanisms in core/companion, but the epistemic problem is separate).
+
+### Death / finitude
+The core holds individual terminality / irrecoverability, yet the *meaning of death itself* is undeveloped.
+Writable as a natural extension of the liberation model (C3). → **Open** (writable, not yet undertaken).
+
+## O2. Out-of-scope declarations (not gaps)
+
+- **Aesthetics** — leave "beauty" as an item in the appearance channels; no more.
+- **Philosophy of religion** — the liberation model (C3) suffices; beyond that is out of scope.
+- **Political theory (detail)** — only the frame, via *Meta-Ethical Governance* (Zenodo); detail is out of scope.
+- **Theory of reference (detail)** — out of scope.
+
+These are declared "open" in keeping with the core principle and are not to be filled.
+
+## O3. Residues of the Ready-stances ([`00-frozen-core.md`](./00-frozen-core.md) §III)
+
+Each Ready-stance is a defensible position, not a "solution." The following residues are honestly opened:
+
+- **R1 causation = process theory**: general objections to process theories (absence-causation, the direction
+  of causation, etc.). → open.
+- **R2 probability = actual frequency**: the reference-class problem / the modal residue hidden in "would
+  continue". → open.
+- **R3 induction**: unsolved in principle (shared by all science). We say no more than "bet fallibly." → open
+  (by design).
+- **R4 mathematics = structuralism**: the "relations without relata" objection. → open.
+
+## O4. The consciousness fork (the inside of F8)
+
+"Feeling = part of the structure (functionalism) / the intrinsic nature of the structure (Russellian monism ≈
+proto-panpsychism)" is undecidable from the armchair → **both kept as undecided options, open.**
+No commitment either way. The outer→inner bridge (the hard problem) is beyond the observation limit. →
+**open (in principle).**
+
+---
+
+## Meta: why openness is made explicit
+
+If the theory's core (F6, anti-fixation / reversibility) says "fixation = death", then
+**turning everything into a closed doctrine would be the theory's own self-negation.**
+So honestly marking things "open" is not a confession of weakness but a **demonstration of the theory's
+consistency.** The repository's three tiers (Frozen / Companion / Open), each carrying a status, exist to make
+the theory's own text embody the four scale-transition constraints (reversible correction, non-personal
+memory, and the rest).

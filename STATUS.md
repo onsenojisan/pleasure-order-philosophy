@@ -1,56 +1,57 @@
-# STATUS — 哲学命題 台帳
+# STATUS — Ledger of Philosophical Propositions
 
-*快の秩序論に必要な哲学命題の、層・状態・一行立場の一覧。*
-最終更新: 2026-07-04
+*Every proposition needed for The Pleasure Order, with its tier, status, and one-line position.*
+Last updated: 2026-07-04
 
-「必要」の意味：理論が自分の主張のために背負う分（load-bearing）。
-著者の掟（Absence of Final Explanation）により、全哲学は原理的に尽きない。
-だから目標は「全部解く」ではなく、各命題に **立場を書く / 開いていると宣言する** のどちらかを与えること。
+"Needed" means: load-bearing — what the theory owes for its own claims.
+By the author's own principle (Absence of Final Explanation), the full list of philosophy never closes.
+So the goal is not "solve everything" but to give each proposition either **a written position** or an
+honest **declaration that it is open**.
 
 ---
 
-## Frozen 核（決着済み — `00-frozen-core.md`）
+## Frozen core (settled — [`00-frozen-core.md`](./00-frozen-core.md))
 
-| # | 命題 | 一行立場 |
+| # | Proposition | One-line position |
 |---|---|---|
-| F1 | 形而上学 | **存在論的構造実在論（OSR）**。世界＝関係・様式、内在的な床なし。Ω＝構造の記述的読み取り（D）。 |
-| F2 | 実在論 | **方法論的仮置き**。世界は実在・先立つ・共有（間主観性が根拠）を、workable＋逃げ防止のために置く。形而上学的断言ではない。＝俗諦の正用。 |
-| F3 | 認識論 | **間接実在論（一世界版）＋究極グラウンドは沈黙**。再構成を通して依存的世界に部分アクセス。自性の床は在無決着不能・触れられない → 断言せず形も与えない。 |
-| F4 | 真理論 | 対応（神の視点）＝届かない・沈黙／構造的・可謬的・実用的真理＝届く（実在パターン＝圧縮・予測）／論理＝規範（心理主義でない）。 |
-| F5 | 様式（パターン） | **実在パターン（Dennett）**。世界側で仕事（圧縮・予測・拘束）／拾う粒度は観察者相対。五感の限界は"構造を渡し実体を渡さない"＝OSRを駆動。 |
-| F6 | 中核基準 | **反固着・可逆性**。fixation＝カテゴリの死。理論全体の背骨（龍樹論 2025-11 が起源）。 |
-| F7 | 非規範 | 仮言命法のみ。Ω＝記述であって価値でない。 |
-| F8 | 意識・クオリア | **観察限界の外として棚上げ**（原理的不可知）。内側終端＝龍樹、外側＝科学に開く、外→内の橋だけ決着不能。機能主義にも汎心論にも言い切らない。 |
-| F9 | 規範の握力 | **非規範で確定**。理論はcategoricalに縛らない。不整合／短期快を選ぶのも主体の自由。反-escapismは仮言命法（命令でない）。深い"なぜ気にかけるか"は開。 |
-| F10 | 自由意志 | **決着済（note 決着編 2025-11）**。行動＝完全決定論／主体性＝Intrinsic Directionality（方向性）。 |
-| F11 | 時間（核） | 時間＝関係・変化の観測（Z層の指標）。実体でない。 |
-| F12 | 自己・持続 | 様式の維持（同一物の保存でなく、変化の中の秩序）。 |
-| F13 | 心的因果 | **Kim排除問題への答え**：方向性は別立ての因果でなく、低次パターンへの構造的制約（＝OSRで逃げる）。 |
+| F1 | Metaphysics | **Ontic Structural Realism (OSR)**. World = relations / patterns; no intrinsic ground. Ω = a descriptive reading of structure (D). |
+| F2 | Realism | **Methodological posit**. The world is real, prior, and shared (grounded in intersubjectivity), adopted for workability + as a guard against escapism — not a metaphysical assertion. Correct use of conventional truth. |
+| F3 | Epistemology | **Indirect realism (one-world) + silence on the ultimate ground**. We access the dependent world partially via reconstruction. Whether there is a self-standing ground is undecidable / untouchable → no assertion, no shape given. |
+| F4 | Truth | Correspondence (God's-eye) = unreachable / silent. Structural, fallible, pragmatic truth = reachable (real patterns that compress / predict). Logic = normative (not psychologism). |
+| F5 | Patterns (styles) | **Real Patterns (Dennett)**. They do objective work (compress / predict / constrain); which ones are salient is observer-grain-relative. The five-sense limit "hands over structure, not substance" → it *drives* OSR. |
+| F6 | Core criterion | **Anti-fixation / reversibility**. Fixation = the death of a category. The spine of the whole theory (origin: the Nāgārjuna papers, Nov 2025). |
+| F7 | Non-normative | Hypothetical imperatives only. Ω is descriptive, not a value. |
+| F8 | Consciousness / qualia | **Shelved as beyond the observation limit** (principled agnosticism). Inner terminus = Nāgārjuna; outer side = open to science; only the outer→inner bridge is undecidable. No commitment to functionalism *or* panpsychism. |
+| F9 | Grip of normativity | **Settled as non-normative**. The theory imposes no categorical "ought". Choosing inconsistency / short-term pleasure is the agent's freedom. Anti-escapism is a hypothetical imperative, not a command. The deep "why care at all" is left open. |
+| F10 | Free will | **Settled (note, Nov 2025)**. Action layer = full determinism; agency = Intrinsic Directionality. |
+| F11 | Time (core) | Time = the observation of coherence-change (an index of the Z layer), not a substance. |
+| F12 | Self / persistence | Maintenance of a *style*, not preservation of an identical thing. |
+| F13 | Mental causation | **Answer to Kim's exclusion problem**: directionality is not a rival cause but a structural constraint on lower-order patterns (escapes via OSR). |
 
-## Ready-stance（基礎から出る立場 — 書き留めるだけ、`00-frozen-core.md` §Ⅲ）
+## Ready-stance (follows from the foundation — just write it down; [`00-frozen-core.md`](./00-frozen-core.md) §III)
 
-| # | 命題 | 一行立場 | 残りカス（→Open） |
+| # | Proposition | One-line position | Residue (→ Open) |
 |---|---|---|---|
-| R1 | 因果 | **過程説**（Salmon/Dowe：実際の過程・保存量の伝達。反実仮想禁止と整合） | 過程説一般への批判 |
-| R2 | 様相・確率 | **実際頻度（frequentist）**。P(崩壊\|高Ω)＝実際に起きた頻度。様相の形而上学にコミットしない。 | 参照クラス問題 |
-| R3 | 帰納 | **可謬主義**。解かない（誰も解いていない）、可謬的に賭ける。 | 原理的に未解決（全科学共通） |
-| R4 | 論理・数学の身分 | **数学的構造主義**（＝F1 OSRと対）。数学は構造を捉え、その構造は実在パターンとして世界で仕事をする。 | 「関係項なき関係」批判 |
+| R1 | Causation | **Process theory** (Salmon / Dowe): actual physical process / transmission of conserved quantities. Consistent with the counterfactual ban. | general objections to process theories |
+| R2 | Modality / probability | **Actual frequency (frequentist)**. P(collapse\|high Ω) = observed frequency. No commitment to modal metaphysics. | reference-class problem |
+| R3 | Induction | **Fallibilism**. Not solved (nobody solves it); we bet fallibly. | in-principle unsolved (shared by all science) |
+| R4 | Status of logic / mathematics | **Mathematical structuralism** (pairs with F1 OSR): math captures structure, which works in the world as real patterns. | "relations without relata" objection |
 
-## Companion（思索・応用 — `10-companion.md`）
+## Companion (speculative / applied — [`10-companion.md`](./10-companion.md))
 
-| 命題 | 位置づけ |
+| Proposition | Positioning |
 |---|---|
-| 龍樹-Ω 意識論（2025-11 全5本） | **カント／唯識寄りと明記**（厳密な中観でない）。空をΩ整合場に実体化した箇所は悪取空 → 核でなく companion。汎心論はF8の"未決の一候補"として残す。 |
-| 文明論（枠2＋力3） | 応用・思索。BYXCZ五層同型は不採用。 |
-| 解脱論（B/Z/Ω̂） | 個人層の companion。反固着の自己適用。 |
-| 過程的因果史モデル（時間） | 補助理論。強い宇宙論は不採用。 |
+| Nāgārjuna–Ω theory of mind (5 papers, Nov 2025) | **Labelled Kant/Yogācāra-flavored (not strict Madhyamaka)**. Where it reifies emptiness into an "Ω coherence field" it commits the error Madhyamaka warns against → companion, not core. Panpsychism kept only as *one undecidable option* under F8. |
+| Civilizational theory (2 frames + 3 forces) | Applied / speculative. The five-layer isomorphism is dropped. |
+| Liberation model (B/Z/Ω̂) | Individual-scale companion. Self-application of anti-fixation. |
+| Processual causal-history model (time) | Auxiliary theory. Strong cosmology is not adopted. |
 
-## Open（意図的に開く — `20-open.md`）
+## Open (deliberately open — [`20-open.md`](./20-open.md))
 
-| 命題 | 扱い |
+| Proposition | Treatment |
 |---|---|
-| 志向性 | 開（表象が世界に"ついて"ある機構は薄い） |
-| 他者の心（認識問題） | 開（間主観性＋類推で実践、認識問題は据え置き） |
-| 死・有限性 | 開（Irrecoverability の延長として書ける、未主題化） |
-| 美学・宗教哲学・政治詳細・指示論 | 範囲外宣言 |
-| Ready-stance の残りカス | R1〜R4 の各批判点を明示的に「開」 |
+| Intentionality | Open (the mechanism by which representation is "about" the world is thin) |
+| Other minds (epistemology) | Open (handled in practice by intersubjectivity + analogy; the epistemological problem is shelved) |
+| Death / finitude | Open (writable as an extension of Irrecoverability; not yet developed) |
+| Aesthetics / philosophy of religion / political detail / theory of reference | Declared out of scope |
+| Residues of the Ready-stances | R1–R4 objection points explicitly left open |
