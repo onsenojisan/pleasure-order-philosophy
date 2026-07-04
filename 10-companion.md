@@ -68,3 +68,49 @@ The past = a constraint on the present; the future = a state-space formed within
 participation in forming the future-side state-space.
 **Strong cosmology is not adopted** (no four-dimensional block, no cosmic purpose). It is a working premise,
 not an assertion about the ultimate structure of time.
+
+## C5. The developmental origin of self and valuation ("proto-ethics")
+
+Source: note *Proto-Ethics and the Birth of Z* (Parts 1–2, Oct 2025) — the earliest prologue of the theory,
+and the historical origin of the anti-fixation spine and of "pleasure = coherence".
+
+**Claim as originally written:** the self and the sense of good/bad co-emerge, before language, through the
+caregiver's gaze (recognition, love); the collapse of that particular bond is the "saints' fear"; liberation
+universalizes it into non-particular compassion.
+
+**Scientific status — honestly split (this companion asserts no more than the tier below permits):**
+
+*Well-supported (citeable developmental science):*
+Pre-linguistic **dyadic / biobehavioral synchrony** between infant and caregiver — heart-rate, gaze, and
+affect coordination (Tronick's *still-face* paradigm; Feldman's *biobehavioral synchrony*; Trevarthen's
+*primary intersubjectivity / protoconversation*; Stern's *affect attunement*). The description "proto-ethics =
+the minimal cross-individual coherence that stabilizes survival" tracks this real phenomenon.
+
+*Supported for the narrative self, but overstated as "consciousness":*
+The **narrative / reflective self** is substantially shaped through the caregiver relation (Winnicott, "the
+mother's face is the precursor of the mirror"; Cooley/Mead's *looking-glass self*). **But** a **bodily /
+minimal self** precedes it and is not primarily socially constituted (Gallagher's *minimal self*; Neisser's
+*ecological self*). So "consciousness arises from the mother's gaze" **overstates**: it conflates the narrative
+self with consciousness/feeling as such, which core **F8** keeps shelved.
+
+*A plausible gloss, not established:*
+"Good/bad is born specifically at the moment of the gaze." Early **social evaluation** in infants is a real but
+**contested** finding (Hamlin/Wynn/Bloom helper–hinderer studies, with replication debates), and attachment
+shapes moral-emotional development — but the specific *origin-event* claim is a philosophical narrative, not a
+proven empirical result.
+
+*Not scientific (speculative / phenomenological):*
+The "saints' fear", and **ZZ integration as a fact achieved by the Buddha**, assert an inner state beyond the
+observation limit (core **F3, F8**) → the "achieved fact" is **withdrawn**; kept only as a phenomenological
+hypothesis (same bucket as C1's reification). "Pleasure = coherence" as an identity, and C(t) / P = dC/dt as
+neuroscience, are the **theory's own constructs, not established findings**.
+
+**What survives into the core:**
+- *Good/bad is not in the world but is born relationally* → the developmental natural-history of
+  **value-as-appearance** (F7) and of the **grip of caring as a fact with an origin** (F9).
+- *Liberation transcends the fixated particular "good"* → **anti-fixation (F6) applied to valuation +
+  the liberation model (C3)**: value is an appearance, so its grip can be released.
+
+**Retracted / downgraded from the original prologue:** "pleasure = coherence" (identity — retracted in v1.2);
+"coherence = good" (would violate F7 non-normative — kept descriptive only); "the Buddha's ZZ integration is an
+achieved fact" (beyond the observation limit — withdrawn to a hypothesis).

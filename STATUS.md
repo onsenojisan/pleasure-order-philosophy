@@ -45,6 +45,7 @@ honest **declaration that it is open**.
 | Civilizational theory (2 frames + 3 forces) | Applied / speculative. The five-layer isomorphism is dropped. |
 | Liberation model (B/Z/Ω̂) | Individual-scale companion. Self-application of anti-fixation. |
 | Processual causal-history model (time) | Auxiliary theory. Strong cosmology is not adopted. |
+| Developmental origin of self & valuation (proto-ethics, Oct 2025 prologue) | **Partly citeable science, partly speculative.** Infant biobehavioral synchrony = well-supported (Tronick/Feldman/Trevarthen/Stern). "Consciousness from the gaze" overstates; "good/bad born at the gaze" unestablished; Buddha's ZZ-integration = withdrawn (beyond observation limit). Surviving core: good/bad as relationally-born appearance (→F7/F9), liberation beyond fixated good (→F6/C3). |
 
 ## Open (deliberately open — [`20-open.md`](./20-open.md))
 
