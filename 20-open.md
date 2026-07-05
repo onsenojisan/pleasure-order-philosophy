@@ -1,10 +1,11 @@
 # Open — deliberately open questions
 
 *status: Open. Not to be filled — by design. Honestly declared open.*
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
-The author's principle (Absence of Final Explanation): **explanation does not, in principle, converge.**
-So this list never closes. That is not a defect but the design.
+The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
+the five demands are never jointly met, so **explanation does not, in principle, converge.**
+So this list never closes — by F0 that is principled design, not a defect (and not a backlog).
 Placed here: (a) things not needed by the core, declared open; (b) residues of the Ready-stances;
 (c) out-of-scope declarations.
 
@@ -24,7 +25,8 @@ But its resolution *as an epistemological problem* is shelved. → **Open** (emp
 mechanisms in core/companion, but the epistemic problem is separate).
 
 ### Death / finitude
-The core holds individual terminality / irrecoverability, yet the *meaning of death itself* is undeveloped.
+The theory holds individual terminality / irrecoverability (the individual-level C4 face of **F0**; companion C8),
+yet the *meaning of death itself* is undeveloped.
 Writable as a natural extension of the liberation model (C3). → **Open** (writable, not yet undertaken).
 
 ### A serious Nietzsche reading (future companion)
@@ -41,6 +43,11 @@ that "the peak-seeker rightly declines this path") — and would note that his d
 - **Philosophy of religion** — the liberation model (C3) suffices; beyond that is out of scope.
 - **Political theory (detail)** — only the frame, via *Meta-Ethical Governance* (Zenodo); detail is out of scope.
 - **Theory of reference (detail)** — out of scope.
+- **The Coherence Index / measurement of dC/dt** — how to operationalize coherence change (functional
+  connectivity, phase-locking, prediction-error, HRV; see `10-companion.md` C7 Appendix C) is **open and handed
+  to the empirical Ω_proxy program**, not settled in the philosophy skeleton.
+- **Popular essay series** (生の余白論, 日常の構造, 人間の可能性 ①–⑤⑦) — accessible presentations of
+  F10/F12/BYXCZ/F0, not load-bearing propositions; deliberately out of scope for this skeleton.
 
 These are declared "open" in keeping with the core principle and are not to be filled.
 

@@ -1,14 +1,59 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
 
 ---
 
-## I. The spine (eight commitments)
+## 0. Foundation — the thesis beneath the governing rule
+
+*status: Frozen — as a **thesis with a proved formal core (F0-L)**, not a theorem over all possible systems. The Open tier is its principled consequence, not a backlog.*
+
+### F0. The Irrecoverability Schema — why "silence about the unreachable" is principled, not arbitrary
+
+*(Terminology: "irrecoverability" here is the meta-level sense — the five demands below are never jointly recovered. The individual-level sense — some concrete losses are never recovered — is this schema's C4 face, handled in companion C8 and the death/finitude item in `20-open.md`.)*
+
+Philosophy tacitly wants one system to satisfy five conditions at once:
+
+- **C1 — completeness of explanation:** a description/explanation system E finally and consistently explains the world W.
+- **C2 — integrity of the subject:** the subject S (experience, self-identity) is identifiable within E and survives as the bearer of E.
+- **C3 — integrity of the normative:** a value system V connects to W and E without contradiction and carries objective binding force.
+- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V.
+- **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
+
+**Thesis (no joint satisfaction).** No system examined satisfies C1–C5 simultaneously under their strong readings. Every candidate has (i) silenced / shelved a condition, (ii) swapped a condition for something weaker, or (iii) bought it with a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
+
+**Why (intuition, not proof).** Closing W (total explanation) costs E its external warrant and makes V's ground circular; securing S re-opens W (the subject becomes a privileged point); objectifying V leaps from is to ought; forcing A→R smuggles a "settling-of-accounts" mechanism into W; non-circularizing the ground forces an external terminus. Erecting "total explanation + subject + norm + recovery + ground" at once has, in every examined system, left a privileged point, a leap, or a circle somewhere. *That* is what "unsolved" actually is.
+
+**The payments are enumerable (P1–P7):** external warrant · silence/termination · de-normativization · thinning the subject · two-layering · smuggling a recovery mechanism · dissolving the question. "P-move" is descriptive, not pejorative — and a system that never demands all five (e.g. a naturalism that simply rejects C3/C5) is not "evading"; it is outside the schema's scope. The claim is conditional: *if* all five are demanded, payment happens somewhere.
+
+**Modality, stated honestly.** The thesis says "never yet achieved, and structurally hard" — not a God's-eye "impossible". Asserting impossibility over all possible systems would itself require a privileged external standpoint (iii), the very move the schema tracks; so F0 applies **P2 to itself** and does not claim to be a final theorem. It is frozen as the theory's considered bet (R3), and it is falsifiable in the operative sense: exhibit a system meeting C1–C5 under the stated readings without a P-move, and F0 falls.
+
+**Genealogy (borrowed on purpose).** F0 composes known limitative results rather than inventing one: C5 is Agrippa's trilemma (regress / circle / dogma); C3 is Hume's is–ought gap; the C1∧C2 corner is the self-reference territory of Gödel and Tarski. What is added is the composition — reading the classical "unsolved problems" as five faces of a single joint-satisfaction failure — not a new impossibility result.
+
+**F0-L (the formal core — the one corner that is actually provable).** Read C1 as *deductive completeness* and C2 as *self-inclusion*. Then four individually reasonable demands are jointly unsatisfiable:
+
+- **(A) consistency** — E proves no contradiction;
+- **(B) self-inclusion** — facts about E itself (what it asserts, what is true of it) are among the world-facts E must cover;
+- **(C) expressiveness** — E can encode its own syntax (interprets Robinson arithmetic);
+- **(D) completeness** — E decides every fact in its scope.
+
+By Gödel's first incompleteness theorem, A + C + D cannot hold together for an effectively axiomatized E; reading C1 instead as "E contains its own truth predicate", Tarski's undefinability theorem collapses A. Each demand is independently necessary — drop any one and the rest are jointly satisfiable: drop **D** → consistent but incomplete description (exactly this theory's F4/R3); drop **C** → complete but self-blind systems (Presburger arithmetic); drop **B** → explanation from outside the world (Platonism, the God's-eye seat); drop **A** → paraconsistency. This is an Arrow-style impossibility: individually reasonable demands, jointly unsatisfiable. For *this corner*, "give up completeness → stay silent about the remainder" is not a stylistic preference; it is the only exit that preserves consistency, self-inclusion and expressiveness.
+
+**Defending the reading (does "explain" really entail "decide"?).** The natural objection is that "completely explain the world" need not mean "decide every sentence": a structural explanation might owe no verdict on pathological self-referential sentences (the liar, a Gödel sentence), so Gödel/Tarski would not bite. Two replies keep the corner alive. (1) *Gödel's **second** theorem needs no pathological sentence.* "Is E itself consistent?" — Con(E) — is a materially meaningful, non-contrived fact; a world that includes E (B) must, under completeness (D), have it settled by E; but no consistent self-representing E proves its own Con(E). Completeness already fails on the most basic self-reflective fact, with no liar in sight. (2) *The exclusion cannot be had cleanly.* To wave the pathological sentences away, E needs a principled, **complete** criterion sorting "genuine world-facts" from "non-facts" — but that criterion is a self-applied total meaningfulness/truth predicate over E's own language, which diagonalizes straight back into Tarski. So "just don't decide the pathological ones" is either itself incomplete or reintroduces the predicate that collapses A. The one clean exit stays dropping **B** — deny that E's own consistency is a fact E must account for, i.e. place the explanation partly outside the world (move iii, the God's-eye seat). Honest residue: a purely non-statable "explanation", if coherent at all, escapes — but is then not explanation in any assertible sense.
+
+**Scope discipline (what F0-L does not show).** (i) It binds any reading on which a complete explanation must settle facts about its own system — including its own consistency (see the defense above). A notion of explanation that is *not self-including* (owes no account of itself) escapes, but only by dropping B — move (iii); a purely non-statable "explanation" is outside the bite but arguably not explanation at all. (ii) The "self" doing the work is **syntactic self-modeling**, not an experiencing subject — F0-L shows a system cannot completely model itself; it says nothing about consciousness (which stays shelved under F8). (iii) It covers the C1∧C2 corner only; C3, C4 and C5 remain philosophical territory, carried by Hume and Agrippa, not by proof.
+
+**Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 no recovery device is smuggled in — non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+
+Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
+
+---
+
+## I. The spine (eight commitments, F1–F8)
 
 ### F1. Metaphysics = Ontic Structural Realism (OSR)
 
@@ -85,6 +130,11 @@ coherence; the Middle Way = oscillation without fixation"). *Cessation is death;
 
 The theory is **descriptive** and admits **hypothetical imperatives only** ("if you want to avoid X, then do
 Y"). Ω is descriptive, not a value or a good. No categorical "ought" is derived.
+
+(This is not in tension with F4's "logic is normative": F4 concerns *epistemic / formal* normativity — the
+standards by which an inference is valid or a claim true — whereas F7 concerns *practical / evaluative*
+normativity — what one ought to do or value. F0-L's completeness limit lives at F4's level; F7 denies only the
+practical/categorical ought.)
 
 ### F8. Consciousness / qualia (closed by the observation limit)
 

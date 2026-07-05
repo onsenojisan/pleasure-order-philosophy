@@ -1,6 +1,6 @@
 # The Pleasure Order — Philosophy Core
 
-*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-04 · License: CC-BY 4.0*
+*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-05 · License: CC-BY 4.0*
 
 Japanese source of the underlying deliberation is kept in [`ja/`](./ja).
 
@@ -51,6 +51,11 @@ The ultimate ground, the thing-in-itself, and the deep fact of "why there is fee
 **observation limit** → *silence / shelved*. The structure of the shared, appeared world (real patterns),
 by contrast, is reached fallibly through compression and prediction → *described*. This asymmetry generates
 every position below.
+
+Why this rule is not arbitrary: **F0** in [`00-frozen-core.md`](./00-frozen-core.md) (the Irrecoverability
+Schema) records that the five classical demands — total explanation, subject, objective norm, action-recovery,
+final ground — are never jointly met: *proved* for the self-reference corner (Gödel / Tarski), held as a
+fallible bet elsewhere. The rule is this theory's chosen payment under that schema (silence + description).
 
 ## Language
 
