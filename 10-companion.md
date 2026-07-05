@@ -174,8 +174,9 @@ correlate*, not an identity.
 (amygdala / insula / ACC / DMN …) are **the theory's own constructs, offered as a lens — not established
 neuroscience**; the mapping is illustrative and the identity is a functional correlate only (asserting more
 would repeat the retracted S2 identity error). Two internal tensions kept visible: (i) the duality text equates
-the zero-crossing with śūnyatā as a *static* point where "time stops" — this **conflicts with C1** (emptiness =
-reversible coherence = a *dynamic* zero, d²C/dt² ≠ 0, not stasis); (ii) its soteriological / ethical language
+the zero-crossing with śūnyatā as a *static* point where "time stops" — this **conflicts with C1**, whose
+reading of the zero-point is canonical here: emptiness = reversible coherence = a *dynamic* zero
+(d²C/dt² ≠ 0, not stasis); (ii) its soteriological / ethical language
 ("liberation", "compassion", design principles for AI / education) crosses is→ought and is retained only as
 hypothetical imperatives (F7).
 

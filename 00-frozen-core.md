@@ -51,7 +51,7 @@ Two further consequences stay in the companion, not the core: why humans nonethe
 
 ---
 
-## I. The spine (eight commitments)
+## I. The spine (eight commitments, F1–F8)
 
 ### F1. Metaphysics = Ontic Structural Realism (OSR)
 
@@ -128,6 +128,11 @@ coherence; the Middle Way = oscillation without fixation"). *Cessation is death;
 
 The theory is **descriptive** and admits **hypothetical imperatives only** ("if you want to avoid X, then do
 Y"). Ω is descriptive, not a value or a good. No categorical "ought" is derived.
+
+(This is not in tension with F4's "logic is normative": F4 concerns *epistemic / formal* normativity — the
+standards by which an inference is valid or a claim true — whereas F7 concerns *practical / evaluative*
+normativity — what one ought to do or value. F0-L's completeness limit lives at F4's level; F7 denies only the
+practical/categorical ought.)
 
 ### F8. Consciousness / qualia (closed by the observation limit)
 
