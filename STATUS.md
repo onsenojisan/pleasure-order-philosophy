@@ -4,7 +4,7 @@
 Last updated: 2026-07-05
 
 "Needed" means: load-bearing — what the theory owes for its own claims.
-By the author's own principle (Absence of Final Explanation), the full list of philosophy never closes.
+By the author's own principle (Absence of Final Explanation — frozen as **F0**), the full list of philosophy never closes.
 So the goal is not "solve everything" but to give each proposition either **a written position** or an
 honest **declaration that it is open**.
 
@@ -14,7 +14,7 @@ honest **declaration that it is open**.
 
 | # | Proposition | One-line position |
 |---|---|---|
-| F0 | Foundation (meta-theorem) | **Irrecoverability Theorem**: no system jointly satisfies {total explanation, subject, objective norm, action-recovery, non-circular ground} (C1–C5). The governing rule *and* the Open tier are forced by this, not chosen. Held fallibly (R3). |
+| F0 | Foundation (schema + lemma) | **Irrecoverability Schema**: the five demands {total explanation, subject, objective norm, action-recovery, non-circular ground} (C1–C5) are never jointly met — every system pays via P1–P7. Formal core **F0-L** proved for the C1∧C2 corner only (Gödel/Tarski, Arrow-style); C3/C4/C5 remain a motivated thesis (Hume + Agrippa), held fallibly (R3). **Licenses** — and on F0-L's corner forces — the governing rule; keeps the Open tier principled. |
 | F1 | Metaphysics | **Ontic Structural Realism (OSR)**. World = relations / patterns; no intrinsic ground. Ω = a descriptive reading of structure (D). |
 | F2 | Realism | **Methodological posit**. The world is real, prior, and shared (grounded in intersubjectivity), adopted for workability + as a guard against escapism — not a metaphysical assertion. Correct use of conventional truth. |
 | F3 | Epistemology | **Indirect realism (one-world) + silence on the ultimate ground**. We access the dependent world partially via reconstruction. Whether there is a self-standing ground is undecidable / untouchable → no assertion, no shape given. |
@@ -49,7 +49,7 @@ honest **declaration that it is open**.
 | Developmental origin of self & valuation (proto-ethics, Oct 2025 prologue) | **Partly citeable science, partly speculative.** Infant biobehavioral synchrony = well-supported (Tronick/Feldman/Trevarthen/Stern). "Consciousness from the gaze" overstates; "good/bad born at the gaze" unestablished; Buddha's ZZ-integration = withdrawn (beyond observation limit). Surviving core: good/bad as relationally-born appearance (→F7/F9), liberation beyond fixated good (→F6/C3). |
 | The Suffering Order (−dC/dt) (C7) | Dual of pleasure. Suffering = coherence-collapse rate; all forms unified as *causal inversion* = F6 at the affective scale. Misfire (false-pleasure / false-suffering) qualifies pleasure = dC/dt as correlate-only. Identity + neuroanatomy = theory's own constructs (S2/C5-grade labelling). Appendix B supersedes "social-YXCZ" (S6); Appendix C → empirical / Open. |
 | Directionality & AI — meaning without stake B (C6) | AI generates meaning (Y) but not directionality Ω; the layer impossible *in principle* is **B (stake)**, not Z (Z bloats). "6" meta-control without internalized 5 → constraints become optimization targets → external Ω proxied (= collapse-gate mechanism). A stance/bet (author's framing); prescriptions = hypothetical imperatives (F7). |
-| Abstraction-based coping — AA (C8) | The irrecoverable (F0) "processed as handled" via meaning/story/justification: local coherence ↑, global stability ↓. Individual-scale counterpart of F0's demand-for-explanation; F6 seen from inside. **Unresolved sign-flip**: AA as refusal-of-recovery vs Ω̂ as repair capacity. |
+| Abstraction-based coping — AA (C8) | The irrecoverable (the individual-level C4 face of F0) "processed as handled" via meaning/story/justification: local coherence ↑, global stability ↓. Individual-scale counterpart of F0's demand-for-explanation; F6 seen from inside. **Unresolved sign-flip**: AA as refusal-of-recovery vs Ω̂ as repair capacity. |
 
 ## Open (deliberately open — [`20-open.md`](./20-open.md))
 
@@ -58,7 +58,7 @@ honest **declaration that it is open**.
 | Intentionality | Open (the mechanism by which representation is "about" the world is thin) |
 | Other minds (epistemology) | Open (handled in practice by intersubjectivity + analogy; the epistemological problem is shelved) |
 | Death / finitude | Open (writable as an extension of Irrecoverability; not yet developed) |
-| Aesthetics / philosophy of religion / political detail / theory of reference | Declared out of scope |
+| Aesthetics / philosophy of religion / political detail / theory of reference / Coherence-Index measurement (→ empirical Ω_proxy program) / popular essay series (生の余白論・日常の構造・人間の可能性 ①–⑤⑦) | Declared out of scope |
 | Residues of the Ready-stances | R1–R4 objection points explicitly left open |
 | A serious Nietzsche reading | Future work; the early Hatena layer-mapping is not adopted (superficial, misreads the Übermensch) |
 

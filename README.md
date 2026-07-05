@@ -52,6 +52,11 @@ The ultimate ground, the thing-in-itself, and the deep fact of "why there is fee
 by contrast, is reached fallibly through compression and prediction → *described*. This asymmetry generates
 every position below.
 
+Why this rule is not arbitrary: **F0** in [`00-frozen-core.md`](./00-frozen-core.md) (the Irrecoverability
+Schema) records that the five classical demands — total explanation, subject, objective norm, action-recovery,
+final ground — are never jointly met: *proved* for the self-reference corner (Gödel / Tarski), held as a
+fallible bet elsewhere. The rule is this theory's chosen payment under that schema (silence + description).
+
 ## Language
 
 English is primary. The Japanese source of the deliberation (from which this was distilled) is in [`ja/`](./ja).

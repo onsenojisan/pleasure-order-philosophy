@@ -191,8 +191,8 @@ tier.**
 Source: the locked "理論再構築凍結層 (Freeze-1.0)" core definitions + note "短編 抽象化による対処" + the Zenodo
 "Abstracted Adaptation" cluster (Jan–Feb 2026).
 
-**Content:** Given a loss or contradiction that is irrecoverable in principle (F0), humans *process it as
-handled* by wrapping it in meaning, story, value, or justification. This is **abstraction-based coping** — a
+**Content:** Given a loss or contradiction that is irrecoverable (the individual-level C4 face of F0), humans
+*process it as handled* by wrapping it in meaning, story, value, or justification. This is **abstraction-based coping** — a
 human-specific adaptation, not evaluated as good / bad / mature. Structurally it raises **local coherence**
 while lowering **global stability** (the local story holds; the larger structure quietly degrades). Its failure
 mode is *abstraction-induced breakdown* — coping that has abstracted so far from contact that it can no longer

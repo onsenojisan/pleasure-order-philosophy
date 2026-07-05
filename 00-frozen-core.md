@@ -8,11 +8,13 @@ The single governing rule:
 
 ---
 
-## 0. Foundation — the meta-theorem that forces the governing rule
+## 0. Foundation — the thesis beneath the governing rule
 
-*status: Frozen. This is the proof beneath the single governing rule. The Open tier is its consequence, not a backlog.*
+*status: Frozen — as a **thesis with a proved formal core (F0-L)**, not a theorem over all possible systems. The Open tier is its principled consequence, not a backlog.*
 
-### F0. The Irrecoverability Theorem — why "silence about the unreachable" is forced, not chosen
+### F0. The Irrecoverability Schema — why "silence about the unreachable" is principled, not arbitrary
+
+*(Terminology: "irrecoverability" here is the meta-level sense — the five demands below are never jointly recovered. The individual-level sense — some concrete losses are never recovered — is this schema's C4 face, handled in companion C8 and the death/finitude item in `20-open.md`.)*
 
 Philosophy tacitly wants one system to satisfy five conditions at once:
 
@@ -22,17 +24,30 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 - **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V.
 - **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
 
-**Theorem (irrecoverability).** No system satisfies C1–C5 simultaneously. Every system that appears to has (i) silenced / shelved one condition, (ii) swapped a condition for something else, or (iii) introduced a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
+**Thesis (no joint satisfaction).** No system examined satisfies C1–C5 simultaneously under their strong readings. Every candidate has (i) silenced / shelved a condition, (ii) swapped a condition for something weaker, or (iii) bought it with a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
 
-Intuitively: closing W (total explanation) costs E its external warrant and makes V's ground circular; securing S re-opens W (the subject becomes a privileged point); objectifying V leaps from is to ought; forcing A→R smuggles a "settling-of-accounts" mechanism into W; non-circularizing the ground forces an external terminus. Erecting "total explanation + subject + norm + recovery + ground" at once always leaves a privileged point, a leap, or a circle somewhere. *That* is what "unsolved" actually is.
+**Why (intuition, not proof).** Closing W (total explanation) costs E its external warrant and makes V's ground circular; securing S re-opens W (the subject becomes a privileged point); objectifying V leaps from is to ought; forcing A→R smuggles a "settling-of-accounts" mechanism into W; non-circularizing the ground forces an external terminus. Erecting "total explanation + subject + norm + recovery + ground" at once has, in every examined system, left a privileged point, a leap, or a circle somewhere. *That* is what "unsolved" actually is.
 
-**The evasions are enumerable (P1–P7):** external warrant · silence/termination · de-normativization · thinning the subject · two-layering · smuggling a recovery mechanism · dissolving the question. Every philosophy is some combination of these; none escapes.
+**The payments are enumerable (P1–P7):** external warrant · silence/termination · de-normativization · thinning the subject · two-layering · smuggling a recovery mechanism · dissolving the question. "P-move" is descriptive, not pejorative — and a system that never demands all five (e.g. a naturalism that simply rejects C3/C5) is not "evading"; it is outside the schema's scope. The claim is conditional: *if* all five are demanded, payment happens somewhere.
 
-**Where this theory stands (self-location, not evasion).** The Pleasure Order takes **P2 (silence / termination)** on C1 and C5 and **P3 (de-normativization)** on C3: it declines final explanation and an ultimate ground (→ silence, F3/F8) and keeps only descriptive, hypothetical-imperative norms (F7). It explicitly refuses (iii) — no God, Absolute, or privileged external point is introduced. What it does *not* do is pretend C1–C5 are jointly met.
+**Modality, stated honestly.** The thesis says "never yet achieved, and structurally hard" — not a God's-eye "impossible". Asserting impossibility over all possible systems would itself require a privileged external standpoint (iii), the very move the schema tracks; so F0 applies **P2 to itself** and does not claim to be a final theorem. It is frozen as the theory's considered bet (R3), and it is falsifiable in the operative sense: exhibit a system meeting C1–C5 under the stated readings without a P-move, and F0 falls.
 
-**Consequence — this is the root of the repository.** The single governing rule above is not an axiom chosen for taste — it is *forced by F0*. So is the Open tier: because C1–C5 cannot be jointly closed, the list of open questions cannot in principle close. The Open tier (`20-open.md`) is therefore **theorem-mandated, not a backlog**; filling it completely would violate F0 and F6.
+**Genealogy (borrowed on purpose).** F0 composes known limitative results rather than inventing one: C5 is Agrippa's trilemma (regress / circle / dogma); C3 is Hume's is–ought gap; the C1∧C2 corner is the self-reference territory of Gödel and Tarski. What is added is the composition — reading the classical "unsolved problems" as five faces of a single joint-satisfaction failure — not a new impossibility result.
 
-**Honest note.** F0 is itself a strong (limitative) claim, offered as the frozen foundation but held fallibly (R3). Its honest form is "no jointly-satisfying system has been reached, and structurally none can be", not a God's-eye proof of impossibility. Two further consequences are kept as *companion*, not core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement, not a truth-need — see `10-companion.md` C8), and how a civilization without a terminus distributes the terminus-function into local structure.
+**F0-L (the formal core — the one corner that is actually provable).** Read C1 as *deductive completeness* and C2 as *self-inclusion*. Then four individually reasonable demands are jointly unsatisfiable:
+
+- **(A) consistency** — E proves no contradiction;
+- **(B) self-inclusion** — facts about E itself (what it asserts, what is true of it) are among the world-facts E must cover;
+- **(C) expressiveness** — E can encode its own syntax (interprets Robinson arithmetic);
+- **(D) completeness** — E decides every fact in its scope.
+
+By Gödel's first incompleteness theorem, A + C + D cannot hold together for an effectively axiomatized E; reading C1 instead as "E contains its own truth predicate", Tarski's undefinability theorem collapses A. Each demand is independently necessary — drop any one and the rest are jointly satisfiable: drop **D** → consistent but incomplete description (exactly this theory's F4/R3); drop **C** → complete but self-blind systems (Presburger arithmetic); drop **B** → explanation from outside the world (Platonism, the God's-eye seat); drop **A** → paraconsistency. This is an Arrow-style impossibility: individually reasonable demands, jointly unsatisfiable. For *this corner*, "give up completeness → stay silent about the remainder" is not a stylistic preference; it is the only exit that preserves consistency, self-inclusion and expressiveness.
+
+**Scope discipline (what F0-L does not show).** (i) It binds only readings on which "explain the world completely" entails deciding all sentences or containing one's own truth predicate; a structural / semantic notion of explanation is untouched. (ii) The "self" doing the work is **syntactic self-modeling**, not an experiencing subject — F0-L shows a system cannot completely model itself; it says nothing about consciousness (which stays shelved under F8). (iii) It covers the C1∧C2 corner only; C3, C4 and C5 remain philosophical territory, carried by Hume and Agrippa, not by proof.
+
+**Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 no recovery device is smuggled in — non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+
+Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
 
 ---
 

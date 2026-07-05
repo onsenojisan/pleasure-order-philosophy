@@ -3,8 +3,9 @@
 *status: Open. Not to be filled — by design. Honestly declared open.*
 Last updated: 2026-07-05
 
-The author's principle (Absence of Final Explanation): **explanation does not, in principle, converge.**
-So this list never closes. That is not a defect but the design.
+The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
+the five demands are never jointly met, so **explanation does not, in principle, converge.**
+So this list never closes — by F0 that is principled design, not a defect (and not a backlog).
 Placed here: (a) things not needed by the core, declared open; (b) residues of the Ready-stances;
 (c) out-of-scope declarations.
 
@@ -24,7 +25,8 @@ But its resolution *as an epistemological problem* is shelved. → **Open** (emp
 mechanisms in core/companion, but the epistemic problem is separate).
 
 ### Death / finitude
-The core holds individual terminality / irrecoverability, yet the *meaning of death itself* is undeveloped.
+The theory holds individual terminality / irrecoverability (the individual-level C4 face of **F0**; companion C8),
+yet the *meaning of death itself* is undeveloped.
 Writable as a natural extension of the liberation model (C3). → **Open** (writable, not yet undertaken).
 
 ### A serious Nietzsche reading (future companion)
