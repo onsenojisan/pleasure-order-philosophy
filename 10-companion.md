@@ -144,6 +144,15 @@ layer; cite the later memo. (ii) The BYXCZ five-layer-as-agency claim and the em
 internal time") are strong and contestable; the core already dropped the five-layer *isomorphism at
 civilizational scale* (C2), so this rides only on individual-scale layering.
 
+**Civilizational face (Ω_env).** At civilizational scale the same structure recurs (source: note "文明AI編",
+6 chapters): AI originates no directionality but *amplifies and fixes* a civilization's directionality Ω_env —
+a catalyst / exposure device, not a trigger (consistent with C2; the collapse-gate of the "6" read at civ
+scale — collapse comes from a civilization abandoning correction, not from AI "running away"). The governance
+line is **F6 as a design criterion**: permissible AI preserves the room for human judgment (revisability),
+impermissible AI removes it — "recoverability, not correctness, sets a civilization's lifespan". The five
+minimum conditions (no decision / no pre-selection of options / no coercion / always-discardable output / do
+not discard the slow) are **hypothetical imperatives** (F7), explicitly design conditions, not ethics.
+
 **Relation to the core:** consistent with F10 (agency = intrinsic directionality) and F7/F9 — the personal
 prescriptions (keep Z human-side; use reversibly and distributed; do not delegate meaning-making or
 irreversible judgment) are **hypothetical imperatives** ("if you do not wish to lose the interdependence bet,
