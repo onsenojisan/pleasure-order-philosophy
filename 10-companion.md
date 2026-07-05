@@ -213,7 +213,23 @@ be corrected.
 It is the coping the liberation model (C3) releases (grasping a fixated "good" = a frozen AA), and it is F6 seen
 from the inside (AA that cannot be revised = fixation).
 
-**Honest labelling (unresolved sign-flip):** across layers the *recovery sign of AA is inconsistent* — in the
-Abstracted-Adaptation cluster AA reads as a **refusal of recovery** (回収拒否), whereas the June-2026 Ω̂ sense
-reads recovery as a **repair capacity**. Whether AA suppresses or enables repair is **not settled** → kept as an
-open contradiction, not smoothed over. AA is offered as a lens (companion), not an established mechanism.
+**Resolved — the apparent sign-flip was an equivocation on "recovery."** Earlier drafts flagged an unresolved
+contradiction: the Abstracted-Adaptation cluster reads AA as a **refusal of recovery** (回収拒否), whereas the
+June-2026 Ω̂ sense reads recovery as a **repair capacity** — so does AA suppress or enable repair? The tension
+dissolves once "recovery" is split into its three distinct referents:
+- **(1) recovery of a concrete token loss** — undoing *this* lived loss. The AA cluster's "recovery is not
+  delayed — it is undefined" is this sense (F0's C4 face). **Both frames agree it is irrecoverable.**
+- **(2) local-apparent repair** — the coherence AA manufactures (the local story holds). AA *provides* this
+  (local coherence ↑).
+- **(3) system-level forward repair-capacity** — the Ω̂ / viability sense (the capacity to keep revising /
+  adapting). AA *spends* this (global stability ↓).
+There is no contradiction: AA raises (2) by consuming (3), while (1) is untouched — which is just AA's defining
+signature (local ↑ / global ↓) restated. Its sign on (3) is set by **F6**: a *revisable* AA preserves Ω̂; a
+*fixated* AA (abstraction-induced breakdown, "frozen AA") destroys it. So AA is not intrinsically anti-repair —
+corrigibility decides. (This retracts the earlier "unresolved sign-flip" label; the correction is left visible,
+per F6.)
+
+**What stays open (a different tension, not this one):** the AA / failure-condition cluster's *register* —
+deliberately non-predictive ("intentionally incomplete", "detection only retrospective") — pulls against the
+empirical program's predictive make-or-break tests. Resolving the recovery *sign* does not resolve that
+*register* conflict, which is held open elsewhere. AA is offered as a lens (companion), not an established mechanism.
