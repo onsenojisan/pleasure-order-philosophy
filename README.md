@@ -1,6 +1,6 @@
 # The Pleasure Order — Philosophy Core
 
-*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-04 · License: CC-BY 4.0*
+*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-05 · License: CC-BY 4.0*
 
 Japanese source of the underlying deliberation is kept in [`ja/`](./ja).
 

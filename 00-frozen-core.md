@@ -1,10 +1,38 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
+
+---
+
+## 0. Foundation — the meta-theorem that forces the governing rule
+
+*status: Frozen. This is the proof beneath the single governing rule. The Open tier is its consequence, not a backlog.*
+
+### F0. The Irrecoverability Theorem — why "silence about the unreachable" is forced, not chosen
+
+Philosophy tacitly wants one system to satisfy five conditions at once:
+
+- **C1 — completeness of explanation:** a description/explanation system E finally and consistently explains the world W.
+- **C2 — integrity of the subject:** the subject S (experience, self-identity) is identifiable within E and survives as the bearer of E.
+- **C3 — integrity of the normative:** a value system V connects to W and E without contradiction and carries objective binding force.
+- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V.
+- **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
+
+**Theorem (irrecoverability).** No system satisfies C1–C5 simultaneously. Every system that appears to has (i) silenced / shelved one condition, (ii) swapped a condition for something else, or (iii) introduced a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
+
+Intuitively: closing W (total explanation) costs E its external warrant and makes V's ground circular; securing S re-opens W (the subject becomes a privileged point); objectifying V leaps from is to ought; forcing A→R smuggles a "settling-of-accounts" mechanism into W; non-circularizing the ground forces an external terminus. Erecting "total explanation + subject + norm + recovery + ground" at once always leaves a privileged point, a leap, or a circle somewhere. *That* is what "unsolved" actually is.
+
+**The evasions are enumerable (P1–P7):** external warrant · silence/termination · de-normativization · thinning the subject · two-layering · smuggling a recovery mechanism · dissolving the question. Every philosophy is some combination of these; none escapes.
+
+**Where this theory stands (self-location, not evasion).** The Pleasure Order takes **P2 (silence / termination)** on C1 and C5 and **P3 (de-normativization)** on C3: it declines final explanation and an ultimate ground (→ silence, F3/F8) and keeps only descriptive, hypothetical-imperative norms (F7). It explicitly refuses (iii) — no God, Absolute, or privileged external point is introduced. What it does *not* do is pretend C1–C5 are jointly met.
+
+**Consequence — this is the root of the repository.** The single governing rule above is not an axiom chosen for taste — it is *forced by F0*. So is the Open tier: because C1–C5 cannot be jointly closed, the list of open questions cannot in principle close. The Open tier (`20-open.md`) is therefore **theorem-mandated, not a backlog**; filling it completely would violate F0 and F6.
+
+**Honest note.** F0 is itself a strong (limitative) claim, offered as the frozen foundation but held fallibly (R3). Its honest form is "no jointly-satisfying system has been reached, and structurally none can be", not a God's-eye proof of impossibility. Two further consequences are kept as *companion*, not core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement, not a truth-need — see `10-companion.md` C8), and how a civilization without a terminus distributes the terminus-function into local structure.
 
 ---
 

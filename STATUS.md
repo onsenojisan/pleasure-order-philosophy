@@ -1,7 +1,7 @@
 # STATUS — Ledger of Philosophical Propositions
 
 *Every proposition needed for The Pleasure Order, with its tier, status, and one-line position.*
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 "Needed" means: load-bearing — what the theory owes for its own claims.
 By the author's own principle (Absence of Final Explanation), the full list of philosophy never closes.
@@ -14,6 +14,7 @@ honest **declaration that it is open**.
 
 | # | Proposition | One-line position |
 |---|---|---|
+| F0 | Foundation (meta-theorem) | **Irrecoverability Theorem**: no system jointly satisfies {total explanation, subject, objective norm, action-recovery, non-circular ground} (C1–C5). The governing rule *and* the Open tier are forced by this, not chosen. Held fallibly (R3). |
 | F1 | Metaphysics | **Ontic Structural Realism (OSR)**. World = relations / patterns; no intrinsic ground. Ω = a descriptive reading of structure (D). |
 | F2 | Realism | **Methodological posit**. The world is real, prior, and shared (grounded in intersubjectivity), adopted for workability + as a guard against escapism — not a metaphysical assertion. Correct use of conventional truth. |
 | F3 | Epistemology | **Indirect realism (one-world) + silence on the ultimate ground**. We access the dependent world partially via reconstruction. Whether there is a self-standing ground is undecidable / untouchable → no assertion, no shape given. |
@@ -46,6 +47,9 @@ honest **declaration that it is open**.
 | Liberation model (B/Z/Ω̂) | Individual-scale companion. Self-application of anti-fixation. |
 | Processual causal-history model (time) | Auxiliary theory. Strong cosmology is not adopted. |
 | Developmental origin of self & valuation (proto-ethics, Oct 2025 prologue) | **Partly citeable science, partly speculative.** Infant biobehavioral synchrony = well-supported (Tronick/Feldman/Trevarthen/Stern). "Consciousness from the gaze" overstates; "good/bad born at the gaze" unestablished; Buddha's ZZ-integration = withdrawn (beyond observation limit). Surviving core: good/bad as relationally-born appearance (→F7/F9), liberation beyond fixated good (→F6/C3). |
+| The Suffering Order (−dC/dt) (C7) | Dual of pleasure. Suffering = coherence-collapse rate; all forms unified as *causal inversion* = F6 at the affective scale. Misfire (false-pleasure / false-suffering) qualifies pleasure = dC/dt as correlate-only. Identity + neuroanatomy = theory's own constructs (S2/C5-grade labelling). Appendix B supersedes "social-YXCZ" (S6); Appendix C → empirical / Open. |
+| Directionality & AI — meaning without stake B (C6) | AI generates meaning (Y) but not directionality Ω; the layer impossible *in principle* is **B (stake)**, not Z (Z bloats). "6" meta-control without internalized 5 → constraints become optimization targets → external Ω proxied (= collapse-gate mechanism). A stance/bet (author's framing); prescriptions = hypothetical imperatives (F7). |
+| Abstraction-based coping — AA (C8) | The irrecoverable (F0) "processed as handled" via meaning/story/justification: local coherence ↑, global stability ↓. Individual-scale counterpart of F0's demand-for-explanation; F6 seen from inside. **Unresolved sign-flip**: AA as refusal-of-recovery vs Ω̂ as repair capacity. |
 
 ## Open (deliberately open — [`20-open.md`](./20-open.md))
 

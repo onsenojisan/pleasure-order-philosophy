@@ -3,7 +3,7 @@
 *status: Superseded. These are **not** current positions. They are recorded so that the earlier public
 writings (Hatena / early note / early Zenodo) do not mislead, and so the theory's own revision history is
 visible.*
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 Recording what was dropped, and why, is not housekeeping. The core criterion is **reversibility / revisability**
 (F6): a theory that hid its own corrections would contradict itself. This ledger applies the same
@@ -72,6 +72,45 @@ unverifiable.
 
 **Replaced by:** kept as a phenomenological hypothesis in **Companion C5**; the "achieved fact" assertion is
 withdrawn.
+
+## S6. "Social YXCZ five-layer integration" (人間の可能性 ⑧; 苦の秩序論 3, civilizational)
+
+**Claim.** The individual five layers (B–Y–X–C–Z) synchronize and *integrate* at the collective scale, so a
+society has a YXCZ integration of its own.
+
+**Why dropped.** The core already retired the five-layer isomorphism at civilizational scale (**C2**: 2 frames
++ 3 forces). "Social YXCZ integration" reinstates the dropped isomorphism.
+
+**Replaced by:** **Companion C7 Appendix B** — social coherence as synchronization of causal patterns across
+independent brains *without* any collective consciousness (a "coherence window"). Brains are not shared; only
+patterns parallelize.
+
+## S7. "Humans / society / civilization are described *only* by Ω and dΩ/dt" (Freeze-1.0, locked internal doc, Jan 2026)
+
+**Claim.** The locked "理論再構築凍結層 (Freeze-Version 1.0, LOCKED)" states that humans, society, and
+civilization are described *only* by directionality Ω and its change dΩ/dt.
+
+**Why dropped.** (a) Freeze-1.0 is a *locked original* that predates and is now **superseded by this
+repository's frozen core** — the repo, not Freeze-1.0, is the current frozen skeleton; this resolves the
+"double-frozen" split-brain (two documents each claiming to be the immutable original). (b) The "*only*
+Ω/dΩ/dt" reduction over-claims: **F5** holds real patterns are plural and observer-grain-relative; Ω/dΩ/dt are
+the *directional* state variables, not the sole descriptors of a mind or a society.
+
+**Replaced by:** Freeze-1.0's discipline (no prescription, no salvation hypothesis, descriptive-only, silence
+held as spec) is exactly **F7** and is kept; its "Abstraction-based coping" definition is extracted to
+**Companion C8**.
+
+## S8. "Human rights = the will to keep choosing (and widening) a fiction" (note, Oct 2025)
+
+**Claim.** Human rights = "the will to keep choosing, and to keep widening, the fiction of other-empathy that
+the neocortex produced."
+
+**Why dropped.** The "*ought* to keep choosing / widening" is a **categorical-normative** claim, which violates
+**F7** (hypothetical imperatives only; no categorical ought is derived).
+
+**Replaced by:** kept descriptively — human rights *as a fact* is a maintained appearance-level value (F7/F9)
+whose developmental root (neocortical other-empathy) aligns with **C5** and the Suffering-Order's proto-ethics
+(**C7** Appendix A). The "should keep choosing it" is the **agent's freedom** (F9), not a categorical ought.
 
 ---
 
