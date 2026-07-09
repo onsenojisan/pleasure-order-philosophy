@@ -77,6 +77,6 @@ No commitment either way. The outer→inner bridge (the hard problem) is beyond 
 If the theory's core (F6, anti-fixation / reversibility) says "fixation = death", then
 **turning everything into a closed doctrine would be the theory's own self-negation.**
 So honestly marking things "open" is not a confession of weakness but a **demonstration of the theory's
-consistency.** The repository's three tiers (Frozen / Companion / Open), each carrying a status, exist to make
+consistency.** The repository's four tiers (Frozen / Companion / Open / Superseded), each carrying a status, exist to make
 the theory's own text embody the four scale-transition constraints (reversible correction, non-personal
 memory, and the rest).

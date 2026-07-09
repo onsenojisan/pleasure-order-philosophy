@@ -66,5 +66,5 @@
 理論の核（F6 反固着・可逆性）が「固着＝死」なら、
 **すべてを閉じた doctrine にすること自体が、理論の自己否定**になる。
 だから「開」を正直に印すことは、弱さの告白ではなく、**理論の一貫性の証明**である。
-リポジトリが三層（Frozen/Companion/Open）で status を打つのは、
+リポジトリが四層（Frozen/Companion/Open/Superseded）で status を打つのは、
 Scale Transition の4制約（可逆的訂正・非人格的記憶…）を、理論自身のテキストに体現させるため。

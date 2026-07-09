@@ -17,11 +17,11 @@ mutually-consistent skeleton**, with every still-open part honestly marked *Open
 - **Zenodo** — where individual results are frozen
 - **This repository** — where the *skeleton itself* is frozen and its revisions tracked
 
-## Three-tier structure — the repo embodies the theory
+## Tier structure — the repo embodies the theory
 
 The theory's core is **reversibility · revisability · non-personal memory** (fixation = the death of a
 category). The repository is built to embody that: every document carries a *status* and sits in one of
-three tiers. This applies, to the theory's own text, the four scale-transition constraints derived in the
+four tiers (Frozen core, Companion, Open, Superseded), plus a status ledger. This applies, to the theory's own text, the four scale-transition constraints derived in the
 Zenodo paper *Directionality Ω and Scale Transition* (carrier replaceability, non-personal memory,
 reversible correction, non-identity-based justification).
 
