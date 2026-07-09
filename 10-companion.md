@@ -182,12 +182,18 @@ correlate*, not an identity.
 **Honest labelling (same bucket as S2 / C5):** the identity "suffering = −dC/dt" and the literal neuroanatomy
 (amygdala / insula / ACC / DMN …) are **the theory's own constructs, offered as a lens — not established
 neuroscience**; the mapping is illustrative and the identity is a functional correlate only (asserting more
-would repeat the retracted S2 identity error). Two internal tensions kept visible: (i) the duality text equates
+would repeat the retracted S2 identity error). Three internal tensions kept visible: (i) the duality text equates
 the zero-crossing with śūnyatā as a *static* point where "time stops" — this **conflicts with C1**, whose
 reading of the zero-point is canonical here: emptiness = reversible coherence = a *dynamic* zero
 (d²C/dt² ≠ 0, not stasis); (ii) its soteriological / ethical language
 ("liberation", "compassion", design principles for AI / education) crosses is→ought and is retained only as
 hypothetical imperatives (F7).
+
+(iii) the **symmetric reading** in this companion (pleasure and suffering as one movement, symmetric about
+the zero-crossing; suffering = -dC/dt) is **contested by the empirical track (v1.5)**, which treats suffering
+*asymmetrically* — not simply -dC/dt, but gated by the collapse-gate's irreversibility (an irreversible floor
+below, no symmetric ceiling above). This companion keeps the symmetric dual as a conceptual reading, not a
+settled identity.
 
 **Relation to the core:** Appendix B (social coherence as neural synchronization *without any collective
 consciousness*, a "coherence window") is the careful version that **supersedes the loose "social

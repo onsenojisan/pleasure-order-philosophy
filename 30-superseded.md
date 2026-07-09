@@ -8,7 +8,7 @@ Last updated: 2026-07-05
 Recording what was dropped, and why, is not housekeeping. The core criterion is **reversibility / revisability**
 (F6): a theory that hid its own corrections would contradict itself. This ledger applies the same
 scale-transition constraints to the theory's history — **reversible correction, non-personal memory** — that
-the repository's three tiers apply to its structure.
+the repository's four tiers apply to its structure.
 
 Each entry: the claim as originally made · why it was dropped · what replaced it.
 
