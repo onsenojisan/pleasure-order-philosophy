@@ -360,6 +360,14 @@ Each cell has a **fixated shadow** — the same posture frozen (F6 death): froze
 withdrawal (**C3**'s *Hell Fixation*) · manic / addictive peak-fixation (the "intensity addict"). The 2×2 is **not
 a gallery of ideals**; the shadow is at least as common as the living cell.
 
+**The 2×2 is a cross-section, not a census — the hidden third axis is Ω̂.** The plane {静 ↔ 恍惚} × {退く ↔ 持つ}
+maps *modes*, and it is a slice through the **reversible (living) side only** — not a classification of all human
+states. Add reversibility itself — **Ω̂, the distance from the floor** (C11) — as a continuous **z-axis**, and the
+plane becomes a **topographic map**: each cell's *fixated shadow* is not a separate box but that same cell
+**descending in z** toward the floor, which is the **fold-bifurcation at low z** (C11). Mode (where on the plane)
+and collapse-distance (how high on z) are orthogonal; a life is a *trajectory across the map*, and the
+"higher-risk" cells (恍惚×持つ) are simply those whose plane-position sits over steeper descent.
+
 **"Holding quietly" is real — and it is the mature centre, not an empty box.** The 静×持つ (reversible) cell —
 hold a direction / a love / a duty *fully, calmly, and lightly, ready to revise or release* — is not a
 contradiction but essentially **C3's returning path in its quiet register**. What C3 forbids is never *holding*;
@@ -373,6 +381,14 @@ does not demand C4 recovery or a C5 terminal ground), and *will to power* read a
 revision, not a frozen goal). So Nietzsche is **not** the fixation corner; he is the *ecstatic-affirmative* corner
 of the living side — a **cousin of the returning path**, not its opposite. The genuine difference from liberation
 is only register (恍惚 vs 静) + telos (the peak sought vs released).
+
+**One split kept explicit (metaphysical vs ethical will to power).** Nietzsche's *ethical* will to power —
+*self-overcoming*, continuous revision — **is** this reversible-affirmative cell. But his *metaphysical* will to
+power ("all is will to power") is a **totalisation**: a single lens declared to exhaust reality. That conflicts
+**not** with F6 (a totalising lens need not *freeze*) but with **F5** (real patterns are plural,
+observer-grain-relative) — the very over-claim the core already retracted at **S7** ("described *only* by
+Ω / dΩ/dt"). So C10 adopts the *ethical* Nietzsche and declines the *metaphysical totaliser*, applying to him
+exactly the F5 discipline the theory applies to its own Ω.
 
 **The honest asymmetry (cautionary, not romantic).** 恍惚×持つ×reversible is the **hardest cell to sustain**:
 humans in it tend to tip into 恍惚×固着 — mania, addiction, burnout, the intensity-addict. **Nietzsche is both the
@@ -465,7 +481,11 @@ suffering of engaged life and forbids only collapse. So the self-deception worry
 defused: one *does* care, it *does* hurt, and that is fine; only the crash is flagged. But that reversible caring
 escapes *dukkha* is a **wager, not a theorem** — and "holding" (持つ) means *unconditional present investment*
 (full care now, no demand that the future be secured), distinct from clinging (把持 = investment made hostage to
-permanence).
+permanence). (Empirical anchors for the distinction: non-attachment scales — Sahdra & Shaver; flow —
+Csikszentmihalyi; and addiction as the *dynamic*-clinging mirror.) A residue kept honest: 持つ and 把持 are **not
+snapshot-distinguishable** — the difference shows only in how a hold *actually* flexes or freezes across a
+life-arc (processual, R2), so the distinction is **diagnostic / retrospective, not a clinical online test**, and it
+inherits R2's open reference-class problem.
 
 **The refined relation to Buddhism — a de-ranked, naturalised, non-normative cousin.** The two-tier structure
 (a radical path for those near ruin; ordinary engaged life for the rest) is **shared with Buddhism, not VOT's
@@ -496,7 +516,11 @@ pairing (formal signal + phenomenological account of the blindness), and the non
 loose redescription of critical-transition theory. **Honest status:** the one head-to-head run so far (an order
 operator vs. FEP, on open EMA data) **went to FEP**; the decisive test (hysteresis + a shared decline↔recovery
 parameter) needs a within-person recovery-arm dataset and is **pending** (the empirical Ω_proxy track). The bet is
-live but behind on the early points.
+live but behind on the early points. **Three concrete predictions would earn the "distinct synthesis" claim**
+(none following from Scheffer, FEP, or Buddhism alone): (i) a *psychological* collapse (e.g. burnout) shows CSD
+signals *before* an FEP-predicted rise in free energy; (ii) an *AA intervention* (narrative deconstruction)
+**reverses** CSD before the threshold is crossed; (iii) a *social* system shows the **same** CSD signature as an
+individual despite a different FEP architecture.
 
 **Relation to the core.** C11 asserts **no new primitive**: it is F6 (reversibility) read as a *dynamical* claim
 (fold-bifurcation), F7 / F9 applied to the one flag, and C7 / C8's collapse + AA machinery sharpened into a
