@@ -225,7 +225,10 @@ Source: the locked "理論再構築凍結層 (Freeze-1.0)" core definitions + no
 human-specific adaptation, not evaluated as good / bad / mature. Structurally it raises **local coherence**
 while lowering **global stability** (the local story holds; the larger structure quietly degrades). Its failure
 mode is *abstraction-induced breakdown* — coping that has abstracted so far from contact that it can no longer
-be corrected.
+be corrected. Crucially, AA is characteristically **painless**: wrapped in meaning, the person feels *"I'm
+handling this well"* even as global stability quietly degrades — which is precisely why AA **covers the
+early-warning signal** (`10-companion.md` C11) and what distinguishes it from rumination (which is *painful* and
+self-evident). AA is the **unnoticed** spend of the resilience budget.
 
 **Relation to the core:** AA is the individual-psychological counterpart of F0's companion consequence —
 *humans demand a final explanation as a stabiliser*; AA is how that demand is met when recovery is impossible.
