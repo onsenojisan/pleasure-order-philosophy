@@ -57,7 +57,8 @@ An individual-scale companion. Cessation of suffering = a self-applied fixed poi
 open: the withdrawing path (static) and the returning path (dynamic).
 *Hell Fixation* (Zenodo) = the locked state of an individual who has fixated (loss of reversibility, devaluation
 of exit, suffering functioning as a stabilizer) = the loss-end of anti-fixation. Scope: quiescent systems only
-(ecstatic systems are future work).
+(the ecstatic systems 恍惚系, and the peak-affirmation fork this model admits "the peak-seeker rightly declines",
+are taken up in **C10** on F6's fixated/reversible axis).
 
 ## C4. Processual causal-history model (time)
 
@@ -314,3 +315,85 @@ fiction" was retracted).
 **Relation to the core.** C9 closes the irrecoverability arc — **F0.C4 → C8 → C3 → F12 → F11** — by giving its
 paradigm case (death) a written position while keeping the four residues above honestly open. It asserts **no new
 primitive**: it is F6 / F0 read at the finitude scale, the way C7 is F6 read at the affective scale.
+
+## C10. The affirmation fork — Nietzsche and the ecstatic modes (恍惚系)
+
+Source: derived here from the core (F6) and the liberation model (**C3**), which explicitly parked two things —
+the *ecstatic* systems (恍惚系) and the fork it admitted "the peak-seeker rightly declines" (the affirmation of
+intensity / the peak). C10 takes up both, because they are the same unfinished territory seen from two sides.
+The early Hatena layer-mapping of Nietzsche onto BYXCZ/Ω is **not adopted** (superficial; it misreads the
+*Übermensch* as a Buddhist-style total integration, ZZ). Offered as a companion lens, not a frozen commitment,
+and not as Nietzsche scholarship — a *structural placement*, not an exegesis.
+
+**The axis correction (the load-bearing move).** The natural way to oppose liberation to Nietzsche —
+"non-grasping vs grasping" — is **miscut**. In the theory *grasping* (把持 / upādāna) means *clinging = fixation*,
+which F6 already calls the death of a category; but Nietzsche is a life-affirmer and himself **anti-fixation** (he
+demolishes the "true world" and fixed values and affirms *becoming* — the *Twilight of the Idols* move resonates
+with **F3**'s refusal of a noumenal ground). So he cannot be the "grasping = fixation" pole. The real load-bearing
+axis is **F6's own: fixated (frozen) vs reversible (revisable)**. *Holding* is not the problem; **freezing** the
+holding is. Holding-as-engagement (持つ) ≠ grasping-as-clinging (把持). Once separated, the opposition
+liberation-vs-Nietzsche **narrows sharply**: both live on the *reversible* side; they differ on **energy register**
+(quiet vs ecstatic) and on **whether the peak is sought**, not on fixation.
+
+**The map — the reversible side is a 2×2; each cell has a fixated shadow (its death).** Master axis = F6
+(fixated / reversible). On the living (reversible) side, two orthogonal phenomenological axes —
+{quiet 静 ↔ ecstatic 恍惚} × {withdraw 退く ↔ hold/engage 持つ} — give four modes:
+
+| reversible (alive) | quiet 静 | ecstatic 恍惚 |
+|---|---|---|
+| **withdraw 退く** | quiet withdrawal that can return (**C3**'s *static* path) | ecstatic absorption reached by *letting go* (the mystic's rapture — the 恍惚 release mode C3 parked) |
+| **hold 持つ** | equanimous engaged holding (**C3**'s *dynamic/returning* path, quiet register) | ecstatic engaged affirmation (**Nietzsche**'s Dionysian *amor fati*) |
+
+Each cell has a **fixated shadow** — the same posture frozen (F6 death): frozen quietism · clinging · catatonic
+withdrawal (**C3**'s *Hell Fixation*) · manic / addictive peak-fixation (the "intensity addict"). The 2×2 is **not
+a gallery of ideals**; the shadow is at least as common as the living cell.
+
+**"Holding quietly" is real — and it is the mature centre, not an empty box.** The 静×持つ (reversible) cell —
+hold a direction / a love / a duty *fully, calmly, and lightly, ready to revise or release* — is not a
+contradiction but essentially **C3's returning path in its quiet register**. What C3 forbids is never *holding*;
+it is *freezing*. (An earlier internal 2×2 mislabelled this cell "rare" by conflating 持つ with 把持; the
+correction is kept visible, per F6.)
+
+**Where Nietzsche sits, precisely — 恍惚×持つ×reversible.** Intense, engaged, **anti-fixation** affirmation:
+*amor fati* (loving even what returns), **eternal recurrence** as the test — *could you will this to repeat
+forever?* — an affirmation that demands **no beyond, no final settlement** (an F0-consonant stance: the affirmer
+does not demand C4 recovery or a C5 terminal ground), and *will to power* read as **self-overcoming** (continuous
+revision, not a frozen goal). So Nietzsche is **not** the fixation corner; he is the *ecstatic-affirmative* corner
+of the living side — a **cousin of the returning path**, not its opposite. The genuine difference from liberation
+is only register (恍惚 vs 静) + telos (the peak sought vs released).
+
+**The honest asymmetry (cautionary, not romantic).** 恍惚×持つ×reversible is the **hardest cell to sustain**:
+humans in it tend to tip into 恍惚×固着 — mania, addiction, burnout, the intensity-addict. **Nietzsche is both the
+theorist of this cell and its cautionary case**: the writing aspires to sustained reversible affirmation, the life
+arced toward collapse. The cell is real but structurally unstable; the theory must not romanticize it. (This is the
+descriptive counterpart of C3's admission that the peak-seeker's path is *legitimately chosen* — legitimate does
+not mean safe.)
+
+**Non-ranking (F7) — the theory maps, it does not crown.** C3's liberation is the *non-grasping fixed point* on
+the reversible side; C10 shows liberation was always **one region of a larger reversible space**, not the whole of
+it. Under **F7** the theory *maps* both forks **without ranking them**: it does not say quiet is higher than
+ecstatic, or release higher than affirmation. It says only that **any cell, frozen, is the death of that category**
+(F6, descriptive). The peak-seeker "rightly declines" liberation not because liberation is wrong but because the
+two are **different reversible attractors**; choosing intensity over peace is the **agent's freedom** (F9).
+
+**Honest labelling — the F8 / S5 discipline (non-negotiable).** (i) The exemplars below **exemplify the pattern in
+documented lives / works**; they are **not** evidence that anyone *inwardly attained* a pure state — inner
+attainment is beyond the observation limit (**F3 / F8**), which is exactly why **S5** withdrew "the Buddha achieved
+ZZ." (ii) "reversible vs fixated" is judgeable only across a **life-arc**, never a snapshot; every attribution is a
+fallible inference (**R3**). The 2×2 is an **idealized attractor space**; real people are *trajectories* across it,
+mixing cells.
+
+Exemplars (embodiment, not proof):
+- **静×退く** — forest / hermit traditions (Ryōkan; the Desert Fathers; Zhuangzi's ideal).
+- **静×持つ** — the *Bhagavad Gītā*'s **karma-yoga** (*niṣkāma karma*: act, release the fruit) is the *doctrine* of
+  this cell; **Marcus Aurelius** (the *Meditations* document exactly "hold the role, calmly, ready to release").
+- **恍惚×退く** — the mystical via (**Teresa of Ávila**'s ecstatic union that returns to reform; **Ramakrishna**'s
+  *samādhi*); *fanā* (self-annihilation).
+- **恍惚×持つ** — **Rūmī** (ecstatic *and* a prolific creator / teacher — a rare long-sustained case); **Whitman**,
+  **Beethoven** (ecstatic creative affirmation); **Nietzsche** (theorist + cautionary case).
+
+**Relation to the core.** C10 completes **C3**'s fork structure on F6's real axis (fixated / reversible), gives the
+parked ecstatic systems (恍惚系) a coordinate, and places Nietzsche precisely (ecstatic-affirmative, anti-fixation —
+a cousin of the returning path, not its opposite), while keeping **F7** (maps, does not rank) and **F8 / S5**
+(exemplify, do not verify). It asserts **no new primitive**: it is F6 read across the phenomenology of the
+reversible modes, the way C7 is F6 at the affective scale and C9 at the finitude scale.
