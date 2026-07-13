@@ -2,7 +2,7 @@
 
 *The Pleasure Order — Philosophical Foundation*
 
-最終更新: 2026-07-05 / 著者: Hiroaki Aizawa（AI哲学作成業 / onsen_ojisan）
+最終更新: 2026-07-13 / 著者: Hiroaki Aizawa（AI哲学作成業 / onsen_ojisan）
 
 ---
 

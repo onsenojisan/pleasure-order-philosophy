@@ -1,7 +1,7 @@
 # STATUS — Ledger of Philosophical Propositions
 
 *Every proposition needed for The Pleasure Order, with its tier, status, and one-line position.*
-Last updated: 2026-07-05
+Last updated: 2026-07-13
 
 "Needed" means: load-bearing — what the theory owes for its own claims.
 By the author's own principle (Absence of Final Explanation — frozen as **F0**), the full list of philosophy never closes.
@@ -50,6 +50,7 @@ honest **declaration that it is open**.
 | The Suffering Order (−dC/dt) (C7) | Dual of pleasure. Suffering = coherence-collapse rate; all forms unified as *causal inversion* = F6 at the affective scale. Misfire (false-pleasure / false-suffering) qualifies pleasure = dC/dt as correlate-only. Identity + neuroanatomy = theory's own constructs (S2/C5-grade labelling). Appendix B supersedes "social-YXCZ" (S6); Appendix C → empirical / Open. |
 | Directionality & AI — meaning without stake B (C6) | AI generates meaning (Y) but not directionality Ω; the layer impossible *in principle* is **B (stake)**, not Z (Z bloats). "6" meta-control without internalized 5 → constraints become optimization targets → external Ω proxied (= collapse-gate mechanism). Civ face: AI amplifies/fixes Ω_env; governance line = F6 as design criterion ("recoverability, not correctness"). A stance/bet (author's framing); prescriptions = hypothetical imperatives (F7). |
 | Abstraction-based coping — AA (C8) | The irrecoverable (the individual-level C4 face of F0) "processed as handled" via meaning/story/justification: local coherence ↑, global stability ↓. Individual-scale counterpart of F0's demand-for-explanation; F6 seen from inside. **Sign-flip resolved**: "recovery" is equivocal (token loss / local-apparent / system-capacity) — AA raises local repair by spending system repair-capacity, and F6 decides its sign. |
+| Death / finitude (C9) | The **limit case of individual irrecoverability** (F0's C4 face made literal). Structure = irreversible cessation of a *style* (F12) + closure of the forward state-space (F11); deprivation reading over Epicurus, but non-normative (F7). Load-bearing move: **the fact** (irreversibility, F0.C4) is not softened — no P6 afterlife-smuggle, no C7 false-pleasure misfire — while **the grip** (death-fear as a fixated AA, C8) is releasable via liberation (C3) without denying the irreversibility. Finitude = the reversibility mechanism one scale up (C2), stated descriptively. Closes the arc F0.C4 → C8 → C3 → F12 → F11; no new primitive. Residues (dying's phenomenology → F8; post-mortem → F3 two-way silence; others' death → C5/O1) stay Open. |
 
 ## Open (deliberately open — [`20-open.md`](./20-open.md))
 
@@ -57,7 +58,7 @@ honest **declaration that it is open**.
 |---|---|
 | Intentionality | Open (the mechanism by which representation is "about" the world is thin) |
 | Other minds (epistemology) | Open (handled in practice by intersubjectivity + analogy; the epistemological problem is shelved) |
-| Death / finitude | Open (writable as an extension of Irrecoverability; not yet developed) |
+| Death / finitude | **Position now written → companion C9.** Residues stay Open: dying's phenomenology (F8), whether anything continues (F3, two-way silence), others' death (C5/O1). |
 | Aesthetics / philosophy of religion / political detail / theory of reference / Coherence-Index measurement (→ empirical Ω_proxy program) / popular essay series (生の余白論・日常の構造・人間の可能性 ①–⑤⑦) | Declared out of scope |
 | Residues of the Ready-stances | R1–R4 objection points explicitly left open |
 | A serious Nietzsche reading | Future work; the early Hatena layer-mapping is not adopted (superficial, misreads the Übermensch) |

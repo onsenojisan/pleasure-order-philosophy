@@ -1,7 +1,7 @@
 # Open — deliberately open questions
 
 *status: Open. Not to be filled — by design. Honestly declared open.*
-Last updated: 2026-07-05
+Last updated: 2026-07-13
 
 The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
 the five demands are never jointly met, so **explanation does not, in principle, converge.**
@@ -24,10 +24,16 @@ Handled in practice by intersubjectivity (F2) + analogy + treatment as real patt
 But its resolution *as an epistemological problem* is shelved. → **Open** (empathy/compassion exist as
 mechanisms in core/companion, but the epistemic problem is separate).
 
-### Death / finitude
-The theory holds individual terminality / irrecoverability (the individual-level C4 face of **F0**; companion C8),
-yet the *meaning of death itself* is undeveloped.
-Writable as a natural extension of the liberation model (C3). → **Open** (writable, not yet undertaken).
+### Death / finitude — *position now written (→ companion C9)*
+The theory holds individual terminality / irrecoverability (the individual-level C4 face of **F0**; companion C8).
+The *structural position* on death — the limit case of individual irrecoverability, closing the arc
+**F0.C4 → C8 → C3 → F12 → F11** — is now written as **companion C9** (previously this item read "writable, not
+yet undertaken"). What remains **Open** here are the residues C9 deliberately does *not* close:
+- the **phenomenology of dying** ("what it is like" for observation to cease) → **F8**-shelved, in principle;
+- **whether anything continues** → **F3** silence, cutting both ways (no afterlife-smuggle P6, but equally no
+  "provably nothing");
+- **the death of others** (grief, the loss of a Thou) → routed through C5 + the Other-Minds item, sketched not
+  developed.
 
 ### A serious Nietzsche reading (future companion)
 An early layer-mapping of Nietzsche onto BYXCZ/Ω exists (Hatena, Oct 2025) but is **not adopted**: it is
