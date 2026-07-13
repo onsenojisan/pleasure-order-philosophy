@@ -35,13 +35,13 @@ yet undertaken"). What remains **Open** here are the residues C9 deliberately do
 - **the death of others** (grief, the loss of a Thou) → routed through C5 + the Other-Minds item, sketched not
   developed.
 
-### A serious Nietzsche reading (future companion)
-An early layer-mapping of Nietzsche onto BYXCZ/Ω exists (Hatena, Oct 2025) but is **not adopted**: it is
-superficial and misreads the *Übermensch* as a Buddhist-style total integration (ZZ), whereas Nietzsche is
-anti-renunciation. A serious reading would place Nietzsche as the champion of the **opposite fork from
-liberation** — the affirmation of grasping / intensity / the peak (cf. the liberation model's own admission
-that "the peak-seeker rightly declines this path") — and would note that his demolition of the "true world"
-(*Twilight of the Idols*) **resonates with F3's rejection of a noumenal ground**. → open / future work.
+### Nietzsche & the ecstatic modes — *structural placement now written (→ companion C10)*
+The *structural placement* of Nietzsche — and of the ecstatic systems (恍惚系) that C3 parked — is now written as
+**companion C10**, on F6's real axis (fixated / reversible): Nietzsche = the *ecstatic-affirmative, anti-fixation*
+corner of the reversible side (a cousin of C3's returning path, not its opposite), placed via a 2×2 that also
+resolves "holding quietly" and gives 恍惚系 a coordinate. The early Hatena layer-mapping stays **not adopted**
+(superficial; misreads the *Übermensch* as ZZ). What remains **Open**: a full **Nietzsche philology / exegesis**
+(C10 is a placement, not scholarship) → out of scope; and the truth-value of the lens itself (companion, undecided).
 
 ## O2. Out-of-scope declarations (not gaps)
 
