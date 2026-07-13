@@ -52,6 +52,13 @@ resolves "holding quietly" and gives 恍惚系 a coordinate. The early Hatena la
 - **The Coherence Index / measurement of dC/dt** — how to operationalize coherence change (functional
   connectivity, phase-locking, prediction-error, HRV; see `10-companion.md` C7 Appendix C) is **open and handed
   to the empirical Ω_proxy program**, not settled in the philosophy skeleton.
+- **The collapse-floor's detectability — the single decisive open bet.** Whether the approach to the floor
+  (Ω̂-collapse as a fold-bifurcation; `10-companion.md` C11) is detectable *before* the point of no return, via
+  parameter-light early-warning signals (critical slowing down) that transfer across levels and beat free-energy,
+  is **the one empirical question the whole framework rests on** (with AA, C8, tested as a *pre-hoc* predictor,
+  not a post-hoc excuse). Handed to the empirical Ω_proxy track; **currently unproven** — the one head-to-head so
+  far went to FEP, and the decisive hysteresis / recovery-arm test is pending. Also open there: operationalizing
+  the **(L, H, P)** frame — matching the horizon H to each level's own timescale, and validating the proxy P.
 - **Popular essay series** (生の余白論, 日常の構造, 人間の可能性 ①–⑤⑦) — accessible presentations of
   F10/F12/BYXCZ/F0, not load-bearing propositions; deliberately out of scope for this skeleton.
 

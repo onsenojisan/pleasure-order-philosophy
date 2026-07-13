@@ -36,6 +36,11 @@ with Yogācāra" objection.
 - "Goodness = entropy minimization / compassion = physical necessity" (a naturalistic ethics crossing is→ought)
   conflicts with core F7 (non-normative). → kept as companion speculation.
 
+**On Buddhism (refined in C11):** VOT's two-tier structure (a radical path near ruin / ordinary engaged life) is
+*shared* with Buddhism, not its invention; the remaining differences are that VOT does not rank the tiers, divides
+them by collapse-risk (not readiness-for-liberation), and affirms the ecstatic cell Buddhism calls *bhava-taṇhā*.
+VOT ≈ a **de-ranked, naturalised, non-normative cousin whose floor is *collapse*, not craving.** See **C11**.
+
 ## C2. Civilizational theory — 2 frames + 3 forces
 
 Source: note / Zenodo civilization companion.
@@ -59,6 +64,10 @@ open: the withdrawing path (static) and the returning path (dynamic).
 of exit, suffering functioning as a stabilizer) = the loss-end of anti-fixation. Scope: quiescent systems only
 (the ecstatic systems 恍惚系, and the peak-affirmation fork this model admits "the peak-seeker rightly declines",
 are taken up in **C10** on F6's fixated/reversible axis).
+
+**Note (refined in C11):** "cessation of suffering" here does **not** mean *eliminating* suffering (that would
+still the whole pleasure/suffering wave); it means *non-fixation* — staying off the collapse-floor. The floor
+itself is refined in **C11** as **Ω̂-collapse (a fold-bifurcation)**, not −dC/dt magnitude.
 
 ## C4. Processual causal-history model (time)
 
@@ -194,7 +203,10 @@ hypothetical imperatives (F7).
 the zero-crossing; suffering = -dC/dt) is **contested by the empirical track (v1.5)**, which treats suffering
 *asymmetrically* — not simply -dC/dt, but gated by the collapse-gate's irreversibility (an irreversible floor
 below, no symmetric ceiling above). This companion keeps the symmetric dual as a conceptual reading, not a
-settled identity.
+settled identity. → the floor there is refined in **C11** as **Ω̂-collapse (a
+fold-bifurcation)**, not −dC/dt magnitude; and the identity "suffering = −dC/dt" — indeed the whole claim that the
+bad is *collapse / fixation* rather than the *reaching-structure itself* — is held as a **wager against the
+Buddhist rival**, not a theorem (C11).
 
 **Relation to the core:** Appendix B (social coherence as neural synchronization *without any collective
 consciousness*, a "coherence window") is the careful version that **supersedes the loose "social
@@ -375,6 +387,9 @@ it. Under **F7** the theory *maps* both forks **without ranking them**: it does 
 ecstatic, or release higher than affirmation. It says only that **any cell, frozen, is the death of that category**
 (F6, descriptive). The peak-seeker "rightly declines" liberation not because liberation is wrong but because the
 two are **different reversible attractors**; choosing intensity over peace is the **agent's freedom** (F9).
+(That 恍惚×持つ sits nearer the floor is a **risk-gradient (descriptive)**, *not* a value-ranking; the floor its
+shadow falls to is refined in **C11** as Ω̂-collapse, where "holding" 持つ is defined as *unconditional present
+investment* — full care now, no demand on the future — as against clinging 把持.)
 
 **Honest labelling — the F8 / S5 discipline (non-negotiable).** (i) The exemplars below **exemplify the pattern in
 documented lives / works**; they are **not** evidence that anyone *inwardly attained* a pure state — inner
@@ -397,3 +412,93 @@ parked ecstatic systems (恍惚系) a coordinate, and places Nietzsche precisely
 a cousin of the returning path, not its opposite), while keeping **F7** (maps, does not rank) and **F8 / S5**
 (exemplify, do not verify). It asserts **no new primitive**: it is F6 read across the phenomenology of the
 reversible modes, the way C7 is F6 at the affective scale and C9 at the finitude scale.
+
+## C11. The collapse-floor — ruin-avoidance, detection, and the empirical wager
+
+Source: consolidation of a three-round adversarial refinement of the theory (2026-07). It states in one place
+what "the floor" (Hell) is, what the theory does and does not claim about it, how it proposes to *detect* it, and
+the single empirical bet the whole framework rests on. It sharpens C3 (liberation), C7 (Suffering Order), C8 (AA),
+C10 (the modes), and the relation to Buddhism (C1). Companion — a lens **and a research programme**, not frozen.
+
+**What the floor is — Ω̂-collapse as a fold-bifurcation (not suffering-magnitude, not lock-as-such).** The floor
+is not "enough suffering" and not "revision-lock per se." It is the **irreversible loss of viability Ω̂ — the
+capacity to keep revising / adapting — modelled as crossing a fold-bifurcation (a tipping point with hysteresis)
+into a basin the system does not return from.**
+- *Not identity-preservation.* Losing your legs / memory / vocation and *adapting* leaves Ω̂ intact — the
+  revision-machinery worked (F12). Ω̂-collapse is the destruction of the *machinery of adaptation itself*, not of
+  any particular pattern it maintained. (This answers the "viability-for-what?" regress: viability is *for
+  continued revisability at level L*, not for preserving pattern X.)
+- *Descriptive → maskable by bliss (the anti-hedonist core).* Ω̂ is third-person; the subject need not feel it.
+  So collapse can wear a pleasant face — a revision-locked ecstatic state (wireheading; ecstatic psychosis under
+  long institutionalisation) is Hell **because viability is destroyed, not because it hurts.** That the floor is
+  *not phenomenal* is precisely why the theory is anti-hedonist. (Radical, but load-bearing: it is the whole point
+  that a pleasant appearance can hide a collapsing Ω̂.)
+- *Naturally horizon-indexed.* "Irreversible" = "does not recover within the system's own remaining existence";
+  the horizon **H** is the system's finitude, not a free analyst choice. The floor is stated relative to a
+  declared **(level L, horizon H, proxy P)** — level-indexed, so multi-level verdicts (your marriage is
+  collapsing, you are not) are a *feature*, not an inconsistency.
+
+**Its badness is not theory-posited — it rides on F9, and cannot condemn.** "Collapse is bad" is not a
+categorical ought (F7). The floor's *content* (Ω̂ destroyed) is an observer-independent fact; its *badness* rides
+on the near-universal, evolved recoil from self-collapse (F9). So the theory can **describe** a collapse and
+**note** that almost everyone recoils, but it **cannot categorically condemn** a being who genuinely does not mind
+(the content wireheader; the ecstatic patient who says "I'm fine"). That inability is the visible, costly **P3
+payment** — the same F7-bar that forced the S8 human-rights retraction and C9's refusal to comfort. (A move is
+*available* — the patient's non-objection may be *downstream* of the collapse, the evaluative faculty being part
+of what broke — but it re-introduces observer-privilege and paternalism, so it is used, if at all, with explicit
+misgiving.)
+
+**Scope — ruin-avoidance + trajectory-description, NOT a theory of flourishing.** Above the floor the theory does
+**not rank** (F7): the wave (ordinary pleasure / suffering), cessation (静×退く / 解脱), and ecstatic affirmation
+(Nietzsche) are all permitted, none higher. It **does** describe **risk-gradients** — 恍惚×持つ sits nearer the
+floor (harder to sustain, C10) — but "higher-risk" is *descriptive*, not "worse." Consequently VOT is genuinely
+**silent** about two safe-and-stable states (meditation vs. family): no viability difference, no verdict. Its one
+flag — *avoid the floor* — is a hypothetical imperative on F9, not a categorical ought. The honest cost: it cannot
+categorically say "leave the abusive-but-still-reversible relationship" or "rescue that person" — only describe
+that one is on a collapse trajectory and the other is not. (It is a *disaster-avoidance + trajectory* theory; the
+narrowness of that scope is a deliberate consequence of F7, not an oversight.)
+
+**An honest wager, named as such.** The claim that "the bad is fixation / collapse, and reversible holding is
+*permitted*" is a **bet against the Buddhist rival** that "the reaching-structure itself (taṇhā) is dukkha,
+reversible or not." VOT does **not** claim reversible holding is *suffering-free* — it accepts the ordinary
+suffering of engaged life and forbids only collapse. So the self-deception worry ("pretending not to care") is
+defused: one *does* care, it *does* hurt, and that is fine; only the crash is flagged. But that reversible caring
+escapes *dukkha* is a **wager, not a theorem** — and "holding" (持つ) means *unconditional present investment*
+(full care now, no demand that the future be secured), distinct from clinging (把持 = investment made hostage to
+permanence).
+
+**The refined relation to Buddhism — a de-ranked, naturalised, non-normative cousin.** The two-tier structure
+(a radical path for those near ruin; ordinary engaged life for the rest) is **shared with Buddhism, not VOT's
+invention** (graduated teaching; householder vs. renunciant). The genuine differences shrink to three: (i) VOT
+does **not rank** the tiers (the engaged life is not a lower rung toward cessation); (ii) the tiers are divided by
+**collapse-risk**, not readiness-for-liberation; (iii) VOT **affirms as equally valid** what Buddhism diagnoses as
+bondage (*bhava-taṇhā* — the ecstatic-affirmative cell). Both agree *empirically* that the ecstatic mode is
+higher-risk; they differ *normatively* on what to do. So VOT ≈ **a de-ranked, naturalised, non-normative Buddhism
+whose floor is collapse, not craving** — a reinterpretation, not the orthodoxy (already flagged at C1: "not strict
+Madhyamaka"). VOT's floor sits roughly at the *stream-entry* boundary (gross irreversible suffering), and it
+**declines** to treat full cessation (arahantship) as the mandatory endpoint — that is the disagreement.
+
+**Detection — the whole thing turns on this.** A floor is useful only if its approach is visible *before* the
+point of no return, from *actual* (non-counterfactual, R1-safe) evidence. The proposed signal is **critical
+slowing down / early-warning signals** — rising autocorrelation, rising variance, slowed recovery from
+perturbation, all read off the actual time series. The *psychological* reason people cross a floor they could have
+seen coming is **abstraction-based coping (AA, C8)**: the faint signal is semi-perceived and then *covered*
+(narrative rigidity, exit-devaluation). To keep AA from becoming an **unfalsifiable protective belt**, it must be
+a **pre-hoc measured predictor, not a post-hoc excuse**: before collapse, measure (1) CSD signals and (2) AA
+markers, and predict *CSD rises → AA denies → collapse follows*; a case with CSD, no AA-reaction, and no collapse
+counts **against** the theory.
+
+**The single wager the framework rests on (stated plainly).** Everything above compiles to one empirical yes/no:
+**do real psychological and social collapses have genuine fold-bifurcation (tipping + hysteresis) structure,
+detectable in advance by parameter-light early-warning signals that transfer across levels and beat free-energy
+(FEP)?** If yes, VOT is a distinct cross-level theory — the collapse-gate as a single primitive, the CSD/AA
+pairing (formal signal + phenomenological account of the blindness), and the non-normative frame. If no, it is a
+loose redescription of critical-transition theory. **Honest status:** the one head-to-head run so far (an order
+operator vs. FEP, on open EMA data) **went to FEP**; the decisive test (hysteresis + a shared decline↔recovery
+parameter) needs a within-person recovery-arm dataset and is **pending** (the empirical Ω_proxy track). The bet is
+live but behind on the early points.
+
+**Relation to the core.** C11 asserts **no new primitive**: it is F6 (reversibility) read as a *dynamical* claim
+(fold-bifurcation), F7 / F9 applied to the one flag, and C7 / C8's collapse + AA machinery sharpened into a
+falsifiable programme. It hands the decisive question to the empirical track and states, without inflation, that
+the philosophy is complete precisely at the point where only data can speak.
