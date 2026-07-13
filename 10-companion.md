@@ -2,7 +2,7 @@
 
 *status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
 offered as a lens. Revisable.*
-Last updated: 2026-07-05
+Last updated: 2026-07-13
 
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
@@ -239,3 +239,78 @@ per F6.)
 deliberately non-predictive ("intentionally incomplete", "detection only retrospective") — pulls against the
 empirical program's predictive make-or-break tests. Resolving the recovery *sign* does not resolve that
 *register* conflict, which is held open elsewhere. AA is offered as a lens (companion), not an established mechanism.
+
+## C9. Death / finitude — the limit case of individual irrecoverability
+
+Source: derived here from the core — the individual-level C4 face of **F0**, the liberation model (**C3**), the
+Suffering Order (**C7**), abstraction-based coping (**C8**), self-as-style (**F12**), and time-as-index (**F11**).
+Previously held in `20-open.md` as "writable, not yet undertaken"; this is the writing. Offered as a companion
+reading, not a frozen commitment.
+
+**The position in one line.** Death is the **maximal, unconditional case of individual irrecoverability** — the
+one loss for which F0's "recovery of action" demand (**C4**) is structurally unpayable. The theory therefore
+gives death a *location within the schema*, not a consolation: it declines every device that would "settle the
+account" (afterlife, a karmic ledger, redemptive legacy — F0's **P6**, smuggling a recovery mechanism into the
+world), and it **equally** declines the opposite over-reach ("there is provably nothing, and that is fine").
+
+**What death *is*, structurally (F12 + F11 + F1).**
+- Under **F12** (self = the maintenance of a *style*, not an identical thing), death is the **irreversible
+  cessation of a style's instantiation** — not the annihilation of a *substance that was there* (under **F1/OSR**
+  there was no svabhāva-bearing thing to annihilate). This dissolves *one* classical terror (the destruction of a
+  substantial soul), but honestly **not the terror itself**, which is a real affective pattern (below), not an
+  error to be argued away.
+- Under **F11** (time = the index the Z-layer reads off coherence-change; the future = a state-space *formed
+  within the present*), death is the **closure of the future-side state-space** — the terminus of the very locus
+  where formation happens. This is why the theory sides, *structurally*, with the deprivation reading (Nagel:
+  death's sting is the foreclosed future) over a pure Epicurean dismissal — while staying **non-normative** (F7)
+  on whether that foreclosure is "bad".
+
+**Where it parts from Epicurus.** Epicurus ("when we are, death is not; when death is, we are not → the fear is
+irrational") is *half*-endorsed: the theory agrees there is **no post-mortem subject to whom the badness of
+being-dead accrues** (consistent with F12 and the F8 shelving). But it rejects the therapeutic conclusion, on two
+counts the core forces: (i) death's structure is not only the *state* of being dead but the *closure of the
+forward state-space* (F11) — a deprivation that is real *from the present*, where the subject still stands;
+(ii) the fear is a genuine **collapse-signal** (C7: suffering = anticipated −dC/dt), not a reasoning mistake. So
+"death is nothing to us" over-consoles; the honest form is *"death is un-recovered (F0.C4) and forecloses the
+forward space (F11); whether to fear it is not something a descriptive theory commands (F7 / F9)."*
+
+**Death and the anti-fixation spine (F6 + C3) — the load-bearing move.** F6 has used "death" *metaphorically*
+throughout — *fixation = the death of a category; cessation is death, reversibility is life*. Biological death is
+the **limit case where the metaphor becomes literal**: the irreversible cessation of a style. The theory must
+**not** slide from this into "therefore fear death less, because it is natural" (that would be F7 is→ought). What
+it *can* say is precise, and it separates two things the fear usually fuses:
+- **The fact** — death is irreversible and un-recovered (F0.C4). This is **not** softened. Any softening is a
+  P6 smuggle or a C7 *false-pleasure* misfire ("it's fine — they live on in …").
+- **The grip** — the *suffering* of death is largely a **fixated AA** (C8): the self-style grasped as a
+  thing-that-must-not-end. The liberation model (**C3**, a β-side change) can *release the grip* — dissolving the
+  fixation on self-continuity so that collapse-badness is seen as **response-dependent, not an absolute cosmic
+  wound** — **without lying about the irreversibility.** This is exactly C3's fork: the *withdrawing (static)*
+  path loosens the grip; the *returning (dynamic)* path still acts and teaches under the same finitude.
+  Liberation here is **not** immortality and **not** denial (either would be the very fixation it claims to cure);
+  it is the internal witness that the badness was response-side.
+
+Holding the fact and the grip apart is the whole content: **the irreversibility is not negotiable; the suffering
+is.**
+
+**The civilizational face (C2) — descriptive only.** Under the scale-transition constraints (**C2**: carrier
+replaceability + non-personal memory + reversible correction), individual finitude is *structurally* the
+mechanism by which a collective style persists while its carriers turn over — a *literally* immortal,
+unreplaceable individual would be **fixation at the civilizational scale** (the death of the category one level
+up). Stated as structure, not as comfort: this explains the *role* finitude plays; it confers **no value or
+meaning** on any particular death (that reservation is F7 — and is exactly why S8's "*ought* to keep choosing the
+fiction" was retracted).
+
+**What stays open (F6 discipline — this does *not* close).**
+- The **phenomenology of dying** — "what it is like" for observation to cease — is **F8**-shelved (beyond the
+  observation limit, in principle). C9 speaks to what death *is structurally*, never to the inside of the terminus.
+- **Whether anything continues** — the theory declines the afterlife-smuggle (P6) *and* refuses to assert "there
+  is provably nothing": asserting a positive metaphysical fact about post-mortem non-existence would overreach the
+  observation limit exactly as S1's idealist overshoot did. **The silence cuts both ways** (F3).
+- **"Why care that I die at all"** — the grip of caring is a *fact* with an origin (F9 / C5), not a grounded
+  ought; the deep why is left open.
+- **The death of *others*** (grief, the loss of a Thou) — routes through C5 (the relational origin of self) and
+  the Other-Minds item (`20-open.md` O1); sketched, not developed.
+
+**Relation to the core.** C9 closes the irrecoverability arc — **F0.C4 → C8 → C3 → F12 → F11** — by giving its
+paradigm case (death) a written position while keeping the four residues above honestly open. It asserts **no new
+primitive**: it is F6 / F0 read at the finitude scale, the way C7 is F6 read at the affective scale.
