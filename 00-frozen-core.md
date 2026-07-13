@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Last updated: 2026-07-05
+Last updated: 2026-07-13
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -29,6 +29,26 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 **Why (intuition, not proof).** Closing W (total explanation) costs E its external warrant and makes V's ground circular; securing S re-opens W (the subject becomes a privileged point); objectifying V leaps from is to ought; forcing A→R smuggles a "settling-of-accounts" mechanism into W; non-circularizing the ground forces an external terminus. Erecting "total explanation + subject + norm + recovery + ground" at once has, in every examined system, left a privileged point, a leap, or a circle somewhere. *That* is what "unsolved" actually is.
 
 **The payments are enumerable (P1–P7):** external warrant · silence/termination · de-normativization · thinning the subject · two-layering · smuggling a recovery mechanism · dissolving the question. "P-move" is descriptive, not pejorative — and a system that never demands all five (e.g. a naturalism that simply rejects C3/C5) is not "evading"; it is outside the schema's scope. The claim is conditional: *if* all five are demanded, payment happens somewhere.
+
+**The correspondence table — turning the thesis into a displayed pattern (P1–P7 across systems).** The seven payments are not idle bookkeeping: each is a move some major system actually makes, and across the survey below **no system secures all five demands without at least one P-move — or without simply dropping a demand, which leaves the schema rather than beating it.** *That displayed regularity is what upgrades F0 from a bare assertion to a demonstration.* Read "Secures" as *held strongly* and "Pays" as *the demand sacrificed and the P-move used*; a cell records **where** a system pays, not a verdict that it fails (P-moves are descriptive, above).
+
+*(P1 external warrant · P2 silence / termination · P3 de-normativization · P4 thinning the subject · P5 two-layering · P6 smuggling a recovery mechanism · P7 dissolving the question.)*
+
+| System | Secures (held strongly) | Pays — P-move → demand | The tell |
+|---|---|---|---|
+| **Platonism** (Forms / math) | C1, C3, C5 | **P1** → C2: the ground sits *outside* the world (the Form-realm = the God's-eye seat; drops self-inclusion B) | "the ground is elsewhere; how the knower *here* touches it is the residue" |
+| **Classical theism** (Aquinas, Leibniz) | C1, C3, C4, C5 | **P1 + P6** → C4/C5: an uncaused external point (P1); providence / afterlife settles the account (P6); Euthyphro = the C5 circle | "the account is settled — by an Auditor outside the ledger" |
+| **Kant** (transcendental idealism) | C2, C3 | **P5** → C1: phenomena / noumena two-world; the thing-in-itself is walled off; the moral law rests on the 'fact of reason' | "keep the subject and the law — at the price of a second, unknowable world" (the two-world **F3** rejects) |
+| **Hegel** (absolute idealism) | aims at *all five* | **the circle (C5) + P6**: self-grounding is embraced as a virtue (Agrippa's circle, *chosen*); the 'cunning of reason' recovers history (P6) | "nothing is paid — because the circle is renamed a spiral" |
+| **Spinoza** | C1, C5 | **P4 + dogma (C5)**: *causa sui* is the self-causation terminus (Agrippa's dogma); the self is a mode, not a substance; necessity dissolves C4-as-desert | "the ground causes itself; the self is a wave in it" |
+| **Nāgārjuna / Madhyamaka** | anti-foundational consistency | **P2 + P4**: silence on the ultimate (no-thesis); no-self (*anātman* dissolves C2); refuses C5-as-ground (grasping emptiness as a view = the error) | "no thesis, no self, no ground — held as the cure, not a lack" (this theory's ancestor; **F6** origin) |
+| **Logical positivism** (Vienna Circle) | a deflated C1 | **P3 + P7**: ethics emotive (C3); metaphysical / ground questions ruled meaningless (C5); the verification principle is itself unverifiable | "the questions that can't be paid are ruled out of order" |
+| **Scientific naturalism** (Quine-style) | C1 (fallible, holistic) | *declines* C3 / C5 → **out of scope, not evading**; but a *complete, self-including* C1 meets **F0-L** → then **P2** (incompleteness) or a slide to **P1** (Platonism of laws / maths) | "drop the two demands and you owe nothing — but you've left the schema, not won it" |
+| **Existentialism / Nietzsche fork** | C2 (radical freedom / a self-made self) | **P3** (+ **P4** in Nietzsche): value is created, not found (C3 / C5 lose objectivity); the 'doer behind the deed' is a grammatical fiction | "keep the subject by making it the *author* of value — and pay away value's objectivity" |
+| **Pragmatism** (Dewey, Rorty) | workable, fallible truth (≈ this theory's **F4**) | **P7 + P3**: drop correspondence-C1 and final-ground-C5 as questions that don't earn their keep; ethics = social practice | "stop asking what doesn't pay its way" (the closest cousin on the C1 / C5 axis) |
+| **This theory** (VOT) — *listed on purpose* | C2 as a *maintained style* (F12); fallible structural C1 (F4) | **P2** on C1 / C5, **P3** on C3 (F7), **P4** on C2 (F12); on C4 **no recovery smuggled** — non-recovery held descriptively (C8; death = the C4 face, C9). Move (iii) refused | "pays P2 + P3 + P4, declines P1 / P6 / P7, and argues the choice is least-escapist (F2) — *not* cost-free" |
+
+**What is frozen here, and what is not.** The **pattern** — no *examined* system secures all five without a P-move or a dropped demand — is F0's evidence and is frozen. **Individual cells are interpretive and revisable** (F6): correct the reading of Kant or Hegel and the pattern almost certainly stands, because the one *provable* corner (F0-L, below) already closes the C1∧C2 escape route independently of any cell. The table is **inductive** (R3): a survey of *examined* systems, offered fallibly — not a God's-eye proof over all *possible* systems, which would itself be move (iii), the very move the schema tracks. It is **falsifiable in the operative sense**: add a row whose "Secures" holds all five and whose "Pays" is empty, *without* dropping a demand, and F0 falls. The two apparent non-payers are instructive, not counterexamples — a system that **drops** C3 / C5 (naturalism) owes nothing but has left the schema; a system that **claims** to pay nothing by embracing the circle (Hegel) has only renamed the payment.
 
 **Modality, stated honestly.** The thesis says "never yet achieved, and structurally hard" — not a God's-eye "impossible". Asserting impossibility over all possible systems would itself require a privileged external standpoint (iii), the very move the schema tracks; so F0 applies **P2 to itself** and does not claim to be a final theorem. It is frozen as the theory's considered bet (R3), and it is falsifiable in the operative sense: exhibit a system meeting C1–C5 under the stated readings without a P-move, and F0 falls.
 
