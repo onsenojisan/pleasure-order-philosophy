@@ -2,7 +2,7 @@
 
 *status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
 offered as a lens. Revisable.*
-Last updated: 2026-07-13
+Last updated: 2026-07-14
 
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
@@ -68,6 +68,11 @@ are taken up in **C10** on F6's fixated/reversible axis).
 **Note (refined in C11):** "cessation of suffering" here does **not** mean *eliminating* suffering (that would
 still the whole pleasure/suffering wave); it means *non-fixation* — staying off the collapse-floor. The floor
 itself is refined in **C11** as **Ω̂-collapse (a fold-bifurcation)**, not −dC/dt magnitude.
+
+**The *mechanism* of the self-applied fixed point is developed in C12:** liberation works via an **internal
+gradient** — the intact observer / integration layer (X) releasing the fixated content *without fusing* — which is
+why it needs a minimum intact observer, why its failure mode is a *counterfeit gradient* (fixated AA), and why it
+must be verified by external error-contact (so it is not purely solitary). See **C12**.
 
 ## C4. Processual causal-history model (time)
 
@@ -531,3 +536,95 @@ individual despite a different FEP architecture.
 (fold-bifurcation), F7 / F9 applied to the one flag, and C7 / C8's collapse + AA machinery sharpened into a
 falsifiable programme. It hands the decisive question to the empirical track and states, without inflation, that
 the philosophy is complete precisely at the point where only data can speak.
+
+## C12. Recovery from the floor — external forcing, the internal gradient, and the sign of contact
+
+Source: derived here from the core — the collapse-floor (**C11**), the relational origin of the self (**C5**), the
+empathy layer (**Cs**), abstraction-based coping (**C8**), the liberation model (**C3**), and the civilizational
+carrier (**C2**). Where C11 defines the floor, C12 asks *how a system near or below it recovers* — and finds one
+variable running through every case: **the source and sign of external-error-contact (correction).** Companion (a
+lens), not frozen; no new primitive.
+
+**Below the floor, recovery must be *forced from outside* — because the floor is a hysteresis point.** Past the
+tipping point, small internal reversibility cannot climb back (that is what "irreversible" means at the
+individual / self level). Return then requires a **large external forcing** — not a substance poured in, but an
+*intact revision-capacity (Ω̂) lent as a temporary scaffold* until the collapsed system's own comes back online (a
+jump-start, not a fuel-transfer). The mystic's "God" (dark night) is one *symbolic form* of this containing-
+external; the theory names its concrete carriers:
+- **another person** (Cs / C5) — the deepest, because the self was *originally* bootstrapped by another's
+  regulation (infant biobehavioural synchrony, C5); rescue = a *re-bootstrap* of the relationally-born self;
+- **a tradition / institution** (C2 non-personal memory) — an accumulated, carrier-replaceable scaffold that
+  "knows the way through" when the individual does not;
+- **an intact lower layer of the same person** (the body B carrying a collapsed narrative Z) — external to the
+  collapsed *layer*, not to the system;
+- **the world** (a large enough external perturbation).
+
+**The rescue channels form a ladder, closing top-down.** External forcing must arrive through a channel, and the
+channels stack on the BYXCZ layers: **Z (narrative / meaning)** — words, reasons, reframing; **C (relational)** —
+being-seen, recognition; **B (bodily)** — co-regulation, breath / heart entrainment, silent presence;
+**substrate (physical / chemical)** — medication, direct forcing, non-relational. In psychological collapse these
+tend to close *top-down* (words stop reaching before the body does), so rescue must **descend to the lowest
+still-open channel** — which is why *silent presence* works when speech fails: it drops to the B-channel (C5's
+primordial synchrony), lending Ω̂ beneath the closed narrative channel. (Idealised — physical collapse can invert
+the order.)
+
+**The floor is therefore two-phase, and AA's contact-loss is its aperture gauge.** Phase 1: self-recovery
+impossible (hysteresis). Phase 2: *external* recovery impossible — the channels have closed. **AA's "loss of
+contact" marker (C8)** measures *which channels are still open* (the rescue-channel aperture); the **true point of
+no return** is where even the substrate channel closes (irreversible organic collapse / death).
+
+**Compassion (Cs) is the supply mechanism — and whether it depletes the rescuer turns on 持つ vs 把持.** Because Ω̂
+is a *capacity*, not a conserved substance, lending a scaffold is **not intrinsically zero-sum**. Two real
+constraints remain: a finite **effort cost** (attention, co-regulation — depletable, needs replenishment) and a
+**gradient requirement** (you must be above your own floor to lend; *the collapsed cannot rescue the collapsed*).
+Whether compassion *builds* or *burns* the rescuer is set by F6: **held (持つ) compassion** — "with you, but not
+you" — scaffolds from a maintained position and *exercises* Ω̂ (non-zero-sum, even generative); **fused (把持)
+compassion** — over-identification, boundary lost — drains *with* the collapsing other = **C7's empathic burnout,
+mechanised**. So "is compassion self-sacrifice?" dissolves into the already-drawn 持つ/把持 distinction:
+sacrificial *only* when fused. At collective scale, Cs is a *positive-sum circulation* of Ω̂ (reciprocal,
+C5-rooted) = a civilisation's **rescue infrastructure** (C2); its erosion freezes the circulation and shrinks
+everyone's rescue-access.
+
+**Self-rescue is possible — via the *internal* gradient — and that is C3's mechanism.** The self is layered
+(BYXCZ) and collapse is often *layer-specific*, so an intact layer can scaffold a collapsed one = **internal
+external-forcing**. **Liberation (C3)** is the paradigm: the **observer / integration layer (X)** relates to the
+fixated content (the grasping Z, the affective loop) *without fusing*, and thereby *releases* it — self-applied
+*because* it uses the within-person gradient, not a lift from below one's own floor. Hence (i) it requires a
+**minimum intact observer** — total, all-layer collapse leaves no internal gradient and needs an *actual* external
+rescuer (why insight-practice fails in acute psychosis); (ii) the observer capacity was *itself* relationally
+bootstrapped (C5 — one learns to witness oneself by first being witnessed), so internal and external forcing are
+**one lineage** (the internalised other vs the actual other; a teacher re-supplies the observer-function when
+one's own is too weak). **Failure mode — the counterfeit gradient:** the fixated lower layer *masquerading* as the
+observer ("I've let go") = spiritual bypassing = a **fixated AA (C8)**; this is why liberation is not purely
+solitary — the internal gradient must be *verified* by external error-contact, or it calcifies.
+
+**The one variable — correction, not height.** *Folie à deux* forces the sharpest correction to the whole
+picture. Two below-floor systems that couple do not merely fail to lift each other; they **sink together** —
+because mutual *confirmation* replaces *correction*, sealing off the last external-error-contact and putting
+**positive feedback** on the shared fixation (each round removes doubt, raises commitment → runaway). So recovery
+does **not** strictly require a *height gradient*; it requires a **source of external-error-contact (correction)**
+— a gradient is only one way to guarantee it. The coupling has a **sign**:
+
+| coupling | error-contact | outcome |
+|---|---|---|
+| gradient (one above) → correction flows down | + | lift |
+| symmetric mutual-*correction* (equals who challenge) | + | healthy — friendship, marriage, **peer review** |
+| symmetric mutual-*confirmation* (equals who echo) | − | **folie à deux** — sink |
+| isolation | weak (self + ambient reality only) | slow drift |
+
+What is fatal is not zero-gradient but **mutual confirmation with no external-error source** — *worse than
+isolation*, because it disguises fixation as intimacy (the rescue-channel is *open but carrying the wrong sign*).
+The **same mechanism scales**: a group that couples into mutual confirmation and repels external correctors as
+enemies is a **folie à millions** (echo chamber, cult, mob) — the individual and civilisational floors are one
+mechanism, matching C2's collapse gradient and the governance line "recoverability, not correctness" (C6 / C11).
+Its treatment is the structural inverse of the pathology: **separation** — reopening the correction-channel that
+coupling had replaced with confirmation. In the liberation model's vocabulary, folie à deux = **mutual capture**
+(相互捕捉), the inverse of non-capture (非捕捉 = decoupling from demand).
+
+**Relation to the core.** C12 asserts **no new primitive**: it reads F6 (reversibility is maintained by
+external-error-contact), Cs / C5 (relational supply of Ω̂), the BYXCZ layering (the internal gradient and the
+channel ladder), C8 (AA / contact) and C11 (the floor) *together, on the recovery side*. It is **descriptive**
+throughout (F7): it describes *when* recovery is possible, *when* it depletes the rescuer, *when* self-rescue
+self-verifies vs self-deceives, and *when* coupling lifts vs sinks — it commands none of it. Its practical content
+is a hypothetical imperative: *if you want to preserve reversibility, keep a source of correction — a coupling
+that only confirms removes it.*
