@@ -34,6 +34,8 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 
 *(P1 external warrant · P2 silence / termination · P3 de-normativization · P4 thinning the subject · P5 two-layering · P6 smuggling a recovery mechanism · P7 dissolving the question.)*
 
+*(Companion extension — two further exits close Wall 1's grid: **P8** consistency dropped · **P9** self-blindness. See Appendix: F0 Reconstruction §5.)*
+
 | System | Secures (held strongly) | Pays — P-move → demand | The tell |
 |---|---|---|---|
 | **Platonism** (Forms / math) | C1, C3, C5 | **P1** → C2: the ground sits *outside* the world (the Form-realm = the God's-eye seat; drops self-inclusion B) | "the ground is elsewhere; how the knower *here* touches it is the residue" |
