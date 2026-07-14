@@ -208,6 +208,8 @@ fold-bifurcation)**, not −dC/dt magnitude; and the identity "suffering = −dC
 bad is *collapse / fixation* rather than the *reaching-structure itself* — is held as a **wager against the
 Buddhist rival**, not a theorem (C11).
 
+*Note: "suffering = −dC/dt" here (and its dual, "pleasure = dC/dt" at F8) names **felt** suffering/pleasure only — the graded, reversible slope of coherence. Structural collapse (irreversibility) is a **separate axis**, treated at C11. The two dissociate: near the collapse gate, critical slowing makes −dC/dt small while structural danger is maximal — the painless character of Abstraction-based coping (C8). And the same low −dC/dt marks either serenity (structure open) or numbing (structure frozen); only the second axis tells them apart. Felt-suffering and the floor are therefore different quantities, not two readings of one scale.*
+
 **Relation to the core:** Appendix B (social coherence as neural synchronization *without any collective
 consciousness*, a "coherence window") is the careful version that **supersedes the loose "social
 YXCZ-integration" claim** (see `30-superseded.md` S6) and is consistent with C2. Appendix C (temporal

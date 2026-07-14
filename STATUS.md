@@ -1,7 +1,7 @@
 # STATUS — Ledger of Philosophical Propositions
 
 *Every proposition needed for The Pleasure Order, with its tier, status, and one-line position.*
-Last updated: 2026-07-13
+Last updated: 2026-07-14
 
 "Needed" means: load-bearing — what the theory owes for its own claims.
 By the author's own principle (Absence of Final Explanation — frozen as **F0**), the full list of philosophy never closes.
@@ -15,6 +15,7 @@ honest **declaration that it is open**.
 | # | Proposition | One-line position |
 |---|---|---|
 | F0 | Foundation (schema + lemma) | **Irrecoverability Schema**: the five demands {total explanation, subject, objective norm, action-recovery, non-circular ground} (C1–C5) are never jointly met — every system pays via P1–P7. Formal core **F0-L** proved for the C1∧C2 corner only (Gödel I/II + Tarski, Arrow-style; the Con(E) sharpening blocks the "explanation ≠ decision" escape for self-including E); C3/C4/C5 remain a motivated thesis (Hume + Agrippa), held fallibly (R3). **Licenses** — and on F0-L's corner forces — the governing rule; keeps the Open tier principled. |
+| F0-App | F0 Reconstruction (appendix — companion tier) | Restates F0's basis as **three external walls** (Gödel = C1∧C2 · Agrippa = C5→C3 · no-guaranteed-desert = C4), tiered *theorem / strong-argument / descriptive*; extends the P-move grid with **P8** (consistency dropped) and **P9** (self-blindness, ≠ P1); splits C4 into attribution (→ C2/P4, F12-dependent) and reconcile; restates falsification as 3 simultaneous tasks. **Changes no frozen statement** — [`04-f0-reconstruction.md`](./04-f0-reconstruction.md). |
 | F1 | Metaphysics | **Ontic Structural Realism (OSR)**. World = relations / patterns; no intrinsic ground. Ω = a descriptive reading of structure (D). |
 | F2 | Realism | **Methodological posit**. The world is real, prior, and shared (grounded in intersubjectivity), adopted for workability + as a guard against escapism — not a metaphysical assertion. Correct use of conventional truth. |
 | F3 | Epistemology | **Indirect realism (one-world) + silence on the ultimate ground**. We access the dependent world partially via reconstruction. Whether there is a self-standing ground is undecidable / untouchable → no assertion, no shape given. |
