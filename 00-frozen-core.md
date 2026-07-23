@@ -158,6 +158,11 @@ standards by which an inference is valid or a claim true — whereas F7 concerns
 normativity — what one ought to do or value. F0-L's completeness limit lives at F4's level; F7 denies only the
 practical/categorical ought.)
 
+(F7 states what value is **not**. The positive half — what a value-appearance then *is* — is answered using only
+**F5** (real patterns / styles) and **F12** (the self as a maintained style), as **a maintained style**: companion
+**C13**. That answer changes no frozen statement and adds no primitive; it fills the vacancy left by **S3**'s
+retraction of "value = Ω".)
+
 ### F8. Consciousness / qualia (closed by the observation limit)
 
 **The deep fact of "why is structure/function accompanied by *feeling*" lies beyond the observation limit →

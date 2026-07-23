@@ -1,7 +1,7 @@
 # Open — deliberately open questions
 
 *status: Open. Not to be filled — by design. Honestly declared open.*
-Last updated: 2026-07-13
+Last updated: 2026-07-23
 
 The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
 the five demands are never jointly met, so **explanation does not, in principle, converge.**
@@ -42,6 +42,23 @@ corner of the reversible side (a cousin of C3's returning path, not its opposite
 resolves "holding quietly" and gives 恍惚系 a coordinate. The early Hatena layer-mapping stays **not adopted**
 (superficial; misreads the *Übermensch* as ZZ). What remains **Open**: a full **Nietzsche philology / exegesis**
 (C10 is a placement, not scholarship) → out of scope; and the truth-value of the lens itself (companion, undecided).
+
+### Commensurability of styles — *the collective-level residue of companion C13*
+Companion **C13** holds that a value is a **maintained style** (F5 + F12). Two of its consequences are written
+there; the third is opened here. Shared response-architecture yields **commonality** — value-styles converge
+across people, as colour does — but description yields no rule for **commensurating** them: styles do not
+aggregate, and "A's style weighed against B's" has no common measure to be weighed on. This is the philosophical
+face of a wall the formal layer already reports: Ω_civ as emergent / non-additive, with the weighted sum conceded
+to be *a proxy, not an ontology*. Consequence: **any aggregation rule in use is an imported choice, not a
+description**, and must be declared as one wherever it appears (individual → group, group → civilisation).
+→ **Open**, and by F0 / F6 not to be closed by fiat.
+
+### The same-temperature audit — *residue of companion C13*
+Whether the corpus can describe **fixation and release at the same temperature**. If "the grip tightens" and "the
+grip loosens" are two directions on one axis, the text should be equally willing to describe either; wherever it
+leans toward release, a residual evaluative commitment sits under the descriptive surface. C13 permits such a
+commitment **only if declared** — an undeclared lean is unauditable, and therefore worse than a bounded stated
+one. **No verdict is recorded:** this is a standing audit on the corpus, not a closed finding. → **Open.**
 
 ## O2. Out-of-scope declarations (not gaps)
 
