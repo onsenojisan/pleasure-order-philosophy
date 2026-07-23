@@ -628,3 +628,106 @@ throughout (F7): it describes *when* recovery is possible, *when* it depletes th
 self-verifies vs self-deceives, and *when* coupling lifts vs sinks — it commands none of it. Its practical content
 is a hypothetical imperative: *if you want to preserve reversibility, keep a source of correction — a coupling
 that only confirms removes it.*
+
+## C13. Value as a maintained style — what remains after "value = Ω" is retracted
+
+Source: derived here from the core — real patterns / styles (**F5**), the self as a maintained style (**F12**),
+non-normativity (**F7**), anti-fixation (**F6**), and the surviving residue of the proto-ethics companion
+("good/bad as a relationally-born appearance"). **S3** retracted *"value = Ω"* and **F7** states that Ω is *not* a
+value — but both say only what value is **not**. C13 answers the remaining half — what a value-appearance
+positively **is** — using no machinery that is not already frozen. Companion (a lens), not frozen; no new
+primitive.
+
+**The move: value gets the treatment F12 already gave the self.** F12 thinned the subject to *the maintenance of a
+style, not the preservation of an identical thing* (the theory's **P4** payment). C13 applies the identical
+operation one step further out: **a value is a maintained style — an F5 real pattern — not a substance, not a
+primitive, and not something the theory must choose, ground, or maximise.** The bearer (the self) and the borne
+(the value) are thinned by one and the same move; nothing is added to do it.
+
+**"Value is appearance" must be read in exactly one of three senses — the third.** The phrase is ambiguous, and
+the ambiguity is load-bearing:
+
+| Reading | Claim | Status here |
+|---|---|---|
+| (i) *phenomenon* — value appears within experience | a claim about **location** | true but weak; says nothing about standing |
+| (ii) *mere seeming* — value appears present but is not (error theory, Mackie) | a **debunking** claim | **not asserted** — C13 is not an error theory |
+| (iii) *response-dependent real pattern* — real, doing objective work, salience observer-relative | **F5** (Dennett) | **the reading adopted** |
+
+Because F5 is already frozen as Real Patterns — *"they do objective work (compress / predict / constrain); which
+ones are salient is observer-grain-relative"* — reading (iii) needs no new apparatus. **A style is neither an
+illusion nor a mind-independent substance**, which is exactly the standing "value is appearance" requires and
+exactly what (ii) would destroy. A reader who takes C13 as debunking has substituted (ii) for (iii).
+
+**The price of admission — F5 does not grant reality for free.** A pattern is real *because* it does objective
+work. So value-as-style owes an answer to: **what does the value-pattern compress, and what does it predict?** The
+answer offered is Dennett's own — it compresses a large body of approach / withdrawal / maintenance regularity
+into a low-dimensional signal, exactly as the intentional stance's beliefs and desires do. Value-as-style
+therefore inherits the intentional stance's defence *and its costs.* **The cost is stance-relativity:** on this
+account "value is real" is never sayable without the qualifier *relative to a grain of description*. Where no such
+work can be shown for some purported value, its honest tier is **superseded (mere seeming)**, not companion —
+"style" is not a courtesy title.
+
+**Consequence 1 — styles do not rank, so no state can be crowned.** Two styles cannot be ordered on a single
+scale; ordering is what a *common measure* supplies, and a style is not one. This makes structural what the theory
+had already been doing by hand: C10 *"maps both forks, does not rank"*; C11 is *"flat above the floor"*
+(risk-gradients described, not value-ranked). It also settles a pressure that recurs from outside the theory —
+**liberation cannot be installed as the summit**, not because the theory disapproves of ranking but because there
+is no scale on which the crowning could be *stated*. (The normative guard — that goal-ifying liberation re-grasps
+it, 有愛 — remains a **separate** point; C13's objection is semantic, not a warning.)
+
+**Consequence 2 — collective commonality is obtained, and upgrades nothing.** Response-dependence and
+intersubjective stability are fully compatible: colour is response-dependent *and* robustly shared, because the
+responders share an architecture. Likewise individuals with similar bodies, similar predictive machinery and
+similar modes of collapse maintain convergent value-styles. **But the converse inference is invalid:** "so widely
+shared that it must be more than appearance" is the secondary-quality fallacy — universal colour perception does
+not make colour a primary quality. Convergence is evidence of a **shared response-architecture**, not of
+mind-independence. What is obtained is a *common appearance*, never a *non-appearance*. The guard is stated
+explicitly because that upgrade would re-import by a side entrance the very move — appearance taken as evidence of
+the real — that the empirical layer has already had to retract once.
+
+**Consequence 3 — what is *not* obtained: commensurability.** Description yields "A's grip loosened, B's
+tightened." It does not yield a rule for weighing A against B, and **styles do not aggregate** — two styles cannot
+be averaged. So the collective-level gap is not commonality (obtainable, above) but **commensurability** (not
+obtainable from description at all). This is the same wall the formal layer already reports: Ω_civ is held to be
+emergent / non-additive, and the weighted sum is conceded to be *a proxy, not an ontology*. C13 does not solve the
+aggregation problem — it explains **why it was never going to be solved descriptively**, and hands the residue to
+Open ([`20-open.md`](./20-open.md) O1). Any aggregation rule in use is an **imported choice**, and must be
+declared as one.
+
+**Not relativism — F6 still bites, descriptively.** That values are styles does not make all styles equivalent,
+because styles have **maintenance conditions**: a fixated style spends the reversibility its own maintenance
+requires, and fails — a *descriptive* failure, not a moral verdict. This is not new machinery either: C9 already
+reads death as *the irreversible cessation of a style* (F12 + F11). "Styles can fail, and fixation is how" is thus
+already frozen; C13 only notes that it holds of value-styles as of any other — which is what keeps the position
+from collapsing into "anything goes" without smuggling in an ought.
+
+**What this repairs — and a verification bound.** Legacy formulations that state value as *an appearance of
+level-relative Ω through BYXCZ* route through the **BYXCZ** faculty scheme, retired in the individual-layer
+retraction (BYXCZ → BXZ = the Triple Network, a relabel with no novelty; the appraisal layer retracted to SOC).
+Any such formulation now names a scheme that no longer exists, and survives only where frozen (earlier deposits
+are not editable and are covered by the boundary note). **C13 supplies the replacement and needs no faculty scheme
+at all:** value-as-style is stated in F5 + F12 alone, and is indifferent to how the individual layer is carved.
+*Bound:* a search of the live working repositories on 2026-07-23 found **no current document** carrying that
+formulation, so this paragraph fixes the replacement for legacy readings — it is **not** a report that an active
+file needs correcting.
+
+**Boundaries — what C13 does not do.** It does **not** reinstate "value = Ω" (**S3** stays retracted; Ω remains
+descriptive under **F1** / **F7**). It does **not** make the theory normative (**F7** intact: hypothetical
+imperatives only). It does **not** answer *why care at all* (**F9** stays open). It does **not** touch
+consciousness (**F8** shelved) — that a value-style is *felt* is precisely the item F8 declines. And it claims
+**no novelty**: the move is Dennett's, applied where F12 had already applied it.
+
+**Honest residue — the same-temperature audit.** Declining to use the word "value" is a *lexical* move; C13 is
+what makes it structural rather than merely verbal. The audit that keeps it honest: **can the theory describe
+fixation and release at the same temperature?** If "the grip loosens" and "the grip tightens" are genuinely two
+directions on one axis, the text should be equally willing to describe either. Wherever the writing leans, a
+residual evaluative commitment is present — which is permissible, but must then be **declared rather than carried
+tacitly**, because an undeclared lean cannot be audited and is therefore worse than a bounded stated one. No
+verdict on the corpus is recorded here → residue handed to [`20-open.md`](./20-open.md).
+
+**Relation to the core.** C13 asserts **no new primitive**: it reads **F5** (real patterns / styles), **F12** (the
+self as a maintained style), **F7** (non-normative), **F6** (fixation as descriptive failure) and **F1** (Ω
+descriptive) together, on the question **S3** left vacant. It is **descriptive** throughout (F7): it says what
+kind of thing a value-appearance is, why such things converge across people, why they do not rank, and why they do
+not aggregate — and commands none of it. Its practical content is a hypothetical imperative: *if you want a
+value-style to persist, do not fixate it — fixation spends the reversibility that maintaining a style requires.*
