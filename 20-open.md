@@ -94,7 +94,9 @@ one. **No verdict is recorded:** this is a standing audit on the corpus, not a c
   is **the one empirical question the whole framework rests on** (with AA, C8, tested as a *pre-hoc* predictor,
   not a post-hoc excuse). Handed to the empirical Ω_proxy track; **currently unproven** — the one head-to-head so
   far went to FEP, and the decisive hysteresis / recovery-arm test is pending. Also open there: operationalizing
-  the **(L, H, P)** frame — matching the horizon H to each level's own timescale, and validating the proxy P.
+  the **(L, P)** frame — validating the proxy P, and above all **identifying the basin** (deciding that a system
+  is in the lower branch rather than merely slow to recover), which is the residue the **O6** decision hands
+  over. *(H left the definition with that decision and survives only as a recovery-arm design parameter.)*
 - **Popular essay series** (生の余白論, 日常の構造, 人間の可能性 ①–⑤⑦) — accessible presentations of
   F10/F12/F0 and the old BYXCZ layering (retired, **S9**), not load-bearing propositions; deliberately out of
   scope for this skeleton.
