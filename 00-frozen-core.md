@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.2** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.3** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -259,6 +259,86 @@ present; the present is the locus of formation. (The fuller processual causal-hi
 Persistence is not the preservation of an identical thing but the **maintenance of a style through change.**
 The self is a rewritable image built from accumulated appearances (no fixed core).
 
+*The rest of this item (v1.3) is the minimum needed to carry what F12 actually bears — **P4** (the payment on
+C2), **C9** (death as the cessation of a style), **C13** (value as a maintained style), and the C4-attribution
+dependency **04 §6** declared. It is derived from frozen items and adds no primitive. Where the source articles
+speak to a point, their wording governs.*
+
+**1 — What individuates a style: what is not found when sought.**
+The self is there **as a working pattern** (「はたらき（パターン）」として在る) — like a whirlpool in a river,
+a form held while the material flows through. What, then, is the core that makes this style *this* one?
+**It is not found when sought** (「変わらない芯が、探しても見つからない」).
+
+The theory does **not** say "there is no fact of the matter about identity." That would be a negative
+metaphysical verdict about what lies past the observation limit — the form **F1 v1.2 and F3 forbid**. What can
+be said is the result of the search: looking for a core does not return one. (This is where the position parts
+from Parfit; see *Neighbours* below.)
+
+**This is what the P4 payment actually is.** "Who, then, is liberated?" (**C3**) has no substantial bearer —
+not because a bearer has been disproved, but because **what is not found when sought is not installed.**
+
+**2 — What "maintained" means, and how the theory reads it.**
+A style is being maintained when three things hold: **(i) restoration** — after perturbation it moves back
+toward its own form; **(ii) revision** — contact with external error can rewrite the form itself (**C12**);
+**(iii) survival of carrier turnover** — the form persists while the material is replaced (**C2**'s carrier
+replaceability, read at individual scale).
+
+This needs no new measure: **Ω̂ (revision capacity) already reads it.** The same quantity C11 uses as the floor
+and C12 uses for recovery serves here as the indicator of whether a style is still being maintained.
+
+**3 — The deed is there; the doer is not found.**
+What thins out: the unchanging core, the owner, the subject identical through time. What remains: **the act
+itself** — 「業は在る、しかし作者は見出されない」; 「行為は憶えられているが、それを担う持ち主が、探しても
+見つからない」.
+
+This discharges the dependency declared at **04 §6**: **attribution works without installing a bearer**, so
+nothing needs to stand behind the deed for it to be attributed, and attribution is absorbed into C2/P4 as
+planned. One line is held: **attribution is not desert.** That A→R is repaid along V is blocked at Wall 3 and
+belongs to C4's reconciliation side. "The deed is there" and "the deed is repaid" are different claims, and
+neither F7 nor Wall 3 delivers the second.
+
+**4 — A style can fail, and that is a description.**
+Styles have maintenance conditions, so they can fail to meet them. **Fixation** is failure of the kind that
+spends the very reversibility maintenance requires (**F6**; **C13** states this of value-styles, and it holds
+of the self-style for the same reason).
+
+This is **descriptive, not evaluative**. A failed style is not thereby *worse*; its maintenance conditions
+stopped being met. The source is explicit that no ranking is available: 「どちらが正しいかを裁く、第三の側
+は、無い」— there is no third side to adjudicate which is right. Reading a ladder into this is what **F7**
+forbids.
+
+**5 — The boundary is not the skin** *(internal derivation, flagged)*.
+The self-style does not bootstrap alone: it is brought up relationally (**C5**), and the observing capacity is
+itself acquired by first being witnessed (**C12**). So **maintenance is partly carried on the other's side**,
+and the style's boundary does not coincide with the individual body. *Flag:* this follows from C5/C12 inside the
+corpus; the anātman article does not go there — it stays with the body's own processes. Held at companion
+strength, not as a frozen commitment.
+
+**6 — Deliberately left open.**
+- **The individuation threshold** — where one style ends and another begins. **No line is drawn.** Under F5's
+  grain-relativity a sharp line is not available in principle; this is a consequence of F5, not a gap.
+- **Fission / duplication / gradual replacement** — **not treated.** The corpus takes no position and none is
+  invented here. Under §1 no adjudication is needed either: "which one is really me?" asks after the location of
+  something not found when sought. *This is not the claim that the question is malformed; it is the report that
+  the theory has no answer to it.* → Open.
+- **Post-mortem** — **F3**'s two-way silence (**C9**).
+
+**7 — What this item does not do.**
+F12 describes a structure; it is **not the loosening of the grip**. In the source's words: 「握りがゆるむのは、
+深い納得ではなく、その握りを、リアルタイムで"やらない"という、まったく別の作業」— the grip loosens through
+not-doing it in real time, which is a different job from deep understanding.
+
+So the reading "see that there is no core and the grip loosens" is not merely unsupported here; it is
+**excluded**. Between stating the structure correctly and actually loosening there is a distance description
+cannot cross. That distance is why **C3**'s liberation is *one thing (not grasping)* rather than an insight.
+
+**Neighbours (borrowed, not claimed).** Closest in form: **anātman / santāna** (the continuum without a bearer)
+— though, per **C1**, strict Madhyamaka is not claimed. **Dennett**'s self as a centre of narrative gravity fits
+F5 naturally. **Parfit**'s reductionism is close and instructive, but is **not adopted** where it asserts that
+identity is indeterminate or that there is no further fact: that is a positive claim about the structure of
+identity, and §1 declines it. Not **Locke** (the criterion is a maintenance pattern, not a memory chain), and
+not **animalism** (carrier turnover is allowed). No novelty is claimed.
+
 ### F13. Mental causation (placed against Kim's exclusion problem)
 
 Emergence = "higher-order constrains lower-order", but directionality (agency) is **not a rival cause competing
@@ -369,6 +449,30 @@ the ledger (**S10**, **S11**) with the drift's provenance left visible.
 **Unchanged:** F6's quoted origin phrase was checked against the *Nāgārjuna* article and holds; the stronger
 formulations there ("the one criterion", "fixation = the death of that category") are stated as F6's own, not as
 quotes, so the attribution stands. The Zenodo Nāgārjuna papers were not re-checked.
+
+### v1.3 — 2026-07-25 · F12 built out to carry its load
+
+F12 was two sentences bearing four loads: **P4**, **C9**, **C13**, and the C4-attribution dependency **04 §6**
+had explicitly routed to it. The expansion adds **no primitive** — it states what "a style", "maintained", and
+"attribution without a bearer" come to, using F5, F6, C2, C5, C12 and Ω̂, which are already frozen or companion.
+
+Checked against the sources before writing, and two things in the first draft were **wrong and were removed**:
+
+- *"There is no fact of the matter about identity / identity is indeterminate"* — a Parfit import. The source
+  (「私は『在る』。でも『変わらない芯』は無い」, 2026-07-14) says something different and more disciplined:
+  **「変わらない芯が、探しても見つからない」** — not found when sought. Asserting indeterminacy would have
+  repeated the very error **F1 v1.2** had just corrected: a negative metaphysical verdict past the observation
+  limit. §1 now reports the search result and declines the verdict.
+- *"Fission cases: the question is malformed"* — also a Parfit import, and **not in the corpus at all**. §6 now
+  records that the theory has no answer, which is a weaker and truer thing to say.
+
+Three things the sources supplied that the draft lacked: the self as **「はたらき（パターン）」**; attribution
+stated as **「業は在る、しかし作者は見出されない」** (which is what discharges 04 §6, and it is the author's
+formulation, not a constructed "trajectory"); and the non-ranking backed by **「どちらが正しいかを裁く、第三の
+側は、無い」** rather than derived. Added on the strength of the source: **§7**, which excludes the reading that
+seeing there is no core loosens the grip — 「握りがゆるむのは、深い納得ではなく…まったく別の作業」.
+
+**04 §6's declared dependency is discharged** in the direction F0 assumed; the appendix records it.
 
 **Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**

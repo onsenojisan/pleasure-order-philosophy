@@ -246,7 +246,12 @@ F0 states, rather than hides, the commitments its non-theorem walls rest on.
   rests C4's weight on reconciliation and routes attribution to C2
   (subject-thinning, P4). Whether attribution is cleanly absorbed there depends
   on the refinement of **F12** (self-as-mode); this dependency is declared, not
-  assumed away.
+  assumed away. **Discharged 2026-07-25 (F12 v1.3):** attribution works without
+  installing a bearer — the deed is there and is remembered, while no owner is
+  found when sought — so it is absorbed as planned. The line F12 holds is that
+  **attribution is not desert**, which leaves reconciliation exactly where
+  Wall 3 already had it. The dependency closes in the direction F0 assumed, and
+  no weight shifts back onto attribution.
 - **Wall 1 premise (added 2026-07-25).** The framework assumes **E ⊆ W** — the
   explanation system is part of the world it explains. Without it, C2 (a
   condition on the subject) does not deliver B (a condition on the description
