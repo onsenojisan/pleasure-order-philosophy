@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.3** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.4** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -283,13 +283,21 @@ toward its own form; **(ii) revision** — contact with external error can rewri
 **(iii) survival of carrier turnover** — the form persists while the material is replaced (**C2**'s carrier
 replaceability, read at individual scale).
 
-This needs no new measure: **Ω̂ (revision capacity) already reads it.** The same quantity C11 uses as the floor
-and C12 uses for recovery serves here as the indicator of whether a style is still being maintained.
+F12 states the conditions; it does **not** supply a measure for them *(corrected v1.4)*. Companion **C11 / C12**
+read them as **Ω̂** (revision capacity) — that is a **pointer, not an identification**: Ω̂ is companion-tier
+("truth-value undecided") and has **no operational measurement defined**, so a frozen item must not be made to
+depend on it. What is frozen here is the three conditions; how they are read is the companion's business.
 
 **3 — The deed is there; the doer is not found.**
 What thins out: the unchanging core, the owner, the subject identical through time. What remains: **the act
 itself** — 「業は在る、しかし作者は見出されない」; 「行為は憶えられているが、それを担う持ち主が、探しても
 見つからない」.
+
+*Canonical precedent (noted v1.4; no novelty claimed).* The formulation is old. **Visuddhimagga XIX**:
+*"Kammassa kārako natthi, vipākassa ca vedako / suddhadhammā pavattanti"* — there is no doer of the deed nor
+experiencer of the result; mere phenomena roll on. §3 is that, restated. *(Lineage caution: the Visuddhimagga is
+Buddhaghosa's Theravāda commentary — not sutta, and not Madhyamaka. This is a **cite / map**, not a lineage
+claim; **C1**'s "not strict Madhyamaka" stands.)*
 
 This discharges the dependency declared at **04 §6**: **attribution works without installing a bearer**, so
 nothing needs to stand behind the deed for it to be attributed, and attribution is absorbed into C2/P4 as
@@ -307,12 +315,13 @@ stopped being met. The source is explicit that no ranking is available: 「ど�
 は、無い」— there is no third side to adjudicate which is right. Reading a ladder into this is what **F7**
 forbids.
 
-**5 — The boundary is not the skin** *(internal derivation, flagged)*.
-The self-style does not bootstrap alone: it is brought up relationally (**C5**), and the observing capacity is
-itself acquired by first being witnessed (**C12**). So **maintenance is partly carried on the other's side**,
-and the style's boundary does not coincide with the individual body. *Flag:* this follows from C5/C12 inside the
-corpus; the anātman article does not go there — it stays with the body's own processes. Held at companion
-strength, not as a frozen commitment.
+**5 — Moved out** *(v1.4)*.
+v1.3 claimed here that maintenance is partly carried on the other's side, so the style's boundary does not
+coincide with the individual body. That claim **now lives in C12**, restated, and it does not belong in the
+frozen tier: its premises were companion (C5, C12), and its argument ran from *developmental origin* to *current
+constitution* without discharging the step — a scaffold needed to build something is not thereby part of it.
+The literature that does support it supports a **weaker and better-stated** claim, and supports it directly in
+adults, so the step was never needed. Kept as a stub rather than deleted, per **F6**.
 
 **6 — Deliberately left open.**
 - **The individuation threshold** — where one style ends and another begins. **No line is drawn.** Under F5's
@@ -487,6 +496,32 @@ formulation, not a constructed "trajectory"); and the non-ranking backed by **�
 seeing there is no core loosens the grip — 「握りがゆるむのは、深い納得ではなく…まったく別の作業」.
 
 **04 §6's declared dependency is discharged** in the direction F0 assumed; the appendix records it.
+
+### v1.4 — 2026-07-25 · F12 checked against science and the Buddhist canon
+
+v1.3 was written from frozen items alone. Looking outward found one section that had to leave, one that had a
+1500-year-old precedent, and one tier violation.
+
+- **§5 moved to C12.** "The boundary is not the skin" was frozen-tier text resting on companion premises (C5,
+  C12), and its argument ran from *developmental origin* to *current constitution* without discharging the step.
+  The step turns out to be unnecessary: **Coan's social-regulation work** shows the effect **in adults and
+  ongoing** — spousal hand-holding attenuates threat-response activation, graded by relationship quality — and
+  **Social Baseline Theory** puts social proximity as the *baseline* with self-regulation as the costlier
+  deviation. **Hofer's "hidden regulators"** supply the developmental mechanism. So the claim survives, restated
+  at F5's grain-relativity ("at the grain where maintenance is tracked, the pattern does not stop at the skin"),
+  and it belongs in **C12**, whose subject it always was.
+- **§3 has a canonical precedent, now cited.** *Visuddhimagga* XIX: *"kammassa kārako natthi …
+  suddhadhammā pavattanti"* — no doer of the deed, no experiencer of the result, mere phenomena roll on. The
+  constructed "causal trajectory" of the first draft was a worse re-invention of this. Lineage caution recorded:
+  Theravāda commentary, not sutta and not Madhyamaka — cite/map, not lineage.
+- **§2's Ω̂ demoted from identification to pointer.** A frozen item may not depend on a companion-tier quantity
+  that has no operational measurement. F12 states the conditions; C11/C12 read them.
+
+Also checked and **declined**: the canon does not support the social constitution of the self (*anattā* is
+analysed intra-personally; the chariot simile is mereological), and the Huayan Indra's-net reading that would
+support it is the reification **C1** warns against. The nearest canonical support — **SN 45.2**, good friendship
+as *the whole* of the holy life — lands on **C12**'s claim, not F12's, which is independent confirmation that
+the section was in the wrong place.
 
 **Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
