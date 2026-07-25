@@ -23,6 +23,18 @@ How representations / words come to be "about" the world. Not essential to the c
 As a direction it can be written as "causal / predictive coupling with real patterns" (F5 + R1), but it is not
 developed. → **Open.**
 
+### Determinism or indeterminism
+Whether the world is fully deterministic. **Not needed by the core** *(opened 2026-07-25)*: the theory uses two
+things — that there is **no independent free causation** at the action layer, and that agency is a **bias within
+causation** (F10) — and both hold whichever way the question falls. The denial of libertarian free will in
+particular does not depend on determinism, since indeterminism does not deliver libertarian free will either
+(an undetermined act is luck, not authorship). Deciding it would also require taking a side in an unsettled
+question in the interpretation of physics, in which the theory has no stake, and the source article applies the
+observation limit to precisely this point ("humans have no way of verifying the truth of the ultimate layer").
+→ **Open**, by **F3**'s silence. This is a principled opening in the F0/F3 sense, **not** a debt like O5/O6.
+*(The frozen core asserted full determinism from 2026-07-13 to 2026-07-25; that was a misreading of its own
+source — see S10.)*
+
 ### Other minds (the epistemological problem)
 How one knows that other people have inner experience.
 Handled in practice by intersubjectivity (F2) + analogy + treatment as real patterns.
@@ -117,17 +129,19 @@ listed here because it is unresolved, and resolving it needs a decision that rea
 because the counterfactual ban makes Lewis / Woodward unavailable, and asserts that "collapse, directionality,
 dΩ/dt all ride on causation in this sense." Three parts of the corpus sit badly with that:
 
-- **F13** answers Kim's exclusion by making directionality a *structural constraint* on lower-order patterns.
-  A structural constraint transmits no conserved quantity, so on R1's own account it is **not a cause** — which
-  is Kim's second horn (epiphenomenal), not an escape from it.
+- ~~**F13** answers Kim's exclusion by making directionality a *structural constraint* on lower-order patterns.~~
+  **Front closed, v1.2.** This was largely an artifact of a paraphrase: the source says agency is *the bias in
+  how a structure transforms the causes running through it*, not a constraint on lower-order patterns. A bias in
+  an actual process is a fact **about** that process, which is exactly what R1 admits — no downward-constraint
+  licence is needed. See **S11**. What follows survives unchanged.
 - **Companion C12** is throughout a theory of **interventions** ("external forcing", lent Ω̂-scaffolds, rescue
   channels). Intervention-talk is Woodward-shaped, and R1 bans it by name.
 - **Companion C11**'s hysteresis and its "detectable *before* the point of no return" both carry modal content
   ("would not return", "if nothing intervenes"), while claiming to be non-counterfactual and R1-safe.
 
 Three exits are visible, and the theory has not chosen: (a) **two-level** — process causation at the physical
-level, everything above stated as actual-frequency trajectory description (R2-consistent), which costs F13 its
-"constraint" wording and costs C11/C12 their causal register; (b) **relax the ban** to admit actual manipulations
+level, everything above stated as actual-frequency trajectory description (R2-consistent), which now costs only
+C11/C12 their causal register (F13 no longer needs it); (b) **relax the ban** to admit actual manipulations
 (an intervention that really occurred is actual, not counterfactual), which reaches the Zenodo *Prohibition of
 Counterfactuals* and must be settled there, not here; (c) **change the account of causation**. → **Open**, and
 flagged as load-bearing: the theory's explanantia are all higher-order structural quantities.

@@ -167,6 +167,54 @@ executed, which is exactly what this ledger exists to prevent. The successor its
 (`BXZ` 2026-07-01 → `BXKZ` 2026-07-20, finalised 2026-07-25), and both steps are recorded above rather than
 collapsed into a single tidy verdict — for the same reason.
 
+## S10. "Action layer = full determinism" (this repository's frozen core, 2026-07-13 → 2026-07-25)
+
+*This entry runs the opposite way to the others. Everywhere else the ledger records a position the author held
+and later dropped. Here the author never held it: the frozen core **misreported its own source**.*
+
+**Claim.** F10 read "**Action layer = full determinism**", citing the note article *Free Will · Settlement
+Edition* (2025-11-29) as having settled it.
+
+**Why dropped.** The article says something weaker, and on the very point in question says the opposite of a
+verdict:
+- what it asserts is the absence of *independent free causation* — "at the action level there exists no
+  independent causal freedom whatsoever"; "action is not something that begins freely, but a phenomenon that
+  arises naturally when the conditions are met";
+- and it applies the observation limit to the determinism question itself — "**humans have no way of verifying
+  the truth of the ultimate (真諦) layer**"; determinism at the structural level is beyond the observation
+  limit, and only the conventional level can be assessed.
+
+"No independent free causation" and "the world is fully deterministic" are different claims: a world with
+objective chance has no independent free causation either. The strengthening entered on 2026-07-04 through a
+coverage audit's paraphrase of the article, and hardened into the frozen core on 2026-07-13; the article's own
+silence clause was dropped in transit.
+
+**Replaced by:** F10 v1.2 — no independent free causation at the action layer; **no verdict on determinism**
+(F3's silence governs, per the source); agency = directionality, unchanged. The determinism question is declared
+open as *not needed by the core* (`20-open.md` O1), not as a debt. Independent support for not needing it: the
+denial of libertarian free will does not depend on determinism, since indeterminism does not deliver it either.
+
+**Note on the note.** The article requires no correction and no reader warning — it was read wrongly, not
+written wrongly. This entry exists so that the frozen core's own error is visible, and so the same paraphrase is
+not re-imported later.
+
+## S11. "Directionality is a structural constraint on lower-order patterns" (frozen core F13, same window)
+
+**Claim.** F13 rendered agency as **a structural constraint on lower-order patterns**, presented as the answer
+to Kim's exclusion problem.
+
+**Why dropped.** Same source, same failure mode, milder. The article's wording is *"the bias in how the internal
+structure transforms outer causation … is what agency essentially is"* and *"volition appears as a direction
+within the flow of causation"*. A **bias in a transformation** is not a **constraint on lower-order patterns**:
+the second imports downward constraint, which then requires a theory of causation to license it — and **R1**'s
+process account has no room for one. Part of the conflict declared at O5 was therefore self-inflicted by the
+paraphrase. The source also **never mentions Kim, exclusion, or overdetermination**, so the framing "answer to
+Kim" was a placement presented as a report.
+
+**Replaced by:** F13 v1.2 — the source's wording restored, the Kim framing explicitly marked as *placement, not
+report* (the discipline C10 already applies to Nietzsche), and O5 narrowed to the two fronts that survive
+(C11's hysteresis, C12's interventionism).
+
 ---
 
 ## The trajectory this ledger records
