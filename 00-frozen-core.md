@@ -376,9 +376,23 @@ Having banned counterfactuals ("if it had been otherwise"), the dominant counter
 accounts (Lewis / Woodward) are unavailable. → **Process theory (Salmon / Dowe)**: causation = actual physical
 process / transmission of conserved quantities; look at the actual connections in the actual world. Dependent
 origination, collapse, directionality, dΩ/dt all ride on causation in this sense.
-⚠ *Declared conflict (2026-07-25, no claim revised):* that last sentence is asserted, not argued, and it is under
-strain from three directions — F13's structural constraint, C12's thoroughly interventionist recovery machinery,
-and C11's modally-loaded hysteresis. → [`20-open.md`](./20-open.md) **O5**.
+
+**What the ban actually prohibits** *(added 2026-07-25, after reading the source — Zenodo 18428019).* The
+prohibition is stated universally — *"Only what has occurred, and how it is structurally describable, is
+admitted"* — but its **target** is explanation moving **behind** the observable: counterfactuals demand
+something that could have varied, that demand introduces a causal layer, and explanation then closes there
+("causal recovery"). The operative test is therefore: **does the claim posit something behind the observable
+that could have been otherwise?** Excluded by name are *alternative histories*, *latent causes invoked to
+explain actual outcomes*, and *hypothetical variations used to ground explanation*.
+
+Two consequences worth stating, because the ban has been read more widely than it reaches. **(a) Experiments are
+not its subject** — the paper does not mention experiments, interventions, manipulation or controlled comparison
+anywhere. An intervention that actually happened *is* something that has occurred, and describing it is
+structural description, not counterfactual extension. **(b) Forward-looking conditionals are not
+counterfactuals**: "if we do X we will observe Y" is a claim about what will actually occur. *(Reading note: that
+a controlled comparison also escapes — both arms actually occur, so the contrast is between two actual histories
+— follows from the stated criterion but is not a sentence in the source.)* What remains prohibited is the
+difference-making register applied to a single actual case: *"without this, that would not have happened."*
 
 ### R2. Modality / probability → actual frequency (frequentist)
 

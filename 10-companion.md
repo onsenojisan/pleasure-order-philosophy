@@ -274,7 +274,25 @@ dissolves once "recovery" is split into its three distinct referents:
 - **(3) system-level forward repair-capacity** — the Ω̂ / viability sense (the capacity to keep revising /
   adapting). AA *spends* this (global stability ↓).
 There is no contradiction: AA raises (2) by consuming (3), while (1) is untouched — which is just AA's defining
-signature (local ↑ / global ↓) restated. Its sign on (3) is set by **F6**: a *revisable* AA preserves Ω̂; a
+signature (local ↑ / global ↓) restated.
+
+**The word carries five senses across the corpus, not three — the full table, so the next merge does not happen.**
+Senses (1)–(3) above are the ones AA's sign-flip turned on. Two more live elsewhere and are easy to import by
+accident:
+
+| | Sense | Where it lives |
+|---|---|---|
+| (1) | undoing *this* concrete token loss | C8, above (F0's C4 face) |
+| (2) | the local-apparent repair AA manufactures | C8, above |
+| (3) | system-level forward repair-capacity (Ω̂) | C8, above; C11's floor; C12 |
+| (4) | **recovery of action** — A→R repaid / reconciled along V | **F0's C4**, and the Wall 3 that blocks it |
+| (5) | **causal recovery** — explanation closing by reference to a recovered *cause* | **the counterfactual-ban paper** (Zenodo 18428019) |
+
+⚠ **Sense (5) is the dangerous one.** That paper's headline consequence is *"the structural non-occurrence of
+recovery"*, and **R1** cites the paper. Read with sense (3), that sentence would say the theory holds recovery
+from collapse to be impossible — which would gut **C12** entirely. It says nothing of the kind: it says that,
+with counterfactuals banned, explanation cannot close by recovering a hidden cause. *Checked 2026-07-25: no
+document in this repository has made that merge.* The table is here so that none does. Its sign on (3) is set by **F6**: a *revisable* AA preserves Ω̂; a
 *fixated* AA (abstraction-induced breakdown, "frozen AA") destroys it. So AA is not intrinsically anti-repair —
 corrigibility decides. (This retracts the earlier "unresolved sign-flip" label; the correction is left visible,
 per F6.)
@@ -685,6 +703,20 @@ why it can be stated without one.)*
 Its treatment is the structural inverse of the pathology: **separation** — reopening the correction-channel that
 coupling had replaced with confirmation. In the liberation model's vocabulary, folie à deux = **mutual capture**
 (相互捕捉), the inverse of non-capture (非捕捉 = decoupling from demand).
+
+**How to read this companion's conditionals** *(register note, 2026-07-25).* C12 is full of forms like
+"recovery *requires* a source of correction", "the collapsed *cannot* rescue the collapsed", "external forcing
+*must* arrive through a channel". Under **R1**'s counterfactual ban these are to be read as **structural
+descriptions of what occurs** — the regularity observed across actual cases — and **not** as difference-making
+claims about a single case. Permitted: *"a scaffold was lent, and the trajectory changed"*; *"where no source of
+correction was present, recovery was not observed"*. Not permitted: *"without the rescue he would not have
+recovered"* — that is the prohibited form verbatim, and it is prohibited because it invites a latent cause
+standing behind the observable.
+
+Checked against the source (Zenodo 18428019) rather than assumed: none of C12's conditionals is in the
+prohibited form, and the ban's target is explanation moving behind the observable, not intervention as such —
+the paper never mentions experiments, interventions or manipulation. **So this companion needed a reading rule,
+not a rewrite**, and the practical content below is unchanged.
 
 **Relation to the core.** C12 asserts **no new primitive**: it reads F6 (reversibility is maintained by
 external-error-contact), Cs / C5 (relational supply of Ω̂), the individual-level layering (BXKZ — the internal
