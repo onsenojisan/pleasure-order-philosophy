@@ -96,7 +96,12 @@ two claims together, and only the first is argued for:
   undecided option.
 
 So F1 is OSR **as the standing posit of the describable world** — the same status F2 gives realism — not the
-metaphysical thesis "there are no intrinsic natures at the bottom." Asserting *that* would repeat, with the sign
+metaphysical thesis "there are no intrinsic natures at the bottom."
+
+**Why adopt it, then** *(added v1.4; F2 states its warrant and F1 did not)*. The warrant is **F5**: the senses
+deliver structure and not intrinsic natures, so what description can work with is relational structure. Note the
+**direction of support — F5 → F1, not the reverse.** F5's claim is epistemic (what the senses hand over); F1 is
+the posit adopted in light of it. Reading the arrow backwards would make the pair circular. Asserting *that* would repeat, with the sign
 reversed, the overshoot retracted at **S1**: a verdict about what lies beyond the observation limit.
 
 **Ω is a descriptive reading of that structure (D)** — of the temperature/entropy kind: real, but not a
