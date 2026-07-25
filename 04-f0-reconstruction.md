@@ -39,14 +39,30 @@ The five conditions partition cleanly across three external results.
 
 This is F0-L. C1 ("E finally and consistently explains W") entails completeness
 (D), consistency (A), and — because W contains arithmetic — expressiveness (C).
-C2 ("S is identifiable within E and survives as the bearer of E") entails
-self-inclusion (B). Hence:
+C2 ("S is identifiable within E and survives as the bearer of E"), **together
+with the premise that E is itself part of W**, entails self-inclusion (B). Hence:
 
 > **C1 ∧ C2 ⟹ A ∧ B ∧ C ∧ D.**
 
 By Gödel's first incompleteness theorem, A ∧ B ∧ C ∧ D cannot jointly hold.
-Therefore C1 ∧ C2 cannot jointly hold. This is a **theorem**, resting only on
-the near-trivial premise that W contains arithmetic structure.
+Therefore C1 ∧ C2 cannot jointly hold. This is a **theorem** *for systems that
+grant its two premises*: that W contains arithmetic structure (near-trivial), and
+that **E ⊆ W** (not near-trivial — see §6).
+
+**Why the second premise is needed, stated plainly** (added 2026-07-25). C2 is a
+condition on the *subject*: S is identifiable inside E and bears E. B is a
+condition on the *description system*: facts about E — what it asserts, whether
+it is consistent — are among the world-facts E must settle. These are not the
+same demand. "E must decide that S asserts p" is a fact about a physical or
+structural pattern; "E must decide Con(E)" is a fact about an abstract system,
+and only the second is what Gödel/Tarski reach. The bridge from the first to the
+second is the naturalistic premise that the explanation is *inside* the world it
+explains. Grant it and the wall stands as a theorem; deny it and Wall 1 is not
+breached but simply **not entered** — which is precisely the position of a system
+that seats its explanation outside the world. So the frozen table's charge that
+Platonism "pays P1" should be read as: *it declines the premise on which Wall 1
+operates, and pays elsewhere for doing so* — not as a verdict delivered from
+inside the wall. The consequence for scope is stated in §3.
 
 ### Wall 2 — Agrippa (Strong-Argument Tier). Blocks C5, hence C3.
 
@@ -108,9 +124,25 @@ declared premise, not a hidden verdict.
 
 A single inference fixes the evidential status of F0's central claim. Because
 any system securing all five must in particular secure C1 ∧ C2, and C1 ∧ C2 is
-impossible (Wall 1, theorem), **the existence thesis — "no system secures all
-five" — is entailed by Wall 1 alone.** It does not depend on Walls 2 or 3. Given
-W ⊇ arithmetic, it is a **theorem**.
+impossible (Wall 1), **the existence thesis — "no system secures all five" — is
+entailed by Wall 1 alone, for every system inside Wall 1's premises.** It does
+not depend on Walls 2 or 3. Given W ⊇ arithmetic **and E ⊆ W**, it is a
+**theorem**.
+
+**The quantifier this does and does not license** (corrected 2026-07-25). An
+earlier version of this section read the entailment as establishing the
+unrestricted universal — "no *possible* system secures all five." It does not,
+and the frozen core is right where this appendix was wrong: F0 states its thesis
+as "never yet achieved, and structurally hard," not as a God's-eye
+"impossible," precisely because the unrestricted claim would require the
+privileged external standpoint the schema tracks (move iii). What Wall 1
+delivers is a **conditional universal**: *no system that seats its explanation
+inside the world it explains secures C1 ∧ C2.* Systems outside that premise are
+not counterexamples and are not refuted — they are, by that very move, paying
+elsewhere, and what they pay is adjudicated by Walls 2 and 3, which are not
+theorems. So the headline is theorem-secured **within its premises** and remains
+inductive and falsifiable **outside** them. §7's self-application stands
+unchanged, and no longer conflicts with this section.
 
 Two honest consequences:
 
@@ -176,9 +208,19 @@ declines to assert; P7 declares a demand meaningless. P7 is aimed less at Wall
 C5/C3 question. But it reaches no *outside*: the meaning-criterion by which it
 voids ground-questions is itself an ungrounded ground-level claim — an underived
 terminus at Wall 2, or self-refuting. Likewise the more radical reading —
-rejecting the whole C1–C5 demand structure — is not a counterexample: declining
-to seek the conditions is the limiting case of payment (secure nothing), not an
-escape from the walls.
+rejecting the whole C1–C5 demand structure — is not a counterexample. But it must
+be classified the way the frozen core classifies it, and this appendix earlier got
+it wrong: **a system that never raises all five is *outside the schema's scope*,
+not paying a limiting-case price** (`00-frozen-core.md`: a naturalism that simply
+rejects C3/C5 "is not evading; it is outside the schema's scope … owes nothing but
+has left the schema, not won it"). The distinction matters, because F0's own row
+(§7) records VOT as *paying* P2/P3/P4 — and if declining a demand were itself a
+payment, that self-listing would be trivial rather than costly. So: **declining is
+not payment; it is exit.** The residual honesty point is that "does this system
+raise the demand?" is an interpretive question about a system's ambitions, not a
+structural one — so the *scope* boundary, unlike the cell verdicts, is not backed
+by a wall. That is a real limit of the wall-defence in §2 and is declared here
+rather than absorbed.
 
 Outside Wall 1: C2-thinning is P4; the C3/C5 concession (Wall 2) is P3; the C4
 concession (Wall 3) is P6.
@@ -205,9 +247,19 @@ F0 states, rather than hides, the commitments its non-theorem walls rest on.
   (subject-thinning, P4). Whether attribution is cleanly absorbed there depends
   on the refinement of **F12** (self-as-mode); this dependency is declared, not
   assumed away.
-- **Tier discipline.** Only Wall 1 is a theorem. Conflating the tiers would
-  restore the overclaim the circularity charge fed on. Tiers: Wall 1 =
-  Theorem; Wall 2 = Strong Argument; Wall 3 = Descriptive Fact.
+- **Wall 1 premise (added 2026-07-25).** The framework assumes **E ⊆ W** — the
+  explanation system is part of the world it explains. Without it, C2 (a
+  condition on the subject) does not deliver B (a condition on the description
+  system's own facts), and Gödel/Tarski do not engage: see §1. This is a
+  substantive naturalistic commitment, not a formality, and it is exactly what
+  a system seating its ground outside the world denies. Consequence: Wall 1 is a
+  theorem **for systems granting E ⊆ W**, and for the others it is a premise
+  dispute, with the payment adjudicated at Walls 2 and 3 instead. Declared
+  premise, not hidden verdict — the same discipline already applied to Wall 2.
+- **Tier discipline.** Only Wall 1 is a theorem, and only within its two declared
+  premises. Conflating the tiers would restore the overclaim the circularity
+  charge fed on. Tiers: Wall 1 = Theorem (premise-relative); Wall 2 = Strong
+  Argument; Wall 3 = Descriptive Fact.
 
 ---
 
@@ -218,9 +270,15 @@ secures all five") would demand C5 — a final ground for the universal claim. F
 declines that demand; it halts at a fallible, falsifiable pattern. So F0
 occupies its own table:
 
-> **F0** — *Secures:* C1 ∧ C2 (via F0-L, proven) plus, inductively, the sorting.
+> **F0** — *Secures:* the **impossibility** of C1 ∧ C2 (via F0-L, proven within
+> its premises) plus, inductively, the sorting.
 > *Pays:* **P2** at Wall 2 — it declines the final ground of its universal form
 > and halts at a corrigible pattern.
+
+*(Wording corrected 2026-07-25: this row previously read "*Secures:* C1 ∧ C2 (via
+F0-L, proven)". As written that claimed for F0 exactly what F0-L proves no system
+can have — which would have made F0's own row a counterexample to F0. What F0
+secures is the negative result, not the conjunction.)*
 
 F0 is thus not an exception seated outside the table. It is the one row that
 states its own payment in advance. Its claim is not "F0 escapes the trade-off"
@@ -237,7 +295,9 @@ an external wall (so the goalposts are not F0's to move):
 Exhibit a **single** system that at once —
 
 1. is complete, consistent, self-including, and expressive — **breaching Wall 1
-   (Gödel);**
+   (Gödel)** — *or* explains the world from outside it (denying E ⊆ W) while
+   still meeting the other two conditions, which exits Wall 1 rather than
+   breaching it;
 2. grounds V without regress, circle, or underived terminus — **breaching Wall 2
    (Agrippa);**
 3. guarantees, by natural law and without a posited settling mechanism, that
@@ -252,4 +312,15 @@ criteria are explicit — while making clear why no such system is in view.
 *This appendix changes no frozen statement. It supplies F0's external basis (the
 three walls), fixes the evidential tier of each claim (theorem / strong argument
 / descriptive), extends the payment taxonomy to close Wall 1's exits (P8, P9),
-and declares the premises and dependencies on which the non-theorem walls rest.*
+and declares the premises and dependencies on which the walls rest.*
+
+*Revision 2026-07-25 — three corrections to this appendix, none to the frozen
+core. (1) Wall 1's second premise (**E ⊆ W**) is now declared in §1 and §6; it
+had been folded into "near-trivial", and it is not. (2) §3 had read the headline
+as an unrestricted universal, contradicting both the frozen core's stated modal
+humility and §7 of this appendix; it is now a conditional universal, and the
+internal conflict is gone. (3) §5's note classified "declining the demands" as a
+limiting-case payment, where the frozen core classifies it as being outside the
+schema's scope; the frozen reading governs, and the residual limit — that the
+scope boundary is interpretive, not wall-backed — is declared rather than
+absorbed. §7's row wording is corrected in place.*

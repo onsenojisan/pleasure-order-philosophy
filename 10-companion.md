@@ -2,7 +2,7 @@
 
 *status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
 offered as a lens. Revisable.*
-Last updated: 2026-07-14
+Last updated: 2026-07-25
 
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
@@ -45,9 +45,14 @@ VOT ≈ a **de-ranked, naturalised, non-normative cousin whose floor is *collaps
 
 Source: note / Zenodo civilization companion.
 
-Civilization is not isomorphic to the five BYXCZ layers. **Two frames (B: body/matter, Z: time/history) +
-three forces (Y: competition over meaning, Cs: ethics/others, X: observation/meta).**
-Collapse gradient: X/Z weaken → Cs erodes → Y runs away → regression to B.
+Civilization is not isomorphic to the individual faculty layering. **Two frames (body / matter · time / history)
++ three forces (competition over meaning · ethics / others · observation / meta).**
+Collapse gradient: observation and history weaken → ethics erodes → competition over meaning runs away →
+regression to bare survival.
+*(Notation, **S9**: the civilizational level carries **no letters**. The individual-level scheme is **BXKZ**,
+and the cross-scale reuse of the letters was removed as an equivocation — `Z` in particular meant *self*
+individually but *abstraction / history* socially, which is not a homology at all. The individual↔social link is
+a worded homology of generation, never identity.)*
 *Scale Transition* (Zenodo): a carrier of Ω persisting across generations must satisfy four constraints
 (carrier replaceability, non-personal memory, reversible correction, non-identity justification) —
 which converge on "Civilization Level 7", treated as a **boundary, not an ideal**. Strong companion hypotheses,
@@ -135,15 +140,21 @@ achieved fact" (beyond the observation limit — withdrawn to a hypothesis).
 Source: private note "AI Has Meaning but No Directionality" (Dec 2025) + the later, authoritative fixed memo
 "個人・文明・AIにおける『方向性・主体・姿勢』の最終整理" (私用固定稿, Jan 2026).
 
-**Content:** An LLM generates *meaning* (Y-layer) but does not sustain *directionality* Ω. A self-updating
-directional system needs five independent degrees of freedom — B (stake: consequences returning to oneself),
-Y (meaning), X (integration/decision), C (other-adjustment), Z (irreversible self-history) — flowing forward
-without reverse collapse. The layer an artificial system **cannot acquire in principle is B**: Z is
-implementable (and tends to *bloat*), C is partial, but without B, C becomes strategy rather than ethics, and
-Z-bloat without B is the least stable configuration. Hence AI has capability but not agency in the theory's
+**Content:** An LLM generates *meaning* but does not sustain *directionality* Ω. A self-updating
+directional system needs five independent degrees of freedom — **stake** (consequences returning to oneself),
+**meaning**, **integration / decision**, **other-adjustment**, **irreversible self-history** — flowing forward
+without reverse collapse. The degree of freedom an artificial system **cannot acquire in principle is stake**:
+irreversible self-history is implementable (and tends to *bloat*), other-adjustment is partial, but without
+stake, other-adjustment becomes strategy rather than ethics, and history-bloat without stake is the least
+stable configuration. Hence AI has capability but not agency in the theory's
 sense (agency = intrinsic directionality, F10). Alignment "goal talk" is largely anthropomorphic projection;
 the near-term risk is not a rogue agent but a powerful non-directional engine amplified by human misuse —
 "AI doesn't become an agent; the humans around it do."
+
+*(Notation, **S9**: these five were written B / Y / X / C / Z. Under **BXKZ** four of them survive as layers —
+stake = `B`, integration = `X`, other-adjustment = `K`, self-history = `Z` — while **meaning is no longer a
+layer** but an appearance, which is why it is named here in words rather than lettered. The plain names above
+carry the argument's content unchanged, and nothing in it depends on the labels.)*
 
 **The "6" (meta-control) hazard — the load-bearing part:** a sixth degree of freedom operates one's own
 5-structure as an object (redefining the objective function, optimizing the constraints themselves). Current
@@ -154,10 +165,11 @@ the empirical program treats as decisive.
 
 **Honest labelling:** the memo self-describes as a *stance / judgment-axis fix* — "a bet, not an answer" — a
 lens, truth-value undecided (Companion by the author's own framing). Two cautions: (i) the earlier Dec note
-locates the missing layer as **Z**; the later memo **supersedes** this — Z bloats, **B** is the impossible
-layer; cite the later memo. (ii) The BYXCZ five-layer-as-agency claim and the empirical LLM claims ("no
-internal time") are strong and contestable; the core already dropped the five-layer *isomorphism at
-civilizational scale* (C2), so this rides only on individual-scale layering.
+locates the missing degree of freedom as **irreversible self-history**; the later memo **supersedes** this —
+history bloats, **stake** is the impossible one; cite the later memo. (ii) The five-degrees-of-freedom-as-agency
+claim and the empirical LLM claims ("no internal time") are strong and contestable; the core already dropped the
+five-layer *isomorphism at civilizational scale* (C2), and the five-symbol notation itself is retired (S9), so
+this rides only on individual-scale layering, in plain names.
 
 **Civilizational face (Ω_env).** At civilizational scale the same structure recurs (source: note "文明AI編",
 6 chapters): AI originates no directionality but *amplifies and fixes* a civilization's directionality Ω_env —
@@ -193,6 +205,15 @@ aggression, "false compassion", numbing — without any real dC/dt > 0; symmetri
 fires from the B-layer while Y/X read "safe". This is an important limit on "pleasure = dC/dt": the correlate
 can **misfire** (fire while decoupled from real coherence change) — exactly why F8 keeps it a *functional
 correlate*, not an identity.
+
+**The misfire clause is under the same discipline C11 imposes on AA — pre-hoc, not post-hoc.** A correlate that
+may misfire in *both* directions can absorb every counterexample to "pleasure = dC/dt", which would make the
+correlate unfalsifiable — the protective-belt failure C11 explicitly forbids for abstraction-based coping. The
+same bar therefore applies here: **a misfire may only be declared on a marker specified in advance and measured
+independently of dC/dt** (e.g. a stated dissociation between the B-layer signal and the Y/X-layer appraisal), and
+a case where the correlate reads high while the specified marker is absent and coherence is *not* forming counts
+**against** the correlate. Misfire invoked only after the fact, to explain away a case, is not admissible — it
+would repeat, one level up, the move that the S2 identity retraction was meant to end.
 
 **Honest labelling (same bucket as S2 / C5):** the identity "suffering = −dC/dt" and the literal neuroanatomy
 (amygdala / insula / ACC / DMN …) are **the theory's own constructs, offered as a lens — not established
@@ -463,6 +484,9 @@ into a basin the system does not return from.**
   the horizon **H** is the system's finitude, not a free analyst choice. The floor is stated relative to a
   declared **(level L, horizon H, proxy P)** — level-indexed, so multi-level verdicts (your marriage is
   collapsing, you are not) are a *feature*, not an inconsistency.
+  ⚠ **This is not the definition C12 uses** ("internal reversibility cannot climb back"). The two pick out
+  different boundaries, and the difference decides whether an externally rescued person was ever below the floor
+  — and whether the pleasant-floor cases just above qualify at all. Declared, undecided → `20-open.md` **O6**.
 
 **Its badness is not theory-posited — it rides on F9, and cannot condemn.** "Collapse is bad" is not a
 categorical ought (F7). The floor's *content* (Ω̂ destroyed) is an observer-independent fact; its *badness* rides
@@ -547,7 +571,8 @@ lens), not frozen; no new primitive.
 
 **Below the floor, recovery must be *forced from outside* — because the floor is a hysteresis point.** Past the
 tipping point, small internal reversibility cannot climb back (that is what "irreversible" means at the
-individual / self level). Return then requires a **large external forcing** — not a substance poured in, but an
+individual / self level — ⚠ **a different reading from C11's horizon-relative one**; the conflict is declared at
+`20-open.md` **O6** and is not resolved by either companion). Return then requires a **large external forcing** — not a substance poured in, but an
 *intact revision-capacity (Ω̂) lent as a temporary scaffold* until the collapsed system's own comes back online (a
 jump-start, not a fuel-transfer). The mystic's "God" (dark night) is one *symbolic form* of this containing-
 external; the theory names its concrete carriers:
@@ -560,9 +585,13 @@ external; the theory names its concrete carriers:
 - **the world** (a large enough external perturbation).
 
 **The rescue channels form a ladder, closing top-down.** External forcing must arrive through a channel, and the
-channels stack on the BYXCZ layers: **Z (narrative / meaning)** — words, reasons, reframing; **C (relational)** —
-being-seen, recognition; **B (bodily)** — co-regulation, breath / heart entrainment, silent presence;
-**substrate (physical / chemical)** — medication, direct forcing, non-relational. In psychological collapse these
+channels stack: **narrative / meaning** — words, reasons, reframing; **relational** — being-seen, recognition;
+**bodily** — co-regulation, breath / heart entrainment, silent presence; **substrate (physical / chemical)** —
+medication, direct forcing, non-relational. *(Notation, **S9**: written earlier as Z / C / B / substrate; under **BXKZ** the ladder is
+**Z / K / B / substrate** — narrative, care, body, substrate — so each rescue channel is a layer in its own
+right rather than a distributed remainder. That `K` is itself layered (affective attunement below, mentalizing
+above) is why the relational channel does not fail all at once, and why silent presence still reaches when
+recognition-through-words no longer does.)* In psychological collapse these
 tend to close *top-down* (words stop reaching before the body does), so rescue must **descend to the lowest
 still-open channel** — which is why *silent presence* works when speech fails: it drops to the B-channel (C5's
 primordial synchrony), lending Ω̂ beneath the closed narrative channel. (Idealised — physical collapse can invert
@@ -586,8 +615,9 @@ C5-rooted) = a civilisation's **rescue infrastructure** (C2); its erosion freeze
 everyone's rescue-access.
 
 **Self-rescue is possible — via the *internal* gradient — and that is C3's mechanism.** The self is layered
-(BYXCZ) and collapse is often *layer-specific*, so an intact layer can scaffold a collapsed one = **internal
-external-forcing**. **Liberation (C3)** is the paradigm: the **observer / integration layer (X)** relates to the
+(**BXKZ**: drive / observer / care / self-reference) and collapse is often *layer-specific*, so an intact layer
+can scaffold a collapsed one = **internal external-forcing**. **Liberation (C3)** is the paradigm: the
+**observer layer (X)** relates to the
 fixated content (the grasping Z, the affective loop) *without fusing*, and thereby *releases* it — self-applied
 *because* it uses the within-person gradient, not a lift from below one's own floor. Hence (i) it requires a
 **minimum intact observer** — total, all-layer collapse leaves no internal gradient and needs an *actual* external
@@ -614,16 +644,22 @@ does **not** strictly require a *height gradient*; it requires a **source of ext
 
 What is fatal is not zero-gradient but **mutual confirmation with no external-error source** — *worse than
 isolation*, because it disguises fixation as intimacy (the rescue-channel is *open but carrying the wrong sign*).
-The **same mechanism scales**: a group that couples into mutual confirmation and repels external correctors as
-enemies is a **folie à millions** (echo chamber, cult, mob) — the individual and civilisational floors are one
-mechanism, matching C2's collapse gradient and the governance line "recoverability, not correctness" (C6 / C11).
+**The same *described form* recurs one scale up**: a group that couples into mutual confirmation and repels
+external correctors as enemies is a **folie à millions** (echo chamber, cult, mob), matching C2's collapse
+gradient and the governance line "recoverability, not correctness" (C6 / C11).
+*(Discipline, **S3**: what transfers across scales is the **question-form and the reversibility criterion**, not
+one law and **not one mechanism** — S3 retracted scale-invariance in exactly that wording. So this is a
+structural analogy stated in the same vocabulary, not an identity of mechanism; and the step from individual to
+group is a level-crossing, which by [`20-open.md`](./20-open.md) O1 requires any aggregation rule in use to be
+declared as an imported choice. None is imported here — the claim is about the *form* of the coupling, which is
+why it can be stated without one.)*
 Its treatment is the structural inverse of the pathology: **separation** — reopening the correction-channel that
 coupling had replaced with confirmation. In the liberation model's vocabulary, folie à deux = **mutual capture**
 (相互捕捉), the inverse of non-capture (非捕捉 = decoupling from demand).
 
 **Relation to the core.** C12 asserts **no new primitive**: it reads F6 (reversibility is maintained by
-external-error-contact), Cs / C5 (relational supply of Ω̂), the BYXCZ layering (the internal gradient and the
-channel ladder), C8 (AA / contact) and C11 (the floor) *together, on the recovery side*. It is **descriptive**
+external-error-contact), Cs / C5 (relational supply of Ω̂), the individual-level layering (BXKZ — the internal
+gradient and the channel ladder), C8 (AA / contact) and C11 (the floor) *together, on the recovery side*. It is **descriptive**
 throughout (F7): it describes *when* recovery is possible, *when* it depletes the rescuer, *when* self-rescue
 self-verifies vs self-deceives, and *when* coupling lifts vs sinks — it commands none of it. Its practical content
 is a hypothetical imperative: *if you want to preserve reversibility, keep a source of correction — a coupling
@@ -667,13 +703,29 @@ account "value is real" is never sayable without the qualifier *relative to a gr
 work can be shown for some purported value, its honest tier is **superseded (mere seeming)**, not companion —
 "style" is not a courtesy title.
 
-**Consequence 1 — styles do not rank, so no state can be crowned.** Two styles cannot be ordered on a single
-scale; ordering is what a *common measure* supplies, and a style is not one. This makes structural what the theory
-had already been doing by hand: C10 *"maps both forks, does not rank"*; C11 is *"flat above the floor"*
-(risk-gradients described, not value-ranked). It also settles a pressure that recurs from outside the theory —
-**liberation cannot be installed as the summit**, not because the theory disapproves of ranking but because there
-is no scale on which the crowning could be *stated*. (The normative guard — that goal-ifying liberation re-grasps
-it, 有愛 — remains a **separate** point; C13's objection is semantic, not a warning.)
+**Consequence 1 — styles carry no *evaluative* common measure, so no state can be crowned.** The claim has to be
+stated carefully, because a blunter version is false. **There is exactly one cross-style measure in the theory:**
+Ω̂, distance from the floor — C10 makes it an explicit continuous **z-axis** over the mode plane, and uses it to
+say that 恍惚×持つ sits over steeper descent than 静×持つ. So it is *not* true that styles admit no common scale.
+What is true, and what carries the consequence, is narrower:
+
+- **Ω̂ orders styles by viability, and viability is not value** (F7 / F1: Ω is descriptive). An ordering by
+  collapse-distance is a risk-gradient, and calling the higher-risk cell "worse" is the is→ought step F7 forbids.
+- **No *evaluative* common measure exists**, because supplying one would require ranking maintained styles
+  against each other, and F5 grants a style reality only relative to a grain of description — the very
+  stance-relativity priced in above. Value-styles converge (Consequence 2) without thereby acquiring a scale.
+
+This makes explicit what the theory had already been doing by hand: C10 *"maps both forks, does not rank"*; C11
+is *"flat above the floor"* (risk-gradients described, not value-ranked). It also settles a pressure that recurs
+from outside the theory — **liberation cannot be installed as the summit**: not because the theory disapproves of
+ranking, and not because nothing can be measured, but because the only measure available is a viability
+gradient, and crowning a state means asserting an evaluative ordering that measure does not carry.
+
+*Honest residue.* For an agent who does recoil from collapse — nearly everyone, F9 — the viability ordering will
+*function* as a ranking in practice. The theory does not deny this; it denies only that the ranking follows from
+the description. The gap between "orders by viability" and "does not rank in value" is held open by F7 alone, and
+that is a thinner guard than a semantic impossibility would have been. → residue to [`20-open.md`](./20-open.md).
+(The normative guard — that goal-ifying liberation re-grasps it, 有愛 — remains a **separate** point.)
 
 **Consequence 2 — collective commonality is obtained, and upgrades nothing.** Response-dependence and
 intersubjective stability are fully compatible: colour is response-dependent *and* robustly shared, because the
@@ -702,14 +754,17 @@ already frozen; C13 only notes that it holds of value-styles as of any other —
 from collapsing into "anything goes" without smuggling in an ought.
 
 **What this repairs — and a verification bound.** Legacy formulations that state value as *an appearance of
-level-relative Ω through BYXCZ* route through the **BYXCZ** faculty scheme, retired in the individual-layer
-retraction (BYXCZ → BXZ = the Triple Network, a relabel with no novelty; the appraisal layer retracted to SOC).
-Any such formulation now names a scheme that no longer exists, and survives only where frozen (earlier deposits
-are not editable and are covered by the boundary note). **C13 supplies the replacement and needs no faculty scheme
-at all:** value-as-style is stated in F5 + F12 alone, and is indifferent to how the individual layer is carved.
-*Bound:* a search of the live working repositories on 2026-07-23 found **no current document** carrying that
-formulation, so this paragraph fixes the replacement for legacy readings — it is **not** a report that an active
-file needs correcting.
+level-relative Ω through BYXCZ* route through the five-symbol faculty scheme retired at **S9** (BYXCZ → **BXKZ**
+at the individual level, a carving over cited systems with no novelty; meaning demoted from a layer to an
+appearance; no letters at the social level; the appraisal layer retracted to SOC). Any such formulation now names
+a scheme that no longer exists, and survives only where frozen (earlier deposits are not editable and are covered
+by the boundary note). **C13 supplies the replacement and needs no faculty scheme at all:** value-as-style is
+stated in F5 + F12 alone, and is indifferent to how the individual layer is carved.
+*Bound (corrected 2026-07-25).* The 2026-07-23 search that reported "no current document" was scoped to
+**value-formulations only**, and on that scope it was right. It did not check *structural* uses of the retired
+scheme — of which there were three live ones in this very file (C2's civilizational letters, C6's five degrees of
+freedom, C12's channel ladder and layering). Those are now re-expressed and the retirement is recorded at **S9**.
+The lesson is kept visible: a retirement announced in one companion is not thereby executed across the corpus.
 
 **Boundaries — what C13 does not do.** It does **not** reinstate "value = Ω" (**S3** stays retracted; Ω remains
 descriptive under **F1** / **F7**). It does **not** make the theory normative (**F7** intact: hypothetical

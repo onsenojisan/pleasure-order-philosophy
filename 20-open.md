@@ -1,7 +1,12 @@
 # Open — deliberately open questions
 
 *status: Open. Not to be filled — by design. Honestly declared open.*
-Last updated: 2026-07-23
+Last updated: 2026-07-25
+
+*Note on O5–O6 (added 2026-07-25): most items here are open because the theory does not need them, or because
+nobody has solved them. **O5 and O6 are different** — they are internal conflicts between positions the corpus
+currently holds at once. They are declared rather than silently carried, but declaring is not resolving, and
+unlike the rest of this file they **are** meant to be closed.*
 
 The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
 the five demands are never jointly met, so **explanation does not, in principle, converge.**
@@ -77,7 +82,8 @@ one. **No verdict is recorded:** this is a standing audit on the corpus, not a c
   far went to FEP, and the decisive hysteresis / recovery-arm test is pending. Also open there: operationalizing
   the **(L, H, P)** frame — matching the horizon H to each level's own timescale, and validating the proxy P.
 - **Popular essay series** (生の余白論, 日常の構造, 人間の可能性 ①–⑤⑦) — accessible presentations of
-  F10/F12/BYXCZ/F0, not load-bearing propositions; deliberately out of scope for this skeleton.
+  F10/F12/F0 and the old BYXCZ layering (retired, **S9**), not load-bearing propositions; deliberately out of
+  scope for this skeleton.
 
 These are declared "open" in keeping with the core principle and are not to be filled.
 
@@ -99,6 +105,68 @@ Each Ready-stance is a defensible position, not a "solution." The following resi
 proto-panpsychism)" is undecidable from the armchair → **both kept as undecided options, open.**
 No commitment either way. The outer→inner bridge (the hard problem) is beyond the observation limit. →
 **open (in principle).**
+*(F1 v1.1 removed a conflict here: the frozen core no longer denies intrinsic natures outright, so the Russellian
+option is genuinely available rather than nominally kept while being ruled out one file over.)*
+
+## O5. Causation: R1's process theory vs. what the theory actually does with causes
+
+*Opened 2026-07-25. This is a **declared internal conflict**, not a residue of a defensible position — it is
+listed here because it is unresolved, and resolving it needs a decision that reaches outside this repository.*
+
+**R1** adopts process causation (Salmon / Dowe: actual physical process, transmission of conserved quantities)
+because the counterfactual ban makes Lewis / Woodward unavailable, and asserts that "collapse, directionality,
+dΩ/dt all ride on causation in this sense." Three parts of the corpus sit badly with that:
+
+- **F13** answers Kim's exclusion by making directionality a *structural constraint* on lower-order patterns.
+  A structural constraint transmits no conserved quantity, so on R1's own account it is **not a cause** — which
+  is Kim's second horn (epiphenomenal), not an escape from it.
+- **Companion C12** is throughout a theory of **interventions** ("external forcing", lent Ω̂-scaffolds, rescue
+  channels). Intervention-talk is Woodward-shaped, and R1 bans it by name.
+- **Companion C11**'s hysteresis and its "detectable *before* the point of no return" both carry modal content
+  ("would not return", "if nothing intervenes"), while claiming to be non-counterfactual and R1-safe.
+
+Three exits are visible, and the theory has not chosen: (a) **two-level** — process causation at the physical
+level, everything above stated as actual-frequency trajectory description (R2-consistent), which costs F13 its
+"constraint" wording and costs C11/C12 their causal register; (b) **relax the ban** to admit actual manipulations
+(an intervention that really occurred is actual, not counterfactual), which reaches the Zenodo *Prohibition of
+Counterfactuals* and must be settled there, not here; (c) **change the account of causation**. → **Open**, and
+flagged as load-bearing: the theory's explanantia are all higher-order structural quantities.
+
+## O6. Two readings of "irreversible" — the floor in C11 vs. the floor in C12
+
+*Opened 2026-07-25. Also a declared internal conflict.*
+
+**C11** defines the floor's irreversibility relative to a horizon: *"does not recover within the system's own
+remaining existence."* **C12** defines it relative to the system's own resources: *"small internal reversibility
+cannot climb back — that is what 'irreversible' means at the individual / self level"*, and then locates the
+**true** point of no return further down, where even the substrate channel closes (organic collapse / death).
+
+They are not the same boundary, and the difference is not cosmetic:
+- Under C11's reading, a person recovered by an external rescuer **was never below the floor** (they recovered
+  within their remaining existence); under C12's, they were.
+- C11's paradigm cases of a *pleasant* floor (wireheading, ecstatic psychosis) are floor-cases only on C12's
+  reading — unplugging is external forcing, and C11's own horizon test would not classify them as collapsed.
+- If C12's "true point of no return" governs, the floor collapses into death, which is **C9**'s territory, and
+  C11's detection programme loses its object.
+
+Consequence for the empirical track: the decisive hysteresis / recovery-arm test cannot be designed until it is
+fixed **which** boundary is being measured. The likely repair is to split the concept — a self-recovery boundary
+(detectable, externally reversible) and a terminal boundary (all channels closed) — and to restate the
+anti-hedonist claim on the first. Not done here: it is a substantive theoretical decision, not a correction.
+→ **Open.**
+
+## O7. The viability ordering — residue of the corrected C13 Consequence 1
+
+*Opened 2026-07-25.* C13 previously grounded "styles do not rank" on there being **no common measure** across
+styles. That argument fails: **Ω̂ (distance from the floor) is a common measure**, and C10 uses it explicitly as
+a continuous z-axis to compare modes. The corrected claim is narrower — there is no *evaluative* common measure;
+the one measure available orders by **viability**, and viability is not value (F7).
+
+What remains open is the gap this leaves. For any agent who recoils from collapse — nearly everyone, by **F9** —
+a viability ordering will *function* as a ranking. The theory denies only that the ranking follows from the
+description, and that denial now rests on **F7 alone**, which is a thinner guard than the semantic impossibility
+C13 had claimed. Whether anything stronger is available, or whether the thin guard is simply the honest answer,
+is **Open**. (Related: the same-temperature audit above, and O1's commensurability item.)
 
 ---
 

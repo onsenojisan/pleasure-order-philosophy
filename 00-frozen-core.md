@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Last updated: 2026-07-13
+Version: **v1.1** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -79,10 +79,25 @@ Two further consequences stay in the companion, not the core: why humans nonethe
 
 ### F1. Metaphysics = Ontic Structural Realism (OSR)
 
-What lies at the bottom of the world is not "things with self-standing intrinsic natures" but
-**relations, structure, styles (patterns)**. *Svabhāva* (being what one is intrinsically, independently of
-everything) applies to nothing: anything truly independent could not change, cause, or relate — hence would
-be nothing. So the world is **svabhāva-less, dependent patterns**, all the way.
+What the world hands over to description is not "things with self-standing intrinsic natures" but
+**relations, structure, styles (patterns)**. *Svabhāva* **in the sense of independent existence** (being what
+one is without depending on anything) applies to nothing describable: anything truly independent could not
+change, cause, or relate — hence could do no work in any description. So the describable world is
+**svabhāva-less, dependent patterns**, all the way down through the levels description reaches.
+
+**Scope discipline — independence is denied; intrinsicality is not** *(revision v1.1)*. The earlier wording ran
+two claims together, and only the first is argued for:
+- **independence** (self-standing existence) — denied, by the argument above, of anything that changes, causes,
+  or relates;
+- **intrinsicality** (a nature a relatum has in itself) — **not denied**. The argument does not reach it, since
+  a relatum of a relation is not thereby an independent existent. Denying it would contradict **F3** (whether a
+  svabhāva-floor exists is undecidable — neither asserted nor denied), **F5** (the intrinsic floor is
+  *unknowable*), and **F8**, which keeps Russellian monism — structure having an intrinsic nature — as a live
+  undecided option.
+
+So F1 is OSR **as the standing posit of the describable world** — the same status F2 gives realism — not the
+metaphysical thesis "there are no intrinsic natures at the bottom." Asserting *that* would repeat, with the sign
+reversed, the overshoot retracted at **S1**: a verdict about what lies beyond the observation limit.
 
 **Ω is a descriptive reading of that structure (D)** — of the temperature/entropy kind: real, but not a
 "thing". Ω is not a substance or field floating in the world; it is a quantity that reads relational and
@@ -120,7 +135,14 @@ The safe form is **"no verdict is reachable → silence."** This is, in fact, cl
 - **Structural, fallible, pragmatic truth:** reachable. A real pattern is "true" to the extent it does the
   work of **compression and prediction** (Dennett / pragmatism).
 - **Logic:** normative, not "just brain activity" (anti-psychologism, Frege/Husserl: if logic were merely how
-  brains happen to think, there could be no such thing as a *logical error* — but there is).
+  brains happen to think, there could be no such thing as a *logical error* — but there is). **The normativity
+  is constitutive, not categorical** *(revision v1.1)*: the standard is real and errors against it are real, but
+  its bindingness is conditional on taking up the aim — *if* you are after truth, contradiction is a failure.
+  Anti-psychologism survives intact on this reading (logical laws are not empirical generalisations about how
+  brains think — R4). The categorical reading is refused for two reasons the theory cannot avoid: Wall 2
+  (Agrippa) does not respect the epistemic / practical divide, so an *objectively binding* epistemic norm would
+  owe the ground C5 cannot supply; and **F9** already grants that "choosing inconsistency is the agent's freedom
+  … the constitutivist 'you are inconsistent' carries no binding force."
 
 "Truth is unreachable" is true *only* of the God's-eye truth; extended to structural/fallible truth it
 overreaches. And "no truth is reachable" is self-refuting (it is itself a truth-claim). Hence the honest form:
@@ -156,7 +178,9 @@ Y"). Ω is descriptive, not a value or a good. No categorical "ought" is derived
 (This is not in tension with F4's "logic is normative": F4 concerns *epistemic / formal* normativity — the
 standards by which an inference is valid or a claim true — whereas F7 concerns *practical / evaluative*
 normativity — what one ought to do or value. F0-L's completeness limit lives at F4's level; F7 denies only the
-practical/categorical ought.)
+practical/categorical ought. *(v1.1)* The two differ in **domain, not in bindingness**: F4's normativity is
+constitutive / conditional on the aim, so **no categorical epistemic ought is claimed either** — otherwise
+epistemic normativity would be quietly exempted from Wall 2.)
 
 (F7 states what value is **not**. The positive half — what a value-appearance then *is* — is answered using only
 **F5** (real patterns / styles) and **F12** (the self as a maintained style), as **a maintained style**: companion
@@ -213,7 +237,8 @@ force). The deep "why care at all" cannot be grounded from inside a descriptive 
   internally — an agency that arises *within* causation, not an independent will.
 - "There is no free will; but there is agency as directionality; the direction can change."
 - That article already contains the **observation-limit → silence** epistemology (Ω-itself is unseen; only the
-  BYXCZ-reconstructed image is available) = the origin of F3 and F8.
+  reconstructed image is available) = the origin of F3 and F8. *(The article said "BYXCZ-reconstructed"; that
+  five-symbol faculty scheme is retired — see **S9**. The point is independent of how the layering is carved.)*
 
 ### F11. Time (core)
 
@@ -233,6 +258,11 @@ with physics; it is a structural constraint on lower-order patterns.** This avoi
 (that higher-order mental causation is either redundant or overdetermining) — it escapes via F1 OSR (a bias in
 relational structure, not an added causal "force").
 
+⚠ *Declared conflict (2026-07-25, no claim revised):* "structural constraint" has to be cashed out in a theory of
+causation, and **R1**'s process account (transmission of conserved quantities) has no room for it — on that
+account a constraint is not a cause at all, which is Kim's second horn rather than an escape from it. Held open
+at [`20-open.md`](./20-open.md) **O5**, together with the same strain in companions C11 / C12.
+
 ---
 
 ## III. Positions that follow from the foundation (Ready-stance — just write them down)
@@ -247,6 +277,9 @@ Having banned counterfactuals ("if it had been otherwise"), the dominant counter
 accounts (Lewis / Woodward) are unavailable. → **Process theory (Salmon / Dowe)**: causation = actual physical
 process / transmission of conserved quantities; look at the actual connections in the actual world. Dependent
 origination, collapse, directionality, dΩ/dt all ride on causation in this sense.
+⚠ *Declared conflict (2026-07-25, no claim revised):* that last sentence is asserted, not argued, and it is under
+strain from three directions — F13's structural constraint, C12's thoroughly interventionist recovery machinery,
+and C11's modally-loaded hysteresis. → [`20-open.md`](./20-open.md) **O5**.
 
 ### R2. Modality / probability → actual frequency (frequentist)
 
@@ -265,6 +298,36 @@ Consistent with F4 ("reliable tracking, not final truth").
 "Logic is software" (positioned as normative in F4) — so what is the object of mathematics?
 → **Mathematical structuralism (Shapiro / Resnik)**: mathematics is the study of structure; that structure
 does work in the world as the real patterns of F5. Pairs with F1 OSR.
+
+---
+
+## Revision log
+
+Frozen text is revised only under explicit versioning (F6: corrections stay visible, they are not silently
+absorbed). Each entry states what was wrong, what it now says, and what did **not** change.
+
+### v1.1 — 2026-07-25 · two internal conflicts inside the frozen tier
+
+- **F1 — the svabhāva claim was stated too strongly and contradicted three other frozen items.** It read "the
+  world is svabhāva-less, dependent patterns, *all the way*", i.e. a verdict that there are no intrinsic natures
+  at the bottom — which collides with **F3** (the floor is undecidable, neither asserted nor denied), **F5**
+  (the intrinsic floor is *unknowable*), and **F8** (Russellian monism, which *posits* an intrinsic nature, is
+  kept as a live option). The supporting argument also equivocated: it argued against **independence** and
+  concluded against **intrinsicality**. Now split, with only independence denied; OSR restated as the standing
+  posit of the describable world (F2's status). **Unchanged:** everything OSR does downstream — Ω as a
+  descriptive reading (D), relational structure as what description reaches, the rejection of Ω-as-cosmic-field.
+- **F4 — logic's normativity is now marked constitutive, not categorical.** As written it exempted epistemic
+  normativity from Wall 2 (Agrippa cuts across the epistemic / practical divide) and sat badly with **F9**,
+  which already says the constitutivist charge carries no binding force. **Unchanged:** anti-psychologism, and
+  the F7 boundary (which is now stated as a difference of domain, not of bindingness).
+- **F10 — legacy notation pointer only** (BYXCZ → retired, see S9). No claim changed.
+- **F13 and R1 — cross-references added, no claim revised.** Both now carry a marker to the declared conflict at
+  O5, so a reader meets it where it arises rather than only in the Open tier.
+
+**Known conflicts *not* resolved in v1.1** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
+the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
+plus the interventionist machinery of companion C12; and the two incompatible readings of "irreversible" in
+companions C11 and C12. Both need a decision that reaches outside this file.
 
 ---
 
