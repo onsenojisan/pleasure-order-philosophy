@@ -1,6 +1,9 @@
 # Open — deliberately open questions
 
-*status: Open. Not to be filled — by design. Honestly declared open.*
+*status: Open — in **two kinds**, with opposite discipline. **Principled openings** (F0/F3-derived) are not to
+be filled, by design. **Declared debts** — internal conflicts between positions the corpus holds at once — are
+meant to be closed, and are struck through here rather than deleted when they are. **Debts currently
+outstanding: none** (O5 and O6 were both opened and closed on 2026-07-25).*
 Last updated: 2026-07-25
 
 *Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
@@ -14,18 +17,27 @@ through rather than deleted, so the reasoning stays auditable.*
 
 The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
 the five demands are never jointly met, so **explanation does not, in principle, converge.**
-So this list never closes — by F0 that is principled design, not a defect (and not a backlog).
-Placed here: (a) things not needed by the core, declared open; (b) residues of the Ready-stances;
-(c) out-of-scope declarations.
+So the **principled openings** never close — by F0 that is design, not a defect and not a backlog. (Declared
+debts are the other kind, and they do close; see the status line.)
+Placed here: (a) things not needed by the core — or, in one case, used by it without an account being
+owed back — declared open; (b) residues of the Ready-stances; (c) out-of-scope declarations.
 
 ---
 
-## O1. Not needed by the core — declared open
+## O1. Not needed by the core, or used without an account — declared open
 
 ### Intentionality
-How representations / words come to be "about" the world. Not essential to the core.
+How representations / words come to be "about" the world — the **mechanism of aboutness** — is **not developed**.
 As a direction it can be written as "causal / predictive coupling with real patterns" (F5 + R1), but it is not
-developed. → **Open.**
+worked out. → **Open.**
+
+*Corrected 2026-07-25: this item used to read "not essential to the core", which understated the debt.* **F5 is
+Dennett's real patterns**, individuated by the compression and prediction they afford — *to an observer, at a
+grain*. That is the intentional stance's machinery, already inside the frozen tier; and companion **C13** makes
+the debt explicit when it says value-as-style "inherits the intentional stance's defence *and its costs*". So
+the honest statement is not that the core can do without aboutness, but that **the core uses the stance
+descriptively while owing no account of what makes representation about anything.** The use is declared here;
+the account stays open.
 
 ### Determinism or indeterminism
 Whether the world is fully deterministic. **Not needed by the core** *(opened 2026-07-25)*: the theory uses two
@@ -236,6 +248,12 @@ is **Open**. (Related: the same-temperature audit above, and O1's commensurabili
 If the theory's core (F6, anti-fixation / reversibility) says "fixation = death", then
 **turning everything into a closed doctrine would be the theory's own self-negation.**
 So honestly marking things "open" is not a confession of weakness but a **demonstration of the theory's
-consistency.** The repository's four tiers (Frozen / Companion / Open / Superseded), each carrying a status, exist to make
+consistency.**
+
+*One distinction the file has to keep, or the principle becomes an excuse* (added 2026-07-25). "Open" covers two
+things. A **principled opening** stays open because F0/F3 say no verdict is reachable — filling it would be the
+betrayal. A **declared debt** is an internal conflict, and leaving *that* open is not principled at all; it is
+simply unpaid. Both were listed here at once in July 2026, which is why the distinction is now stated: the F6
+discipline licenses the first and gives no cover to the second. The repository's four tiers (Frozen / Companion / Open / Superseded), each carrying a status, exist to make
 the theory's own text embody the four scale-transition constraints (reversible correction, non-personal
 memory, and the rest).
