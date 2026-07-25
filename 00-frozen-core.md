@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.1** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.3** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -229,12 +229,20 @@ wish to evade, then treat the world as real." Choosing not to care, choosing sho
 inconsistency, are the **agent's freedom** (even the constitutivist "you are inconsistent" carries no binding
 force). The deep "why care at all" cannot be grounded from inside a descriptive theory → **open**, not inflated.
 
-### F10. Free will (settled in note, Nov 2025)
+### F10. Free will (position taken in note, Nov 2025)
 
-- **Action layer = full determinism**: action arises from the causal confluence of body, input, memory,
-  meaning, affect. "I decided" is a post-hoc narrative of the Z layer.
-- **Agency = Intrinsic Directionality**: the bias / direction / grain in how outer causes are transformed
-  internally — an agency that arises *within* causation, not an independent will.
+- **No independent free causation at the action layer**: action arises from the causal confluence of body,
+  input, memory, meaning, affect. "I decided" is a post-hoc narrative of the Z layer. (Source wording: *"at the
+  action level there exists no independent causal freedom whatsoever"*; *"action is not something that begins
+  freely, but a phenomenon that arises naturally when the conditions are met"*.)
+- **Whether the world is fully deterministic is not asserted** *(corrected v1.2)*. The source applies the
+  observation limit to this very question — *"humans have no way of verifying the truth of the ultimate (真諦)
+  layer"* — so this is a case where **F3's silence governs** and the theory returns no verdict. Independent
+  support: the denial of libertarian free will **does not depend on determinism**, because indeterminism does
+  not deliver it either (an undetermined act is luck, not authorship). The conclusion holds whichever is true,
+  so nothing is bought by betting on one. → [`20-open.md`](./20-open.md) O1.
+- **Agency = Intrinsic Directionality**: the bias / grain in how outer causes are transformed internally — an
+  agency that arises *within* causation, not an independent will.
 - "There is no free will; but there is agency as directionality; the direction can change."
 - That article already contains the **observation-limit → silence** epistemology (Ω-itself is unseen; only the
   reconstructed image is available) = the origin of F3 and F8. *(The article said "BYXCZ-reconstructed"; that
@@ -251,17 +259,108 @@ present; the present is the locus of formation. (The fuller processual causal-hi
 Persistence is not the preservation of an identical thing but the **maintenance of a style through change.**
 The self is a rewritable image built from accumulated appearances (no fixed core).
 
-### F13. Mental causation (answer to Kim's exclusion problem)
+*The rest of this item (v1.3) is the minimum needed to carry what F12 actually bears — **P4** (the payment on
+C2), **C9** (death as the cessation of a style), **C13** (value as a maintained style), and the C4-attribution
+dependency **04 §6** declared. It is derived from frozen items and adds no primitive. Where the source articles
+speak to a point, their wording governs.*
+
+**1 — What individuates a style: what is not found when sought.**
+The self is there **as a working pattern** (「はたらき（パターン）」として在る) — like a whirlpool in a river,
+a form held while the material flows through. What, then, is the core that makes this style *this* one?
+**It is not found when sought** (「変わらない芯が、探しても見つからない」).
+
+The theory does **not** say "there is no fact of the matter about identity." That would be a negative
+metaphysical verdict about what lies past the observation limit — the form **F1 v1.2 and F3 forbid**. What can
+be said is the result of the search: looking for a core does not return one. (This is where the position parts
+from Parfit; see *Neighbours* below.)
+
+**This is what the P4 payment actually is.** "Who, then, is liberated?" (**C3**) has no substantial bearer —
+not because a bearer has been disproved, but because **what is not found when sought is not installed.**
+
+**2 — What "maintained" means, and how the theory reads it.**
+A style is being maintained when three things hold: **(i) restoration** — after perturbation it moves back
+toward its own form; **(ii) revision** — contact with external error can rewrite the form itself (**C12**);
+**(iii) survival of carrier turnover** — the form persists while the material is replaced (**C2**'s carrier
+replaceability, read at individual scale).
+
+This needs no new measure: **Ω̂ (revision capacity) already reads it.** The same quantity C11 uses as the floor
+and C12 uses for recovery serves here as the indicator of whether a style is still being maintained.
+
+**3 — The deed is there; the doer is not found.**
+What thins out: the unchanging core, the owner, the subject identical through time. What remains: **the act
+itself** — 「業は在る、しかし作者は見出されない」; 「行為は憶えられているが、それを担う持ち主が、探しても
+見つからない」.
+
+This discharges the dependency declared at **04 §6**: **attribution works without installing a bearer**, so
+nothing needs to stand behind the deed for it to be attributed, and attribution is absorbed into C2/P4 as
+planned. One line is held: **attribution is not desert.** That A→R is repaid along V is blocked at Wall 3 and
+belongs to C4's reconciliation side. "The deed is there" and "the deed is repaid" are different claims, and
+neither F7 nor Wall 3 delivers the second.
+
+**4 — A style can fail, and that is a description.**
+Styles have maintenance conditions, so they can fail to meet them. **Fixation** is failure of the kind that
+spends the very reversibility maintenance requires (**F6**; **C13** states this of value-styles, and it holds
+of the self-style for the same reason).
+
+This is **descriptive, not evaluative**. A failed style is not thereby *worse*; its maintenance conditions
+stopped being met. The source is explicit that no ranking is available: 「どちらが正しいかを裁く、第三の側
+は、無い」— there is no third side to adjudicate which is right. Reading a ladder into this is what **F7**
+forbids.
+
+**5 — The boundary is not the skin** *(internal derivation, flagged)*.
+The self-style does not bootstrap alone: it is brought up relationally (**C5**), and the observing capacity is
+itself acquired by first being witnessed (**C12**). So **maintenance is partly carried on the other's side**,
+and the style's boundary does not coincide with the individual body. *Flag:* this follows from C5/C12 inside the
+corpus; the anātman article does not go there — it stays with the body's own processes. Held at companion
+strength, not as a frozen commitment.
+
+**6 — Deliberately left open.**
+- **The individuation threshold** — where one style ends and another begins. **No line is drawn.** Under F5's
+  grain-relativity a sharp line is not available in principle; this is a consequence of F5, not a gap.
+- **Fission / duplication / gradual replacement** — **not treated.** The corpus takes no position and none is
+  invented here. Under §1 no adjudication is needed either: "which one is really me?" asks after the location of
+  something not found when sought. *This is not the claim that the question is malformed; it is the report that
+  the theory has no answer to it.* → Open.
+- **Post-mortem** — **F3**'s two-way silence (**C9**).
+
+**7 — What this item does not do.**
+F12 describes a structure; it is **not the loosening of the grip**. In the source's words: 「握りがゆるむのは、
+深い納得ではなく、その握りを、リアルタイムで"やらない"という、まったく別の作業」— the grip loosens through
+not-doing it in real time, which is a different job from deep understanding.
+
+So the reading "see that there is no core and the grip loosens" is not merely unsupported here; it is
+**excluded**. Between stating the structure correctly and actually loosening there is a distance description
+cannot cross. That distance is why **C3**'s liberation is *one thing (not grasping)* rather than an insight.
+
+**Neighbours (borrowed, not claimed).** Closest in form: **anātman / santāna** (the continuum without a bearer)
+— though, per **C1**, strict Madhyamaka is not claimed. **Dennett**'s self as a centre of narrative gravity fits
+F5 naturally. **Parfit**'s reductionism is close and instructive, but is **not adopted** where it asserts that
+identity is indeterminate or that there is no further fact: that is a positive claim about the structure of
+identity, and §1 declines it. Not **Locke** (the criterion is a maintenance pattern, not a memory chain), and
+not **animalism** (carrier turnover is allowed). No novelty is claimed.
+
+### F13. Mental causation (placed against Kim's exclusion problem)
 
 Emergence = "higher-order constrains lower-order", but directionality (agency) is **not a rival cause competing
-with physics; it is a structural constraint on lower-order patterns.** This avoids Kim's exclusion argument
-(that higher-order mental causation is either redundant or overdetermining) — it escapes via F1 OSR (a bias in
-relational structure, not an added causal "force").
+with physics**: it is **the bias in how a structure transforms the causes running through it** — a direction
+appearing *within* the causal flow, not a second force acting on it. This blocks Kim's exclusion argument (that
+higher-order mental causation is either redundant or overdetermining), because a bias in an actual process is
+not an additional cause competing for the same effect.
 
-⚠ *Declared conflict (2026-07-25, no claim revised):* "structural constraint" has to be cashed out in a theory of
-causation, and **R1**'s process account (transmission of conserved quantities) has no room for it — on that
-account a constraint is not a cause at all, which is Kim's second horn rather than an escape from it. Held open
-at [`20-open.md`](./20-open.md) **O5**, together with the same strain in companions C11 / C12.
+*(Corrected v1.2: this previously read "**a structural constraint on lower-order patterns**", which is stronger
+than the source and imports downward constraint. Source wording: *"the bias in how the internal structure
+transforms outer causation … is what agency essentially is"*, and *"volition appears as a direction within the
+flow of causation"*.)*
+
+*Status note (v1.2):* the source states the position but **never mentions Kim, exclusion, or overdetermination**.
+Locating it against Kim is this repository's **placement**, not a report — the same discipline C10 applies to
+Nietzsche.
+
+⚠ *O5, narrowed (v1.2):* the declared conflict with **R1**'s process causation was partly an artifact of the
+"structural constraint" wording — a constraint must be cashed out as a cause, and process causation has no room
+for one. A *bias in how an actual process transforms its inputs* needs no such licence: it is a fact about the
+actual process, which is exactly what R1 admits. The front at F13 therefore largely closes; what remains open at
+[`20-open.md`](./20-open.md) **O5** is C11's modally-loaded hysteresis and C12's interventionist machinery.
 
 ---
 
@@ -324,7 +423,58 @@ absorbed). Each entry states what was wrong, what it now says, and what did **no
 - **F13 and R1 — cross-references added, no claim revised.** Both now carry a marker to the declared conflict at
   O5, so a reader meets it where it arises rather than only in the Open tier.
 
-**Known conflicts *not* resolved in v1.1** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
+### v1.2 — 2026-07-25 · two items corrected against their own sources
+
+Prompted by the question "was full determinism ever decided?" — it was not. The note articles cited by the
+frozen core were re-read, and two items were found to state more than their source does. Both are recorded in
+the ledger (**S10**, **S11**) with the drift's provenance left visible.
+
+- **F10 — "Action layer = full determinism" was a misreading of its own source.** The article asserts the
+  absence of *independent free causation* at the action layer, and applies the observation limit to the
+  determinism question itself ("humans have no way of verifying the truth of the ultimate layer"). The
+  strengthening entered through a 2026-07-04 coverage audit's paraphrase and hardened here on 2026-07-13; the
+  source's silence clause was dropped in transit. Now: no independent free causation, **no verdict on
+  determinism** (F3's silence governs), agency = directionality unchanged. The question is declared open as
+  *not needed by the core* (O1), since the denial of libertarian free will holds under determinism and
+  indeterminism alike.
+- **F13 — "a structural constraint on lower-order patterns" overstates the source**, which says agency is *the
+  bias in how the internal structure transforms outer causation*. A bias in a transformation is not a downward
+  constraint. The Kim framing is now marked as a **placement, not a report**: the source never mentions Kim,
+  exclusion, or overdetermination. **Consequence: O5 narrows** — the F13 front was largely self-inflicted by the
+  paraphrase, and only C11's hysteresis and C12's interventionism remain open there.
+- **References — reframed.** The list read as though the note articles authorised the frozen positions. They are
+  the deliberation's sources, mostly predating the cooling in `30-superseded.md`, and in places state what the
+  frozen core now refuses. Stated explicitly so the paraphrase-to-canon path is closed.
+
+**Unchanged:** F6's quoted origin phrase was checked against the *Nāgārjuna* article and holds; the stronger
+formulations there ("the one criterion", "fixation = the death of that category") are stated as F6's own, not as
+quotes, so the attribution stands. The Zenodo Nāgārjuna papers were not re-checked.
+
+### v1.3 — 2026-07-25 · F12 built out to carry its load
+
+F12 was two sentences bearing four loads: **P4**, **C9**, **C13**, and the C4-attribution dependency **04 §6**
+had explicitly routed to it. The expansion adds **no primitive** — it states what "a style", "maintained", and
+"attribution without a bearer" come to, using F5, F6, C2, C5, C12 and Ω̂, which are already frozen or companion.
+
+Checked against the sources before writing, and two things in the first draft were **wrong and were removed**:
+
+- *"There is no fact of the matter about identity / identity is indeterminate"* — a Parfit import. The source
+  (「私は『在る』。でも『変わらない芯』は無い」, 2026-07-14) says something different and more disciplined:
+  **「変わらない芯が、探しても見つからない」** — not found when sought. Asserting indeterminacy would have
+  repeated the very error **F1 v1.2** had just corrected: a negative metaphysical verdict past the observation
+  limit. §1 now reports the search result and declines the verdict.
+- *"Fission cases: the question is malformed"* — also a Parfit import, and **not in the corpus at all**. §6 now
+  records that the theory has no answer, which is a weaker and truer thing to say.
+
+Three things the sources supplied that the draft lacked: the self as **「はたらき（パターン）」**; attribution
+stated as **「業は在る、しかし作者は見出されない」** (which is what discharges 04 §6, and it is the author's
+formulation, not a constructed "trajectory"); and the non-ranking backed by **「どちらが正しいかを裁く、第三の
+側は、無い」** rather than derived. Added on the strength of the source: **§7**, which excludes the reading that
+seeing there is no core loosens the grip — 「握りがゆるむのは、深い納得ではなく…まったく別の作業」.
+
+**04 §6's declared dependency is discharged** in the direction F0 assumed; the appendix records it.
+
+**Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
 plus the interventionist machinery of companion C12; and the two incompatible readings of "irreversible" in
 companions C11 and C12. Both need a decision that reaches outside this file.
@@ -332,6 +482,19 @@ companions C11 and C12. Both need a decision that reaches outside this file.
 ---
 
 ## References
+
+**How to read this list** *(added v1.2, after S10 / S11).* These are the **sources of the deliberation**, not
+authorities for the positions above. Most of the note layer predates the cooling recorded in
+[`30-superseded.md`](./30-superseded.md), and in places states what the frozen core now refuses: *Two Truths and
+Reversibility* identifies the ultimate positively ("勝義諦 = internal coherence"), and *Inner Coherence* gives a
+"structural explanation of enlightenment" and a "static Ω integration" — exactly the moves **S1 / S4 / S5**
+retracted and **F3** forbids. So the frozen core is the **result** of the cooling, not a report of these
+articles, and a claim here is not supported merely by appearing in one of them.
+
+Where a frozen item *does* name a source as its authority, that claim is checkable, and **has been checked**:
+F10 and F13 failed the check and were corrected (S10, S11); F6's quoted origin phrase was verified against the
+*Nāgārjuna* note article and holds. The Zenodo Nāgārjuna papers were not re-checked. Any future item that cites
+a source should be read as an invitation to verify, not as a warrant.
 
 - note (onsen_ojisan): *Free Will · Settlement Edition* / *Nāgārjuna* / *Two Truths and Reversibility* /
   *Style as the constituent of the world* / *Inner & Outer Coherence*, and others.
