@@ -3,10 +3,12 @@
 *status: Open. Not to be filled — by design. Honestly declared open.*
 Last updated: 2026-07-25
 
-*Note on O5–O6 (added 2026-07-25): most items here are open because the theory does not need them, or because
-nobody has solved them. **O5 and O6 are different** — they are internal conflicts between positions the corpus
-currently holds at once. They are declared rather than silently carried, but declaring is not resolving, and
-unlike the rest of this file they **are** meant to be closed.*
+*Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
+has solved them. **O5 and O6 were different** — internal conflicts between positions the corpus held at once,
+and unlike the rest of this file they were **meant to be closed**. Both moved the day they were declared: **O6
+is decided**, and that decision closed one of O5's three fronts (a second had already closed at S11). What is
+left of O5 is C12's interventionism, pending the Zenodo `Prohibition of Counterfactuals`. The debts are kept in
+place, struck through rather than deleted, so the reasoning stays auditable.*
 
 The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
 the five demands are never jointly met, so **explanation does not, in principle, converge.**
@@ -120,7 +122,7 @@ No commitment either way. The outer→inner bridge (the hard problem) is beyond 
 *(F1 v1.1 removed a conflict here: the frozen core no longer denies intrinsic natures outright, so the Russellian
 option is genuinely available rather than nominally kept while being ruled out one file over.)*
 
-## O5. Causation: R1's process theory vs. what the theory actually does with causes
+## O5. Causation: R1's process theory vs. what the theory actually does with causes — **two of three fronts closed**
 
 *Opened 2026-07-25. This is a **declared internal conflict**, not a residue of a defensible position — it is
 listed here because it is unresolved, and resolving it needs a decision that reaches outside this repository.*
@@ -136,19 +138,45 @@ dΩ/dt all ride on causation in this sense." Three parts of the corpus sit badly
   licence is needed. See **S11**. What follows survives unchanged.
 - **Companion C12** is throughout a theory of **interventions** ("external forcing", lent Ω̂-scaffolds, rescue
   channels). Intervention-talk is Woodward-shaped, and R1 bans it by name.
-- **Companion C11**'s hysteresis and its "detectable *before* the point of no return" both carry modal content
-  ("would not return", "if nothing intervenes"), while claiming to be non-counterfactual and R1-safe.
+- ~~**Companion C11**'s hysteresis and its "detectable *before* the point of no return" carry modal content.~~
+  **Front closed by the O6 decision (2026-07-25).** C11's *measurements* were always actualist — critical
+  slowing down is read off an actual time series. The modal content sat in the *word*: hysteresis glossed as
+  "would not return". With the floor fixed as the **self-recovery boundary**, hysteresis can be stated
+  operationally — **an observed asymmetry between the decline path and the recovery path under actually applied
+  forcing** — and both arms are observable, which under the dropped reading they were not. No modal truthmaker is
+  needed. What follows survives unchanged.
 
-Three exits are visible, and the theory has not chosen: (a) **two-level** — process causation at the physical
-level, everything above stated as actual-frequency trajectory description (R2-consistent), which now costs only
-C11/C12 their causal register (F13 no longer needs it); (b) **relax the ban** to admit actual manipulations
+One front remains: **C12's interventionism**. Three exits are visible and the theory has not chosen:
+(a) **two-level** — process causation at the physical level, everything above stated as actual-frequency
+trajectory description (R2-consistent), which now costs only C12 its causal register (F13 and C11 no longer
+need it); (b) **relax the ban** to admit actual manipulations
 (an intervention that really occurred is actual, not counterfactual), which reaches the Zenodo *Prohibition of
 Counterfactuals* and must be settled there, not here; (c) **change the account of causation**. → **Open**, and
 flagged as load-bearing: the theory's explanantia are all higher-order structural quantities.
 
-## O6. Two readings of "irreversible" — the floor in C11 vs. the floor in C12
+## O6. Two readings of "irreversible" — **decided 2026-07-25, same day**
 
-*Opened 2026-07-25. Also a declared internal conflict.*
+> **Resolution.** The corpus was using one word for **three** lines: (A) self-recovery impossible, (B) no
+> recovery within the system's remaining existence, (C) all rescue channels closed. **The floor is A** (C11);
+> **the terminus is C** (C9); **B is dropped**. C12 describes the region between them.
+>
+> *Why A.* C11 stated B but its own examples needed A — the pleasant-floor cases (wireheading, ecstatic
+> psychosis) are not floor-cases under B, since unplugging returns the subject within their remaining existence.
+> And B makes the decisive test unrunnable: under B anyone who recovers *was never below the floor*, so there
+> are no below-floor recovery cases and the hysteresis loop cannot close. Under C it is worse — nobody returns
+> from death. **Only A leaves both arms of the decisive test observable**, which is what C12 has been describing
+> all along.
+>
+> *What it costs.* "Irreversible" now means **not self-reversible**; that word and "point of no return" are
+> weaker than they sound. Non-arbitrariness moves from a definitional guarantee (H = the system's finitude) to
+> **basin structure**, which must be identified empirically rather than declared. The frame simplifies to
+> **(L, P)** — H survives only as a recovery-arm design parameter.
+>
+> *Residue, now genuinely open:* **identifying the basin** — deciding that a system is in the lower branch,
+> rather than merely slow to recover, is exactly the empirical burden the programme now carries. Filed with the
+> detectability bet in **O2**.
+
+*The conflict as originally declared, kept visible:*
 
 **C11** defines the floor's irreversibility relative to a horizon: *"does not recover within the system's own
 remaining existence."* **C12** defines it relative to the system's own resources: *"small internal reversibility
@@ -166,8 +194,7 @@ They are not the same boundary, and the difference is not cosmetic:
 Consequence for the empirical track: the decisive hysteresis / recovery-arm test cannot be designed until it is
 fixed **which** boundary is being measured. The likely repair is to split the concept — a self-recovery boundary
 (detectable, externally reversible) and a terminal boundary (all channels closed) — and to restate the
-anti-hedonist claim on the first. Not done here: it is a substantive theoretical decision, not a correction.
-→ **Open.**
+anti-hedonist claim on the first. → **That repair was adopted the same day; see the resolution above.**
 
 ## O7. The viability ordering — residue of the corrected C13 Consequence 1
 

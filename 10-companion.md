@@ -292,7 +292,14 @@ Previously held in `20-open.md` as "writable, not yet undertaken"; this is the w
 reading, not a frozen commitment.
 
 **The position in one line.** Death is the **maximal, unconditional case of individual irrecoverability** — the
-one loss for which F0's "recovery of action" demand (**C4**) is structurally unpayable. The theory therefore
+one loss for which F0's "recovery of action" demand (**C4**) is structurally unpayable.
+
+*(Boundary ownership, decided 2026-07-25 — O6.* The corpus had been using "irreversible" for two different
+lines. **C11's floor** is where *self*-recovery ends: hysteresis, the lower basin, externally reversible, and the
+object of the detection programme. **C9 owns the terminus**: where *external* recovery ends too — every rescue
+channel closed. Only the second is unconditional, which is why the deprivation reading, the refusal of the P6
+afterlife-smuggle and the equal refusal of "provably nothing" all belong here and not at the floor. **C12**
+describes the region between the two.)* The theory therefore
 gives death a *location within the schema*, not a consolation: it declines every device that would "settle the
 account" (afterlife, a karmic ledger, redemptive legacy — F0's **P6**, smuggling a recovery mechanism into the
 world), and it **equally** declines the opposite over-reach ("there is provably nothing, and that is fine").
@@ -468,9 +475,9 @@ the single empirical bet the whole framework rests on. It sharpens C3 (liberatio
 C10 (the modes), and the relation to Buddhism (C1). Companion — a lens **and a research programme**, not frozen.
 
 **What the floor is — Ω̂-collapse as a fold-bifurcation (not suffering-magnitude, not lock-as-such).** The floor
-is not "enough suffering" and not "revision-lock per se." It is the **irreversible loss of viability Ω̂ — the
-capacity to keep revising / adapting — modelled as crossing a fold-bifurcation (a tipping point with hysteresis)
-into a basin the system does not return from.**
+is not "enough suffering" and not "revision-lock per se." It is the **loss of *self*-recoverable viability Ω̂ —
+the capacity to keep revising / adapting — modelled as crossing a fold-bifurcation (a tipping point with
+hysteresis) into a basin the system's own dynamics do not carry it out of.**
 - *Not identity-preservation.* Losing your legs / memory / vocation and *adapting* leaves Ω̂ intact — the
   revision-machinery worked (F12). Ω̂-collapse is the destruction of the *machinery of adaptation itself*, not of
   any particular pattern it maintained. (This answers the "viability-for-what?" regress: viability is *for
@@ -480,13 +487,31 @@ into a basin the system does not return from.**
   long institutionalisation) is Hell **because viability is destroyed, not because it hurts.** That the floor is
   *not phenomenal* is precisely why the theory is anti-hedonist. (Radical, but load-bearing: it is the whole point
   that a pleasant appearance can hide a collapsing Ω̂.)
-- *Naturally horizon-indexed.* "Irreversible" = "does not recover within the system's own remaining existence";
-  the horizon **H** is the system's finitude, not a free analyst choice. The floor is stated relative to a
-  declared **(level L, horizon H, proxy P)** — level-indexed, so multi-level verdicts (your marriage is
-  collapsing, you are not) are a *feature*, not an inconsistency.
-  ⚠ **This is not the definition C12 uses** ("internal reversibility cannot climb back"). The two pick out
-  different boundaries, and the difference decides whether an externally rescued person was ever below the floor
-  — and whether the pleasant-floor cases just above qualify at all. Declared, undecided → `20-open.md` **O6**.
+- *Basin-indexed, not horizon-indexed* **(decided 2026-07-25, O6)**. "Below the floor" = **the system is in the
+  lower basin and its own dynamics do not carry it out** — a structural fact about the current regime, not a
+  waiting-time question. The floor is stated relative to a declared **(level L, proxy P)** — level-indexed, so
+  multi-level verdicts (your marriage is collapsing, you are not) are a *feature*, not an inconsistency.
+
+  *What this replaced, and why.* The earlier wording read *"irreversible = does not recover within the system's
+  own remaining existence"*, with the horizon **H** fixed by the system's finitude. That was a third boundary,
+  distinct from both C12's and the terminal one, and it failed on its own examples and its own test:
+  **(i)** the pleasant-floor cases in the bullet above are *not* floor-cases under it — unplugging is external
+  forcing, and the subject then recovers within their remaining existence; **(ii)** anyone rescued would by
+  definition never have been below the floor, so **there are no below-floor recovery cases**, and the decisive
+  hysteresis test cannot close its loop. Choosing the self-recovery boundary makes the examples and the test work
+  together.
+
+  *The honest cost.* "Irreversible" now means **not self-reversible**, so the word — and "point of no return" —
+  are weaker than they sound; external forcing can and does return systems from below this floor (that is what
+  **C12** describes). And non-arbitrariness moves: it used to be guaranteed by definition (H = the system's
+  finitude), and is now carried by **basin structure**, which has to be *identified empirically* rather than
+  declared. H survives only as the observation window of a recovery arm — a design parameter, not part of the
+  definition.
+
+  *The terminal boundary belongs to C9.* Where even external forcing cannot return the system — all rescue
+  channels closed, organic collapse, death — is a different line, and it is **C9**'s (the limit case of
+  individual irrecoverability). C11's floor and C9's terminus are now two boundaries with two owners, and C12
+  describes the region between them.
 
 **Its badness is not theory-posited — it rides on F9, and cannot condemn.** "Collapse is bad" is not a
 categorical ought (F7). The floor's *content* (Ω̂ destroyed) is an observer-independent fact; its *badness* rides
@@ -570,9 +595,10 @@ variable running through every case: **the source and sign of external-error-con
 lens), not frozen; no new primitive.
 
 **Below the floor, recovery must be *forced from outside* — because the floor is a hysteresis point.** Past the
-tipping point, small internal reversibility cannot climb back (that is what "irreversible" means at the
-individual / self level — ⚠ **a different reading from C11's horizon-relative one**; the conflict is declared at
-`20-open.md` **O6** and is not resolved by either companion). Return then requires a **large external forcing** — not a substance poured in, but an
+tipping point, small internal reversibility cannot climb back — **and that is now what "the floor" means, in
+C11 as well** (decided 2026-07-25, O6: the floor is the *self*-recovery boundary; C11's earlier horizon-relative
+wording is dropped, and the terminal boundary belongs to C9). So C12's subject matter is exactly the region this
+companion always described: **below the floor, above the terminus.** Return then requires a **large external forcing** — not a substance poured in, but an
 *intact revision-capacity (Ω̂) lent as a temporary scaffold* until the collapsed system's own comes back online (a
 jump-start, not a fuel-transfer). The mystic's "God" (dark night) is one *symbolic form* of this containing-
 external; the theory names its concrete carriers:
@@ -597,10 +623,13 @@ still-open channel** — which is why *silent presence* works when speech fails:
 primordial synchrony), lending Ω̂ beneath the closed narrative channel. (Idealised — physical collapse can invert
 the order.)
 
-**The floor is therefore two-phase, and AA's contact-loss is its aperture gauge.** Phase 1: self-recovery
-impossible (hysteresis). Phase 2: *external* recovery impossible — the channels have closed. **AA's "loss of
-contact" marker (C8)** measures *which channels are still open* (the rescue-channel aperture); the **true point of
-no return** is where even the substrate channel closes (irreversible organic collapse / death).
+**Two boundaries, not two phases of one — and AA's contact-loss gauges the distance between them.** The
+**floor** (C11) is where *self*-recovery becomes impossible: hysteresis, the lower basin. The **terminus**
+(**C9**) is where *external* recovery becomes impossible as well — every rescue channel closed, organic collapse,
+death. **AA's "loss of contact" marker (C8)** measures *which channels are still open*, i.e. how much room is
+left between the two. *(Renamed 2026-07-25, O6: this was written as "Phase 1 / Phase 2" of a single floor, with
+the terminus called the floor's "true point of no return". They are two boundaries with two owners — calling the
+second one the floor collapsed C11 into C9 and left C11's detection programme with no object of its own.)*
 
 **Compassion (Cs) is the supply mechanism — and whether it depletes the rescuer turns on 持つ vs 把持.** Because Ω̂
 is a *capacity*, not a conserved substance, lending a scaffold is **not intrinsically zero-sum**. Two real
