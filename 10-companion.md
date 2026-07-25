@@ -628,6 +628,35 @@ external; the theory names its concrete carriers:
   collapsed *layer*, not to the system;
 - **the world** (a large enough external perturbation).
 
+**Maintenance is distributed — and that is the ordinary case, not only the rescue case** *(moved here from
+F12 §5, v1.4, and restated)*. At the grain where one tracks **maintenance**, the pattern does not stop at the
+skin. Stated at **F5**'s grain-relativity this is a claim about description, not an ontological verdict on where
+a self "really" ends — which is the register the corpus can afford.
+
+Two supports, and it matters which one carries it:
+- **Developmental** (**C5**). The self-style is brought up relationally; the observing capacity is acquired by
+  first being witnessed. **Hofer's "hidden regulators"** supply the mechanism: the caregiver functions as a set
+  of *separable* physiological regulators — warmth, tactile and olfactory contact, the sensory and absorptive
+  consequences of nursing — and separation effects decompose into the loss of those regulators. That is this
+  companion's channel ladder in another vocabulary.
+- **Concurrent, in adults — this is the one that carries the claim.** Under threat of shock, spousal
+  hand-holding broadly attenuates activation in threat-response systems; a stranger's hand attenuates less; the
+  effect scales with relationship quality (Coan, Schaefer & Davidson 2006). **Social Baseline Theory** states it
+  more strongly: the brain treats social proximity as the **baseline**, and self-regulation as the costlier
+  deviation — *load sharing*.
+
+*Why the second matters.* F12 v1.3 argued from the developmental fact to the current constitution — a step from
+origin to composition, which it did not discharge. The adult load-sharing findings make the step unnecessary:
+the regulation is **ongoing**, not merely formative. **The claim survives; the argument first given for it did
+not.**
+
+*Canonical note — the support lands here, not on the self's boundary.* **SN 45.2 (Upaḍḍha Sutta)**: Ānanda
+proposes that good friendship is *half* the holy life, and the Buddha corrects him — *"Not so, Ānanda … it is
+the **whole** of the holy life."* That is a claim about what the path **requires**, which is C12's subject.
+What the canon does **not** support is the social constitution of the self: *anattā* is analysed
+intra-personally through the khandhas, and the chariot simile is mereological, not social. The Huayan
+Indra's-net reading would support it and is **declined** — importing it is the reification **C1** warns against.
+
 **The rescue channels form a ladder, closing top-down.** External forcing must arrive through a channel, and the
 channels stack: **narrative / meaning** — words, reasons, reframing; **relational** — being-seen, recognition;
 **bodily** — co-regulation, breath / heart entrainment, silent presence; **substrate (physical / chemical)** —
