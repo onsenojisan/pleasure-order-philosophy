@@ -5,10 +5,12 @@ Last updated: 2026-07-25
 
 *Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
 has solved them. **O5 and O6 were different** — internal conflicts between positions the corpus held at once,
-and unlike the rest of this file they were **meant to be closed**. Both moved the day they were declared: **O6
-is decided**, and that decision closed one of O5's three fronts (a second had already closed at S11). What is
-left of O5 is C12's interventionism, pending the Zenodo `Prohibition of Counterfactuals`. The debts are kept in
-place, struck through rather than deleted, so the reasoning stays auditable.*
+and unlike the rest of this file they were **meant to be closed**. **Both are now closed**, on the day they were
+declared. O6 was a decision (the floor is the self-recovery boundary). O5 closed in three steps, and only one of
+them was a choice: F13's front fell to a source check (**S11**), C11's fell out of the O6 decision, and C12's
+fell to another source check — the counterfactual ban was never aimed at intervention. **Two of the three were
+not conflicts in the theory but artifacts of how it had been written down.** The debts are kept in place, struck
+through rather than deleted, so the reasoning stays auditable.*
 
 The author's principle (Absence of Final Explanation) is frozen as core **F0** (the Irrecoverability Schema):
 the five demands are never jointly met, so **explanation does not, in principle, converge.**
@@ -124,10 +126,26 @@ No commitment either way. The outer→inner bridge (the hard problem) is beyond 
 *(F1 v1.1 removed a conflict here: the frozen core no longer denies intrinsic natures outright, so the Russellian
 option is genuinely available rather than nominally kept while being ruled out one file over.)*
 
-## O5. Causation: R1's process theory vs. what the theory actually does with causes — **two of three fronts closed**
+## O5. Causation: R1's process theory vs. what the theory actually does with causes — **CLOSED 2026-07-25**
 
-*Opened 2026-07-25. This is a **declared internal conflict**, not a residue of a defensible position — it is
-listed here because it is unresolved, and resolving it needs a decision that reaches outside this repository.*
+> **Resolution.** All three fronts are down, and the last one closed by **reading the source** rather than by
+> choosing an exit. The Zenodo *Prohibition of Counterfactuals* (18428019) states the ban universally — *"only
+> what has occurred, and how it is structurally describable, is admitted"* — but its **target** is explanation
+> moving **behind** the observable (counterfactuals → a causal layer → explanatory closure there). It **never
+> mentions experiments, interventions, manipulation or controlled comparison.** So exit (b) was not a relaxation
+> at all: intervention was never the ban's subject. An intervention that actually happened is something that has
+> occurred, and describing it is structural description.
+>
+> What C12 needed was therefore a **reading rule, not a rewrite**: its conditionals ("recovery requires a source
+> of correction") are structural descriptions of observed regularity, not difference-making claims about single
+> cases. The register note is in C12. Still prohibited, and worth keeping in view: *"without the rescue he would
+> not have recovered."*
+>
+> *Residue:* none at the level of principle. What is left is editorial vigilance — the difference-making register
+> is easy to slip into, and F13's paraphrase (S11) showed how quickly a slip becomes canon.
+
+*Opened and closed 2026-07-25. Declared as an internal conflict rather than a residue; the record of the
+conflict is kept below, struck through where a front closed, so the reasoning stays auditable.*
 
 **R1** adopts process causation (Salmon / Dowe: actual physical process, transmission of conserved quantities)
 because the counterfactual ban makes Lewis / Woodward unavailable, and asserts that "collapse, directionality,
@@ -148,10 +166,10 @@ dΩ/dt all ride on causation in this sense." Three parts of the corpus sit badly
   forcing** — and both arms are observable, which under the dropped reading they were not. No modal truthmaker is
   needed. What follows survives unchanged.
 
-One front remains: **C12's interventionism**. Three exits are visible and the theory has not chosen:
-(a) **two-level** — process causation at the physical level, everything above stated as actual-frequency
-trajectory description (R2-consistent), which now costs only C12 its causal register (F13 and C11 no longer
-need it); (b) **relax the ban** to admit actual manipulations
+~~One front remains: **C12's interventionism**.~~ **Closed by the source (2026-07-25) — see the resolution
+above.** The three exits below are recorded as they stood; none had to be taken, because the ban was never
+aimed at intervention. (a) **two-level** — process causation at the physical level, everything above stated as
+actual-frequency trajectory description (R2-consistent); (b) **relax the ban** to admit actual manipulations
 (an intervention that really occurred is actual, not counterfactual), which reaches the Zenodo *Prohibition of
 Counterfactuals* and must be settled there, not here; (c) **change the account of causation**. → **Open**, and
 flagged as load-bearing: the theory's explanantia are all higher-order structural quantities.
