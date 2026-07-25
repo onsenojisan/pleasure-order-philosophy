@@ -3,7 +3,7 @@
 *status: Superseded. These are **not** current positions. They are recorded so that the earlier public
 writings (Hatena / early note / early Zenodo) do not mislead, and so the theory's own revision history is
 visible.*
-Last updated: 2026-07-05
+Last updated: 2026-07-25
 
 Recording what was dropped, and why, is not housekeeping. The core criterion is **reversibility / revisability**
 (F6): a theory that hid its own corrections would contradict itself. This ledger applies the same
@@ -111,6 +111,61 @@ the neocortex produced."
 **Replaced by:** kept descriptively — human rights *as a fact* is a maintained appearance-level value (F7/F9)
 whose developmental root (neocortical other-empathy) aligns with **C5** and the Suffering-Order's proto-ethics
 (**C7** Appendix A). The "should keep choosing it" is the **agent's freedom** (F9), not a categorical ought.
+
+## S9. The `BYXCZ` five-symbol faculty scheme (individual layer; reused at social scale)
+
+**Claim.** Individual psychology is carved into five load-bearing symbols — **B** (affect / survival / stake),
+**Y** (meaning), **X** (integration / observation), **C / Cs** (empathy / other-adjustment), **Z** (self /
+irreversible history) — and the same five letters are reused at the social / civilizational scale.
+
+**Why dropped.** Two separate faults, both notational rather than empirical, decided in the *BYXCZ Notation
+Decision* (2026-07-01) and the *Individual Layer Retraction A*:
+- **It is not a discovery.** At the individual level the scheme is a relabel over systems already established
+  elsewhere. Carrying five proprietary letters implied an architecture that the neuroscience does not support
+  and the theory never independently established. (This holds of the replacement too: `BXKZ` is a *carving*
+  over cited systems — it coins nothing and validates nothing.)
+- **The cross-scale reuse equivocates.** The same letters carried different constructs at the two scales.
+  `Y`/`X`/`C` connect by loose homology, but `B` and especially `Z` diverge outright — `Z` is the **self**
+  individually and **abstraction / history** socially. Reusing them implied the 5→5 externalization the
+  civilizational canon had already rejected (**C2**: 2 frames + 3 forces, and see **S6**).
+
+**Replaced by — `BXKZ` (four layers).** B = drive / stake (the appetitive substrate: consequences returning to
+oneself) · X = observer / attention (control, integration, meta-observation, de-fixation) · K = care /
+affiliation (empathy, compassion, attachment — the old C/Cs) · Z = self-reference (the narrative self).
+
+- **`Y` (meaning) is not a layer.** No primary-process system carries it, so meaning is treated as an
+  **appearance** emergent on B/X/K/Z. *Having a primary system* is the criterion, and it is what separates the
+  dropped `Y` from the retained `K`.
+- **`B` is kept undivided.** Its internal granularity (temperament-level dimensions) belongs to the measurement
+  track; the structural work never needed it.
+- **Social / civilizational level: no letters at all** — plain names (survival competition · symbolic
+  competition · observation · ethics · abstraction; in the civ frame, 2 frames + 3 forces). The individual↔social
+  link is a **worded homology of generation, not identity and not symbol reuse**.
+
+*An interim successor, `BXZ` = Menon's Triple Network (2026-07-01), was superseded on 2026-07-25.* The triple
+network is a model of **cognitive control** — salience-gated switching between default-mode and
+central-executive — and has no slot for any *motivational* system, so "B = Salience network" mislabelled `B`
+(the salience network detects and switches; appetitive drive is mesolimbic dopamine), and the cortical
+parcellations that framework belongs to exclude the subcortical systems carrying both drive and care. `K` is
+retained on three independent dissociations — neurochemical (CARE oxytocin/opioid vs SEEKING dopamine),
+trait-level (affiliative vs agentic extraversion), and training-fMRI (compassion and empathy activate
+non-overlapping networks) — plus the psychopathy pattern (theory of mind intact, empathic response impaired),
+which is why care does not reduce to `B + Z`. Full record: `BXKZ_LAYER_SCHEME_DECISION.md` (HDD-005).
+
+**Scope.** This is a notation / coherence decision: it validates nothing, adds no novelty, and changes **no**
+gate, threshold, evidence, or claim. Frozen deposits (earlier Zenodo records, locked internal documents) are
+**not** retroactively edited — provenance is preserved and covered by the boundary note; the discipline is
+going-forward, and applies to every live document. Two constraints ride with the replacement: **no
+load-bearing claim may rest on the four faces being empirically separable**, and they are not to be measured by
+self-report batteries — the failure mode that sank the O/M/A decomposition.
+
+**Recorded late (2026-07-25).** The retirement dates from 2026-07-01 and was stated inside companion **C13** on
+2026-07-23, but it was never entered in this ledger, and three structural uses stayed live in `10-companion.md`
+(C2, C6, C12) because C13's verification pass was scoped to value-formulations only. Those are now re-expressed.
+The delay is left visible rather than backdated: a retraction announced inside one companion is not thereby
+executed, which is exactly what this ledger exists to prevent. The successor itself moved twice in the interval
+(`BXZ` 2026-07-01 → `BXKZ` 2026-07-20, finalised 2026-07-25), and both steps are recorded above rather than
+collapsed into a single tidy verdict — for the same reason.
 
 ---
 
