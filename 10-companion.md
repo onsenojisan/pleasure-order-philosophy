@@ -2,7 +2,7 @@
 
 *status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
 offered as a lens. Revisable.*
-Last updated: 2026-07-25
+Last updated: 2026-07-26
 
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
@@ -418,6 +418,12 @@ liberation-vs-Nietzsche **narrows sharply**: both live on the *reversible* side;
 (fixated / reversible). On the living (reversible) side, two orthogonal phenomenological axes —
 {quiet 静 ↔ ecstatic 恍惚} × {withdraw 退く ↔ hold/engage 持つ} — give four modes:
 
+*What "phenomenological" is doing in that sentence (glossed v1.9).* It marks the **register the axes describe** —
+energy and posture — not the **evidence they run on**. The axes are read off a life-arc from outside: what a
+person does, sustains, produces, returns to. They are not testimony about an inner state, and nothing in the map
+licenses a claim about what any cell is like from within it. That bar is **S5**'s, is restated in full under
+*Honest labelling* below, and the word here does not relax it.
+
 | reversible (alive) | quiet 静 | ecstatic 恍惚 |
 |---|---|---|
 | **withdraw 退く** | quiet withdrawal that can return (**C3**'s *static* path) | ecstatic absorption reached by *letting go* (the mystic's rapture — the 恍惚 release mode C3 parked) |
@@ -818,8 +824,14 @@ the ambiguity is load-bearing:
 | (ii) *mere seeming* — value appears present but is not (error theory, Mackie) | a **debunking** claim | **not asserted** — C13 is not an error theory |
 | (iii) *response-dependent real pattern* — real, doing objective work, salience observer-relative | **F5** (Dennett) | **the reading adopted** |
 
-Because F5 is already frozen as Real Patterns — *"they do objective work (compress / predict / constrain); which
-ones are salient is observer-grain-relative"* — reading (iii) needs no new apparatus. **A style is neither an
+Because F5 is already frozen as Real Patterns, reading (iii) needs no new apparatus. *(Requoted v1.9.* This
+paragraph used to cite F5 as *"they do objective work (compress / predict / constrain)"* — the **pre-v1.6**
+wording. v1.6 removed "constrain" from the criterion because constraining is what a *cause* does, and read
+causally F5 would contradict F13. The criterion is the **objective availability of the compression**: a pattern
+is real when the compressibility is a mind-independent fact about the arrangement. Salience stays
+observer-grain-relative. **The thinness comes with it** — C13 is F5's largest downstream inheritor, so
+value-as-style is real in the sense that the compression is objectively available at a grain, and in no sense
+that has a value pushing anything.*) **A style is neither an
 illusion nor a mind-independent substance**, which is exactly the standing "value is appearance" requires and
 exactly what (ii) would destroy. A reader who takes C13 as debunking has substituted (ii) for (iii).
 
@@ -828,7 +840,18 @@ work. So value-as-style owes an answer to: **what does the value-pattern compres
 answer offered is Dennett's own — it compresses a large body of approach / withdrawal / maintenance regularity
 into a low-dimensional signal, exactly as the intentional stance's beliefs and desires do. Value-as-style
 therefore inherits the intentional stance's defence *and its costs.* **The cost is stance-relativity:** on this
-account "value is real" is never sayable without the qualifier *relative to a grain of description*. Where no such
+account "value is real" is never sayable without the qualifier *relative to a grain of description*.
+
+**And that qualifier is sharper than it reads** *(declared here v1.9, per the owed-account discipline —
+`20-open.md` O1: declare the use at **every** point of use).* O1 has closed the interest-free horn: an
+interest-free grain would need natural joints **F1** declines to give. So the grain in play is the
+**purpose-relative** one, and on it value is real relative not merely to *a* description but to **whose** — a
+thicker commitment than reading (iii) advertises, and a form of constructivism. It does not collapse C13 into
+reading (ii): response-dependent realism may well survive being purpose-indexed, and whether it does is the open
+question, not a settled defeat. What is settled is the cap: the qualifier governing every claim below is
+*relative to whose grain*, and the strength of anything resting on C13 is limited accordingly. The sharpening
+was made in v1.7 and recorded only where the debt is filed; declaring it there and not here was the discipline
+lapsing at the site where the machinery actually runs. Where no such
 work can be shown for some purported value, its honest tier is **superseded (mere seeming)**, not companion —
 "style" is not a courtesy title.
 

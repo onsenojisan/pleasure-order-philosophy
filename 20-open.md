@@ -15,7 +15,7 @@
 *The third kind was added because the first was being made to cover it, which is a category error: "no verdict
 is reachable" and "we use this without having earned it" are not the same situation, and only the first is
 licensed by F0.*
-Last updated: 2026-07-25
+Last updated: 2026-07-26
 
 *Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
 has solved them. **O5 and O6 were different** — internal conflicts between positions the corpus held at once,
@@ -149,6 +149,37 @@ grip loosens" are two directions on one axis, the text should be equally willing
 leans toward release, a residual evaluative commitment sits under the descriptive surface. C13 permits such a
 commitment **only if declared** — an undeclared lean is unauditable, and therefore worse than a bounded stated
 one. **No verdict is recorded:** this is a standing audit on the corpus, not a closed finding. → **Open.**
+
+### The standpoint-inflation audit — *a second standing audit (opened 2026-07-26)*
+
+Whether the corpus **inflates a standpoint-relative finding into a universal one**. The failure is specific, and
+the guards already in place do not catch it: **F7** and **C10** forbid *ranking* one mode above another, and
+neither notices when a report made from one position is written as the description of everyone's situation. A
+claim can be perfectly non-evaluative — nobody is called better — and still over-reach in this way.
+
+Named occasions rather than a general warning:
+- **The C4 self-location.** F12 reports that no addressee is found *when sought*. That closes C4 for a theory
+  keeping F12; it shows nothing about someone who has not undertaken the search, and there is no neutral court
+  between the two reports. The index is now written into the core (v1.9).
+- **S5's territory** — any claim about what a released perception contains. This is why S5 was retracted, and
+  the same bar reaches every restatement of it.
+- **Any place the corpus writes "there is no X" where the honest form is "X is not found when sought."** Both
+  **F1** (v1.1) and **F12** have already had to make this correction once.
+
+Three things this audit is *not*. It is not scepticism about the findings: a report from a position is still a
+report, and the discipline is to **index it, not withdraw it**. It is not the claim that the two positions are
+equally good — that is a ranking, and F7 already forbids it. And it is not the claim that the matter is
+**undecidable for everyone**: undecidability reported from one side is itself a standpoint-relative finding, and
+universalising *that* is the same error run in the opposite direction. The audit asks one question only —
+**is the index stated?**
+
+The occasion for opening it was external: the pattern was described for the historical case of Buddhism's
+universalisation of liberation, where the diagnosis is not concealment but over-extension — a truth from the far
+side written as a truth about both sides. Nothing of that analysis is imported here as a position; what is
+adopted is the discipline it turns on itself.
+
+**No verdict is recorded**, for the reason the same-temperature audit gives: an undeclared inflation is
+unauditable, and therefore worse than a bounded stated one. → **Open**, as a standing audit.
 
 ## O2. Out-of-scope declarations (not gaps)
 

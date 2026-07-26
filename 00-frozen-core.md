@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.8** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.9** · Last updated: 2026-07-26 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -86,7 +86,7 @@ Gödel's first incompleteness theorem gives, for any consistent (**A**), effecti
 
 **Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 **no P-move at all — which is not the same as no cost** *(distinguished v1.7)*, and **the declining is forced rather than chosen** *(v1.8)*.
 
-*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so the operation C4 names has no one to be performed on. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). If Kant's postulates count as a payment, then keeping unsupported what he judged insupportable is a cost of comparable size, borne differently. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so the operation C4 names has no one to be performed on. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. *And that is the entire claim (indexed v1.9).* The compulsion is **relative to a commitment this theory has already made**, and the ground F12 gives for it is a **report of a search**. So nothing here shows that C4 cannot be raised at all: someone who finds an addressee is not refuted by this, and there is no neutral court between the two positions to settle which report governs. Read as "no one has an addressee," the report would be a standpoint-relative finding inflated into a universal one — which is a distinct failure from ranking, is not caught by **F7**, and is what the standing audit in [`20-open.md`](./20-open.md) was opened to watch. What the theory declines is C4 **for itself**, under compulsion; it declines equally to issue that as a verdict on anyone else. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). If Kant's postulates count as a payment, then keeping unsupported what he judged insupportable is a cost of comparable size, borne differently. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
 
 Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
 
@@ -213,6 +213,15 @@ other. They are the two truths kept apart: description reaches structure convent
 is left silent (F3) — which is also how **F2** already describes its own posit ("the correct use of conventional
 truth"). *Residue:* this defence leans on "at a grain", and what fixes the grain is not said — see
 [`20-open.md`](./20-open.md) O1.
+
+*What the Madhyamaka reference is doing here, and what it is not (added v1.9).* It is an **analogy, not a
+support**. The two-truths reading above is a contested one — the Prāsaṅgika / Svātantrika dispute turns on
+exactly how much the conventional level may be granted — and the theory has no standing in that dispute and
+takes none: **C1** is titled *not strict Madhyamaka* for this reason, and **F6**'s lineage claim was verified as
+a lineage claim, not as exegesis. The defence does not need the exegesis to hold: its content is grain-relativity
+plus silence about the ultimate, both of which are stated and warranted here without it. If the reading is wrong
+as Buddhology, F5 loses an illustration and nothing else. Stated because borrowing the authority while owing the
+scholarship is the kind of thing this file corrects itself for.
 
 ### F6. Core criterion = anti-fixation / reversibility
 
@@ -717,10 +726,61 @@ applies to any claim about what a liberated perception contains. What survives i
 *embody the pattern*, they do not verify inner attainment). It is also why **C3**'s liberation is *one thing —
 not grasping* — rather than an insight: nothing becomes visible; one stops installing an addressee.
 
-**Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
+### v1.9 — 2026-07-26 · the index on a standpoint-relative report, and four things a critic found
+
+A fourth external critique, on the v1.8 package. Two of its nine points were live as stated, two more were live
+in a narrower form than they were put, and the sharpest correction came from the author in reply to it.
+
+- **The C4 self-location is now indexed, and the index is the point** *(from the author)*. The objection was
+  that the declining of C4 rests entirely on **F12**, and F12 is a *report of a search* rather than a verdict,
+  so the declining should inherit the report's modesty. Half right. Every statement of the position in the body
+  was already conditional — "the option is closed by a commitment made elsewhere" (§F0), "the theory could not
+  raise C4 **while keeping F12**" (§F0), "forced by P4/F12" (`STATUS.md`) — so the compulsion was never
+  unconditional. **What was nowhere stated is the other half:** that the report does not universalize. There are
+  two positions here, and no neutral court between them: from within the search no addressee is found, and
+  someone who finds one is not thereby in error. Written without that, the position inflates a standpoint-relative
+  finding into a description of everyone's situation. The clause is added at the self-location, and the general
+  form is opened as a standing audit in [`20-open.md`](./20-open.md).
+- **F7 does not catch this failure, which is why it needed naming.** F7 and C10 forbid *ranking* one mode above
+  another. A finding can be perfectly non-evaluative — nobody is being called better — and still over-reach by
+  being written from one position as the account of all of them. The two guards are different, and only the
+  first was in place.
+- **C13 was quoting a retired formulation of F5.** It cited the frozen tier as *"they do objective work
+  (compress / predict / constrain)"* — the pre-v1.6 wording, including the very term the v1.6 disambiguation
+  removed, because constraining is what a *cause* does. C13 is F5's largest downstream inheritor, so it was
+  the one place the correction most needed to reach and had not. Corrected, with the thinness stated where it
+  is inherited.
+- **The purpose-relative grain is now declared at C13, not only at O1.** The owed-account discipline is *declare
+  the use at every point of use*. v1.7 sharpened the item — F1 has closed the interest-free horn, so the grain
+  in play is the purpose-relative one, on which value is real relative to **whose** description — and the
+  sharpening was recorded in `20-open.md` and nowhere else. Declaring it only where the debt is filed and not
+  where the machinery is used is the discipline lapsing exactly where it does its work.
+- **The Madhyamaka reference at F5 is an analogy, not a support**, and now says so. The two-truths reading it
+  uses is contested (Prāsaṅgika / Svātantrika), the theory takes no side, and the defence's content —
+  grain-relativity plus silence about the ultimate — is warranted here without any exegesis. If the Buddhology
+  is wrong, F5 loses an illustration and nothing else.
+- **The stale block below is struck.** See there.
+
+*Not adopted, and why.* That the "three walls" framing should be dropped: the appendix already says the noun
+flatters two of the three and that the tier labels govern, and replacing an acknowledged convenience with a new
+vocabulary buys nothing. That the Gödel corner's reply to the exit-from-outside move equates the force of a
+proof with the force of an argument: the same paragraph separates the tiers and declines to lend the theorem's
+confidence to the other two, which is the opposite of the charge. That the empirical wager is too thin to
+support the philosophy: it is not asked to — the boundary section declines to borrow from the empirical track,
+and the thinness is the corpus's own published statement.
+
+~~**Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
 plus the interventionist machinery of companion C12; and the two incompatible readings of "irreversible" in
-companions C11 and C12. Both need a decision that reaches outside this file.
+companions C11 and C12. Both need a decision that reaches outside this file.~~
+
+**Both are closed, and this block was stale for a full version cycle** *(struck v1.9)*. It was written at **v1.1**
+and never revisited. **O5** and **O6** were each closed on the day they were declared (2026-07-25), and
+[`20-open.md`](./20-open.md) has said so since — its declared-debt line reads *currently outstanding: none*. The
+wording is wrong on a second count as well: it calls F13 "the structural-constraint answer", which is the
+paraphrase **S11** retracted, so the block was restating a superseded position as though it were the live one.
+Struck through rather than deleted, because a file that keeps its history auditable has to keep this too. It was
+found by an external critic, having survived four rounds of internal review.
 
 ---
 

@@ -3,7 +3,7 @@
 *status: Superseded. These are **not** current positions. They are recorded so that the earlier public
 writings (Hatena / early note / early Zenodo) do not mislead, and so the theory's own revision history is
 visible.*
-Last updated: 2026-07-25
+Last updated: 2026-07-26
 
 Recording what was dropped, and why, is not housekeeping. The core criterion is **reversibility / revisability**
 (F6): a theory that hid its own corrections would contradict itself. This ledger applies the same
