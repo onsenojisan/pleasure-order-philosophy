@@ -35,6 +35,13 @@ cells display it.
 
 The five conditions partition cleanly across three external results.
 
+*A word about the word* (added 2026-07-26). "Wall" is one noun for three things of very different evidential
+weight, and the noun flatters two of them: it suggests impassability for all three, and only the first is
+impassable in the strict sense — and even that one only within its declared premises. The tier labels below
+(**Theorem / Strong Argument / Descriptive Fact**) are what govern; the shared noun is a convenience of exposition
+and should not be allowed to do argumentative work. §3 makes the same point from the other side: the headline is
+cheap, and the real content and real risk sit in the sorting, which the non-theorem walls carry.
+
 ### Wall 1 — Gödel (Theorem Tier). Blocks C1 ∧ C2.
 
 This is F0-L. C1 ("E finally and consistently explains W") entails completeness

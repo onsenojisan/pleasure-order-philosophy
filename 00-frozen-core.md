@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.5** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.6** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -12,6 +12,14 @@ declines to be a final theorem; and the particular payment the rule makes — si
 **chosen for stated reasons**, workability and anti-escapism, exactly as at **F2**. So the rule is conditional
 all the way down: it is what *this* theory pays, not what any theory must. Read as a categorical starting
 premise it would be self-undermining, and the corpus does not so read it.
+
+*And the adoption is itself an underived terminus — named, not disguised* **(v1.6).** "It is workable" and "the
+alternative invites evasion" are reasons for stopping here; they are not derivations. Structurally that is
+**Agrippa's third horn**, the same move the appendix refuses to let anyone else make quietly: a foundationalist
+who says his basic beliefs need no justification "has not escaped the trilemma; he has explicitly chosen the
+third horn … he may accept this — but that is *accepting the payment*, not avoiding it" (04 §2). The same
+standard applies here. The rule's adoption is a payment, not a justification, and calling the pragmatic reasons
+a ground would be exactly the quiet move the framework charges others for.
 
 ---
 
@@ -28,7 +36,7 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 - **C1 — completeness of explanation:** a description/explanation system E finally and consistently explains the world W.
 - **C2 — integrity of the subject:** the subject S (experience, self-identity) is identifiable within E and survives as the bearer of E.
 - **C3 — integrity of the normative:** a value system V connects to W and E without contradiction and carries objective binding force.
-- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V.
+- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it, which is why C4 is the one demand it answers with no payment at all — it is never raised.)*
 - **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
 
 **Thesis (no joint satisfaction).** No system examined satisfies C1–C5 simultaneously under their strong readings. Every candidate has (i) silenced / shelved a condition, (ii) swapped a condition for something weaker, or (iii) bought it with a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
@@ -47,7 +55,7 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 |---|---|---|---|
 | **Platonism** (Forms / math) | C1, C3, C5 | **P1** → C2: the ground sits *outside* the world (the Form-realm = the God's-eye seat; drops self-inclusion B) | "the ground is elsewhere; how the knower *here* touches it is the residue" |
 | **Classical theism** (Aquinas, Leibniz) | C1, C3, C4, C5 | **P1 + P6** → C4/C5: an uncaused external point (P1); providence / afterlife settles the account (P6); Euthyphro = the C5 circle | "the account is settled — by an Auditor outside the ledger" |
-| **Kant** (transcendental idealism) | C2, C3 | **P5 + P2** → C1: phenomena / noumena two-world; the thing-in-itself is walled off *and declared unknowable* (a P2 silence riding under the P5 split); the moral law rests on the 'fact of reason' | "keep the subject and the law — at the price of a second, unknowable world" (the two-world **F3** rejects) |
+| **Kant** (transcendental idealism) | C2, C3, and **demands C4** | **P5 + P2** → C1: phenomena / noumena two-world; the thing-in-itself is walled off *and declared unknowable* (a P2 silence riding under the P5 split); the moral law rests on the 'fact of reason'. **And P6 → C4** *(recorded v1.6)*: the highest good requires happiness proportioned to virtue, nature does not proportion them, so immortality and God are **postulated** to do it — structurally the same settling mechanism classical theism uses | "keep the subject and the law — at the price of a second, unknowable world" (the two-world **F3** rejects); and "the account is settled by a postulate — **declared as a postulate**" |
 | **Hegel** (absolute idealism) | aims at *all five* | **the circle (C5) + P6**: self-grounding is embraced as a virtue (Agrippa's circle, *chosen*); the 'cunning of reason' recovers history (P6) | "nothing is paid — because the circle is renamed a spiral" |
 | **Spinoza** | C1, C5 | **P4 + dogma (C5)**: *causa sui* is the self-causation terminus (Agrippa's dogma); the self is a mode, not a substance; necessity dissolves C4-as-desert | "the ground causes itself; the self is a wave in it" |
 | **Nāgārjuna / Madhyamaka** | anti-foundational consistency | **P2 + P4 (+ P3 / P7)**: silence on the ultimate (no-thesis); no-self (*anātman* dissolves C2); refuses C5-as-ground (grasping emptiness as a view = the error); arguably also P3 (if all views are empty, normativity has no ground) and P7 (the "ultimate truth?" question dissolved) — so **VOT's payments {P2, P3, P4} are a subset of Madhyamaka's** | "no thesis, no self, no ground — held as the cure, not a lack" (this theory's ancestor; **F6** origin) |
@@ -61,7 +69,7 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 
 **Modality, stated honestly.** The thesis says "never yet achieved, and structurally hard" — not a God's-eye "impossible". Asserting impossibility over all possible systems would itself require a privileged external standpoint (iii), the very move the schema tracks; so F0 applies **P2 to itself** and does not claim to be a final theorem. It is frozen as the theory's considered bet (R3), and it is falsifiable in the operative sense: exhibit a system meeting C1–C5 under the stated readings without a P-move, and F0 falls.
 
-**Genealogy (borrowed on purpose).** F0 composes known limitative results rather than inventing one: C5 is Agrippa's trilemma (regress / circle / dogma); C3 is Hume's is–ought gap; the C1∧C2 corner is the self-reference territory of Gödel and Tarski. What is added is the composition — reading the classical "unsolved problems" as five faces of a single joint-satisfaction failure — not a new impossibility result.
+**Genealogy (borrowed on purpose).** F0 composes known limitative results rather than inventing one: C5 is Agrippa's trilemma (regress / circle / dogma); C3 is Hume's is–ought gap; the C1∧C2 corner is the self-reference territory of Gödel and Tarski. **C4 had no genealogy stated and now has one** *(added v1.6, in answer to the fair charge that the five-demand set looked arbitrary at exactly that point)*: the demand that action and consequence be reconciled along V is **Kant's summum bonum** — virtue and happiness must be proportioned, and because nothing in nature proportions them, immortality and God are *postulated* to do it — and, in other lineages, **theodicy** and the **karmic ledger**. Wall 3 (no natural law guarantees desert) is what *blocks* C4; it was never a reason for counting C4 among the demands. That reason is this genealogy, which also explains why C4 is the demand most often paid with P6: the postulate is precisely a recovery mechanism placed in the world. *(Consequence for the table above, applied v1.6: Kant's row previously recorded only P5 + P2 on C1. If he demands C4 and postulates immortality and God to meet it, he pays **P6** as well — the same settling mechanism the classical-theism row is charged for — and the row now records both. Note what is **not** being said: Kant does not smuggle. He names the postulates as postulates and denies they are knowledge, which is exactly why he is the clearest case of a demand visibly forcing a payment, and why the P-move vocabulary is descriptive rather than pejorative.)* What is added is the composition — reading the classical "unsolved problems" as five faces of a single joint-satisfaction failure — not a new impossibility result.
 
 **F0-L (the formal core — the one corner that is actually provable).** Read C1 as *deductive completeness* and C2 as *self-inclusion*. Then four individually reasonable demands are jointly unsatisfiable:
 
@@ -166,8 +174,26 @@ A *style* is a form of relations/process that persists while its material turns 
 organism, a self, a society). "Reconstructed vs world-side" is a false dichotomy; the answer is **real
 patterns**:
 
-- They do **work** on the world side (compress / predict / constrain — a whirlpool steers the leaf whether or
-  not anyone watches) → not merely reconstructed.
+- They do **work** on the world side → not merely reconstructed.
+
+  *In which sense "work"?* **(Disambiguated v1.6, and the ambiguity was load-bearing.)** The list
+  "compress / predict / constrain" mixes two things: compressing and predicting are what a *describer* does,
+  constraining is what a *cause* does. The criterion is the **first**, understood objectively: a pattern is real
+  when the **compressibility is a mind-independent fact about the arrangement** — the leaf's trajectory *is*
+  compressible by the whirlpool-description whether or not anyone compresses it. What is mind-independent is the
+  availability of the compression, not a second force exerted by the pattern.
+
+  So "a whirlpool steers the leaf" is loose talk, useful but not the criterion. Read strictly it would make
+  pattern-reality a matter of exerting causal influence, and then **F13** would contradict F5: directionality
+  takes the redundancy horn of Kim's dilemma and exerts nothing over and above the physical, yet is asserted to
+  be a real pattern. On the reading given here there is no contradiction — the bias in how a process transforms
+  its inputs is objectively there, and the pushing is done entirely by the physical process.
+
+  *The cost, stated.* This makes F5's realism **thinner than the prose elsewhere suggests**. Real patterns are
+  real in the sense that the compression is objectively available at a grain — not in the sense that they add
+  anything to the causal furniture. Everything F5 carries downstream (C13's value-as-style, F12's self) inherits
+  that thinness, and it compounds with the open question of what fixes the grain
+  ([`20-open.md`](./20-open.md) O1).
 - Which patterns are picked out is **relative to the observer's grain** (a bee inhabits a different world) →
   not naively pre-carved either.
 
@@ -238,6 +264,19 @@ outside (Russellian monism ≈ proto-panpsychism)⟩.
 → **Commit to neither; keep both as undecided options, shelved.**
 Consequence: we do *not* say "feeling is explained by pleasure = dC/dt". Pleasure = dC/dt is a **functional
 correlate**; whether it exhausts felt experience is **open**.
+
+**What that leaves the theory's central vocabulary** *(drawn out v1.6; the consequence was there and had not been
+stated)*. If the correlate may not exhaust the felt phenomenon, then **"pleasure" and "suffering" as this theory
+uses them are technical terms** naming functional quantities — rates of coherence formation and collapse — and
+their relation to felt pleasure and felt suffering is precisely what F8 leaves open. The theory's terms and the
+ordinary ones may not be co-referential, and **the theory is the one saying so**.
+
+Two things follow, and neither is an embarrassment. First, **the name is a lineage label, not a thesis**: "The
+Pleasure Order" records where the work came from, not a claim to be a theory of felt pleasure — which is also
+what **S2**'s retraction of "pleasure = coherence" was for. Second, and more important, **companion C11 needs
+the gap**: the collapse-floor is defined by loss of viability and not by how anything feels, which is what lets
+it say that a revision-locked blissful state is at the floor. Close the gap by identifying the correlate with
+the feeling and the anti-hedonist core goes with it. The gap is **load-bearing, not a loose end.**
 
 ---
 
@@ -382,7 +421,10 @@ not an extra cause; it is a **real pattern (F5) in the actual process**, and its
 grants — doing compression and prediction work at a grain. Nothing competes for the same effect, so
 overdetermination never arises.
 
-What is given up is that directionality does causal work *over and above* the physical. The theory gives that up
+What is given up is that directionality does causal work *over and above* the physical. (This is consistent with
+**F5** only on the disambiguation F5 now carries: a real pattern is one whose compression is objectively
+available, not one that exerts a further force. Under the looser reading of "does objective work" the two items
+would contradict each other — v1.6.) The theory gives that up
 without loss, because it never wanted it: **P4** has already thinned the subject to a maintained style (**F12**),
 and a thinned subject has no use for a separate mental cause. Saying instead that this **"blocks" or "defeats"**
 the exclusion argument would overstate — the argument is *accepted*, and its sting is denied. Naming which of
@@ -580,6 +622,39 @@ same-temperature audit already standing at O1. Three were live, and are taken he
 **A debt was opened rather than paid:** *what fixes the grain* (O1). F5 and C13 lean on grain-relativity
 throughout, and nothing in the corpus says what fixes the grain. It is used, not merely omitted — including by
 F5's new two-truths defence above, which is why the residue is flagged there rather than left implicit.
+
+### v1.6 — 2026-07-26 · a second external critique, and one thing v1.5 exposed
+
+- **F5 — "objective work" was ambiguous, and the ambiguity was load-bearing.** The list
+  *compress / predict / constrain* runs together what a describer does and what a cause does, and the whirlpool
+  example ("steers the leaf") reads as the causal one. Under that reading **v1.5's own sharpening of F13 would
+  contradict F5**: directionality takes Kim's redundancy horn and exerts nothing over and above the physical,
+  yet is called a real pattern. Disambiguated to the objective-compressibility reading, which is Dennett's own:
+  what is mind-independent is that the compression *is available*, not that the pattern pushes. The cost is
+  stated rather than hidden — **F5's realism is thinner than the surrounding prose suggests**, and everything
+  downstream inherits the thinness.
+- **The governing rule's adoption is an underived terminus, and is now named as one.** "Workable" and
+  "anti-escapism" are reasons for stopping, not derivations — structurally Agrippa's third horn, which the
+  appendix (§2) refuses to let anyone else take quietly. The same standard now applies to the rule itself: its
+  adoption is a payment, not a justification.
+- **C4 now has the genealogy the other demands had.** C3 had Hume, C5 had Agrippa, C1∧C2 had Gödel and Tarski;
+  C4 had only Wall 3, which *blocks* the demand and was never a reason for counting it among them. The reason is
+  **Kant's summum bonum**, plus theodicy and the karmic ledger — which also explains why C4 is the demand most
+  often paid with P6.
+- **F8 — what the shelving does to the theory's central vocabulary is now drawn out.** If the correlate may not
+  exhaust the felt phenomenon, "pleasure" and "suffering" here are technical terms whose relation to the ordinary
+  ones is exactly what stays open. The name is a lineage label, and **C11's anti-hedonist core needs the gap**
+  rather than merely tolerating it.
+
+- **The Kant row now records the payment C4's genealogy implies.** It had only P5 + P2 on C1. If Kant demands the
+  summum bonum and postulates immortality and God to meet it, he pays **P6** on C4 as well — the same settling
+  mechanism the classical-theism row is charged for. And **C4 itself is now glossed as an *optional* demand**:
+  drop the proportion, the obligation to realise it, or the strong "ought implies can", and no settling mechanism
+  is forced. That is what makes C4 the one demand this theory answers with **no payment at all** — it never
+  raises it, which is the whole content of "non-recovery held descriptively" (C8, C9).
+
+*Also noted*: "wall" is one noun for three things of different evidential weight, and the appendix now says so
+where it introduces them.
 
 **Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
