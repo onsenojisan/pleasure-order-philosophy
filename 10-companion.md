@@ -523,8 +523,8 @@ is not "enough suffering" and not "revision-lock per se." It is the **loss of *s
 the capacity to keep revising / adapting — modelled as crossing a fold-bifurcation (a tipping point with
 hysteresis) into a basin the system's own dynamics do not carry it out of.**
 
-*Which side of F5's line this sits on* **(added v1.11, in answer to a fair charge that the thin reading of F5
-and the thick causal talk here pull against each other).* They answer different questions. **F5** says what makes
+**Which side of F5's line this sits on** *(added v1.11, in answer to a fair charge that the thin reading of F5
+and the thick causal talk here pull against each other)*. They answer different questions. **F5** says what makes
 a pattern *real* — the compression is objectively available at a grain — and adds nothing to the causal
 furniture. The floor is not about that at all: it is about whether the pattern is **still being instantiated**,
 which is a third-person fact about an actual system and is settled by evidence, not by whether anyone can
@@ -850,7 +850,7 @@ the ambiguity is load-bearing:
 | (ii) *mere seeming* — value appears present but is not (error theory, Mackie) | a **debunking** claim | **not asserted** — C13 is not an error theory |
 | (iii) *response-dependent real pattern* — real, doing objective work, salience observer-relative | **F5** (Dennett) | **the reading adopted** |
 
-Because F5 is already frozen as Real Patterns, reading (iii) needs no new apparatus. *(Requoted v1.9.* This
+Because F5 is already frozen as Real Patterns, reading (iii) needs no new apparatus. **(Requoted v1.9.)** This
 paragraph used to cite F5 as *"they do objective work (compress / predict / constrain)"* — the **pre-v1.6**
 wording. v1.6 removed "constrain" from the criterion because constraining is what a *cause* does, and read
 causally F5 would contradict F13. The criterion is the **objective availability of the compression**: a pattern
