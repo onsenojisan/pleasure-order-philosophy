@@ -1,9 +1,20 @@
 # Open — deliberately open questions
 
-*status: Open — in **two kinds**, with opposite discipline. **Principled openings** (F0/F3-derived) are not to
-be filled, by design. **Declared debts** — internal conflicts between positions the corpus holds at once — are
-meant to be closed, and are struck through here rather than deleted when they are. **Debts currently
-outstanding: none** (O5 and O6 were both opened and closed on 2026-07-25).*
+*status: Open — in **three kinds**, with different disciplines.*
+
+- ***Principled openings*** *(F0/F3-derived): no verdict is reachable, so they are **not to be filled**. Filling
+  one would be the betrayal, not the completion.*
+- ***Declared debts***: *internal conflicts between positions the corpus holds at once. Not principled at all —
+  simply unpaid — so they **must be closed**, and are struck through rather than deleted when they are.
+  **Currently outstanding: none** (O5 and O6 were opened and closed on 2026-07-25).*
+- ***Owed accounts*** *(named 2026-07-26): **machinery the corpus uses while owing an account of it.** Neither
+  a conflict nor beyond reach, so neither of the first two disciplines fits. The discipline is: **declare the
+  use at every point of use, and let it cap the strength of what rests on it.** Currently: **intentionality**
+  and **what fixes the grain** — see O1.*
+
+*The third kind was added because the first was being made to cover it, which is a category error: "no verdict
+is reachable" and "we use this without having earned it" are not the same situation, and only the first is
+licensed by F0.*
 Last updated: 2026-07-25
 
 *Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
@@ -24,12 +35,17 @@ owed back — declared open; (b) residues of the Ready-stances; (c) out-of-scope
 
 ---
 
-## O1. Not needed by the core, or used without an account — declared open
+## O1. Not needed by the core · or used without an account — declared open
 
 ### Intentionality
 How representations / words come to be "about" the world — the **mechanism of aboutness** — is **not developed**.
 As a direction it can be written as "causal / predictive coupling with real patterns" (F5 + R1), but it is not
 worked out. → **Open.**
+
+**Kind: an owed account, not a principled opening** *(reclassified 2026-07-26).* Nothing here says the mechanism
+is *unreachable*; it says it is not worked out, while the machinery is in use. Filing it with the F0/F3-derived
+openings would let "principled" cover a promissory note. The discipline that applies is the third one: declare
+the use wherever it occurs, and let it cap what may rest on it.
 
 *Corrected 2026-07-25: this item used to read "not essential to the core", which understated the debt.* **F5 is
 Dennett's real patterns**, individuated by the compression and prediction they afford — *to an observer, at a
@@ -55,7 +71,8 @@ This is **used, not merely omitted**: grain-relativity does load-bearing work at
 in the commensurability item below, in F5's own two-truths defence (v1.5), and in how C12 restates distributed
 maintenance. It is inherited along with the rest of the real-patterns apparatus from Dennett, whose formulation
 carries the same underdetermination — which is where the debt came from, not an excuse for keeping it.
-→ **Open**, and in the same category as intentionality above: **the core uses it while owing an account of it.**
+→ **Open** as an **owed account** — the same kind as intentionality above: the core uses it while owing an
+account of it, so the use is declared at each site and caps what rests on it.
 *(Opened 2026-07-26, from an external critique of the deposit's reader summary.)*
 
 ### Determinism or indeterminism
@@ -66,7 +83,19 @@ particular does not depend on determinism, since indeterminism does not deliver 
 (an undetermined act is luck, not authorship). Deciding it would also require taking a side in an unsettled
 question in the interpretation of physics, in which the theory has no stake, and the source article applies the
 observation limit to precisely this point ("humans have no way of verifying the truth of the ultimate layer").
-→ **Open**, by **F3**'s silence. This is a principled opening in the F0/F3 sense, **not** a debt like O5/O6.
+→ **Open because the core does not need it** — and on that ground alone *(corrected 2026-07-26)*.
+
+*Why not on F3's silence.* The item used to rest on it, and that was an overreach worth naming, because it made
+the framework's silence look convenient exactly where it should look principled. **The thing-in-itself and the
+determinism question are not the same kind of question.** The first is unreachable in principle; the second may
+well be settled some day by physics. Declining a question that evidence might one day bear on, and calling that
+a limit of reach, is precisely the move a reader is right to be suspicious of.
+
+So the item rests on (a) alone, which is enough and costs nothing: the two things the theory uses hold either
+way, so **if physics settles it, the theory simply adopts the answer** and nothing in it moves. The source's
+observation-limit remark is about the *ultimate causal structure*, which is a further question than the one
+physics probes; conflating the two is what produced the overreach.
+
 *(The frozen core asserted full determinism from 2026-07-13 to 2026-07-25; that was a misreading of its own
 source — see S10.)*
 
@@ -268,6 +297,12 @@ If the theory's core (F6, anti-fixation / reversibility) says "fixation = death"
 **turning everything into a closed doctrine would be the theory's own self-negation.**
 So honestly marking things "open" is not a confession of weakness but a **demonstration of the theory's
 consistency.**
+
+*A second distinction, of the same kind* (added 2026-07-26). **Silence as a limit of reach is not the same as
+"not settled yet."** The first is what F0 and F3 license; the second is an ordinary state of knowledge that will
+change. Filing the second under the first is how a framework that uses silence as a principle starts to look as
+though it uses silence as a shelter. The determinism item above was doing this until it was corrected, and it is
+the reason that correction was worth making even though the item's status did not change.
 
 *One distinction the file has to keep, or the principle becomes an excuse* (added 2026-07-25). "Open" covers two
 things. A **principled opening** stays open because F0/F3 say no verdict is reachable — filling it would be the
