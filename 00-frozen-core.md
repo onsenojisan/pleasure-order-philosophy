@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.13** · Last updated: 2026-07-26 · revision log at the foot of this file
+Version: **v1.14** · Last updated: 2026-07-26 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -83,8 +83,13 @@ and for the same reason: measures come from a grain, and what fixes the grain is
 ([`20-open.md`](./20-open.md) O1). So the resolution is set where the evidence supports it and no finer. That is
 a decision, not a neutral meta-position, and refusing to look for the scale is part of it. Declared as such.
 
-**Counting is licensed; measuring is not** *(added v1.12)*. A categorical instrument can still say how many
-entries a row has, and "Kant **pays twice**" is exactly that: two cells, P5 + P2 at C1 and P6 at C4. What the
+**Counting is licensed; measuring is not** *(added v1.12; what the count is *for* added v1.14, after the fair
+question of why counting should matter at all if comparison is refused)*. A categorical instrument can still say
+how many entries a row has, and "Kant **pays twice**" is exactly that: two cells, P5 + P2 at C1 and P6 at C4.
+**What the count records is shape, not size**: how many of the five demands a system had to *buy* rather than
+hold for free. A system paying at two demands sits differently in the schema from one paying at a single demand
+— it has two places where its position is purchased and therefore two places to attack. That is a structural
+fact about where the system stands, and it is the reason the count is worth having. What the
 instrument cannot support is the use that phrase invites — that Kant therefore pays *more*, as though the two
 entries summed to a quantity. They do not sum. Two payments and one payment are different **counts of
 commitments**, not different **amounts of cost**, and any comparative force the phrase carries beyond the count
@@ -199,6 +204,17 @@ The safe form is **"no verdict is reachable → silence."** This is, in fact, cl
   without dropping a demand, and F0 falls. So the criterion applies here and is not being quietly exempted. What
   the philosophy may **not** claim is empirical support; that belongs to the theory's empirical layer and is
   wagered separately (**C11**).
+
+  *And the falsifier is weaker in kind, which has to be said in the same breath* **(added v1.14)**. It has been
+  put that if the philosophy survives the loss of the empirical wager untouched, it must be an unfalsifiable
+  enclosure, and F4 cannot then be applied to it. The first half is wrong: the philosophy is insulated from
+  **one** test, not from testing, and the falsifier above is real — a single well-described system securing all
+  five demands cleanly would end F0. The second half deserves a concession rather than a rebuttal. **A
+  counterexample to an inductive survey is a weaker instrument than a pre-registered prediction test.** It has
+  no deadline, no committed measurement, and the survey's own author assesses the candidate. Saying "F0 has a
+  falsifier" without adding "and it is of the softer sort" would let the two look equivalent when they are not
+  — the same flattery the payment taxonomy refuses elsewhere. So: the criterion is not exempted here, and the
+  test it licenses is genuinely easier to survive than the one **C11** has already half-lost.
 - **Logic:** normative, not "just brain activity" (anti-psychologism, Frege/Husserl: if logic were merely how
   brains happen to think, there could be no such thing as a *logical error* — but there is). **The normativity
   is constitutive, not categorical** *(revision v1.1)*: the standard is real and errors against it are real, but
@@ -1046,6 +1062,46 @@ about what makes a pattern **real**, and whether a maintenance process is runnin
 ordinary physical fact that inherits none of it. That line was drawn at v1.11 (standing versus fate) and the
 objection re-applies the thinness to the side the line excludes. Where the same objection *does* land — that
 value-as-style buys less than "real" suggests — the corpus has said so since C13 was written.
+
+### v1.14 — 2026-07-26 · four propagations, and the close of this review cycle
+
+A ninth external critique, and the last of this cycle. Its items were all of one shape — *state at the other
+sites what you stated at one* — which is itself the finding worth recording.
+
+- **The cap on F12's search now travels with the report.** v1.13 declared that the search is *described, not
+  specified*, so the report has the force of an invitation to look and everything resting on it is capped there.
+  That cap was written at F12 and at the C4 self-location, and nowhere else — while **C3**'s account of
+  liberation ("nothing becomes visible; one stops installing an addressee") is F12's search restated at another
+  scale and inherits the cap entirely. Declared there now.
+- **The grading of what absorption destroys has a criterion, stated in advance.** v1.13's list of retracted /
+  demoted / untouched was drawn by inspection and was fairly called post-hoc. The criterion: **does the claim
+  need the fold — a threshold with hysteresis — or only the gradient?** Fold-dependent claims go; gradient-only
+  claims survive as description; claims resting on other literature are untouched. The list is unchanged; what
+  changes is that it is now derived rather than asserted.
+- **What the payment count is *for*.** If comparison is refused, why does counting cells matter? Because the
+  count records **shape, not size**: how many of the five demands a system had to buy rather than hold for free,
+  and therefore how many places its position is purchased and can be attacked. That is structural, and it is
+  the third round in which the payment taxonomy has been the friction point — which says the instrument is
+  harder to present than to use.
+- **The philosophy's falsifier is real and weaker in kind, and both halves are now said together.** The charge
+  was that a philosophy insulated from empirical failure is an unfalsifiable enclosure to which F4 cannot apply.
+  It is insulated from **one** test, not from testing; F0's falsifier stands. But a counterexample to an
+  inductive survey has no deadline, no committed measurement, and is assessed by the survey's own author, and
+  saying only that a falsifier exists would let it pass for the harder kind. Conceded in the text.
+
+**The pattern behind all four, recorded because it is now the corpus's most reliable defect type.** Three times
+in this cycle a correction has been made at one site and not at the others depending on it: the evidential tiers
+(fixed in the appendix while the impression was made in the frozen core — v1.11), the F5 / instantiation
+distinction (present at C9, absent at F5 and C11 — v1.11), and now F12's search cap (at F12 and C4, absent at
+C3). None was a wrong statement; each was a right statement in too few places. **A corpus with cross-references
+this dense will keep producing this defect, and the only reliable detector so far has been an outside reader.**
+
+*Closing note on this cycle.* Nine rounds of external critique ran between 2026-07-25 and 2026-07-26, taking the
+frozen core from v1.0 to v1.14. The change that made the deposit necessary — **S10 and S11**, two positions the
+author never held — was made at v1.2; everything after it is improvement, not the reason for the version. The
+remaining items the ninth critique carries forward — what fixes the grain, the thin-realism inheritance, the
+assertive companion register — are recorded in the open tier and its two standing audits, which is where they
+belong for a corpus that is about to be published rather than iterated.
 
 ~~**Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**

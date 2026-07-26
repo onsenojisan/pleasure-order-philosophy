@@ -74,6 +74,15 @@ Source: note liberation articles / Zenodo.
 An individual-scale companion. Cessation of suffering = a self-applied fixed point that does not freeze Z
 (self-application of anti-fixation, F6). Liberation = "not grasping" (one thing), from which two directions
 open: the withdrawing path (static) and the returning path (dynamic).
+
+**What this rests on, and therefore what caps it** *(declared v1.14)*. "Not grasping — nothing becomes visible;
+one stops installing an addressee" is not an independent finding: it is **F12's search, restated at this scale**.
+So it inherits F12's declared limit — the search is *described, not specified*, no repeatable procedure is
+given, and the report has the force of **an invitation to look**. Every claim here about what liberation *is*
+carries that cap, and is written in the indicative only because the tier label carries the hedge. The cap was
+stated at F12 and at the C4 self-location and nowhere else until now, which is the third time in this corpus
+that a correction has been applied at one site and not at the others that depend on it — recorded as a pattern
+in the frozen core's v1.14 entry rather than as three separate misses.
 *Hell Fixation* (Zenodo) = the locked state of an individual who has fixated (loss of reversibility, devaluation
 of exit, suffering functioning as a stabilizer) = the loss-end of anti-fixation. Scope: quiescent systems only
 (the ecstatic systems 恍惚系, and the peak-affirmation fork this model admits "the peak-seeker rightly declines",
@@ -668,8 +677,11 @@ by F4 is the relevant loss. Stating this in advance is what keeps the wager a wa
 undercounted it).** Naming a defeat condition without naming its consequence is what makes a wager look flexible
 from outside. The consequence is not confined to this companion, because the fold-and-hysteresis machinery is
 used in eight of the thirteen — **C3, C6, C7, C8, C10, C11, C12, C13** — and v1.12 said only that C11 and the
-detection programme would move, which made the exposure look smaller than it is. Graded, because not everything
-using Ω̂ dies with the wager:
+detection programme would move, which made the exposure look smaller than it is. Graded, and the grading follows a criterion stated in advance rather than a list drawn by inspection
+*(criterion added v1.14, after the first version's list was fairly called post-hoc)*: **does the claim need the
+fold — a threshold with hysteresis — or does it need only the gradient?** Claims that need the fold go; claims
+that need only "further from / nearer to loss of viability" survive as description; claims resting on other
+literature are untouched. Applied:
 
 - **Moved to superseded.** This companion's **detection programme** in full; **C8**'s claim that
   abstraction-based coping *covers an early-warning signal* (no signal, no cover); **C11/C12**'s "below the
