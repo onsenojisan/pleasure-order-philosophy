@@ -62,10 +62,19 @@ the account stays open.
 *relative to a grain*. **What fixes the grain is not said.**
 
 Candidate answers exist and are not equivalent: the grain at which a pattern affords predictive leverage; the
-grain set by an interest or a purpose; the grain at which a system's own regulation operates. Taking one has
-consequences. A purpose-relative grain makes the relativity **thicker** than the corpus currently admits — value
-would be relative not merely to a description but to whose description, and O1's commensurability item would get
-harder. An interest-free grain would need an account of natural joints that **F1** declines to give.
+grain set by an interest or a purpose; the grain at which a system's own regulation operates.
+
+**And the candidates are not symmetric — one of them is already closed** *(sharpened 2026-07-26, from an external
+critique)*. An interest-free grain would need an account of natural joints, and **F1 declines to give one**. So
+the framework is not choosing between two live options; it is on a **forced march toward the purpose-relative
+horn**, and the cost of that horn is larger than "thinner realism". If the grain is set by an interest, then
+value is real not merely relative to *a* description but relative to **whose** — which is a form of
+constructivism, and a thicker commitment than **C13** advertises when it insists it is offering
+response-dependent realism rather than an error theory. Response-dependence and purpose-relativity are not the
+same size of concession, and the corpus has been writing the first while owing the second.
+
+Whether that is fatal is a separate question — response-dependent realism may survive being purpose-indexed. But
+it is not the position as currently stated, and the gap between them is the actual size of this item.
 
 This is **used, not merely omitted**: grain-relativity does load-bearing work at F5, in C13's stance-relativity,
 in the commensurability item below, in F5's own two-truths defence (v1.5), and in how C12 restates distributed
