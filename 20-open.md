@@ -358,6 +358,28 @@ change. Filing the second under the first is how a framework that uses silence a
 though it uses silence as a shelter. The determinism item above was doing this until it was corrected, and it is
 the reason that correction was worth making even though the item's status did not change.
 
+*The distinction, applied once* **(added 2026-07-26; stating a test and never running it is how a test becomes
+decoration)**. The three items most often suspected of being shelter are these, and each is checked against the
+same question — *could evidence bear on this?*
+
+- **The consciousness fork** (feeling as part of the structure, or as the intrinsic nature the structure
+  describes). **Silence.** Not because it is hard: both sides are arguments from conceivability, and no
+  observation distinguishes a world where the fork falls one way from a world where it falls the other. Evidence
+  cannot bear on it *as posed*. Note what this does not cover — the correlates are wide open to evidence, and
+  the corpus makes claims about them that could fail.
+- **What a released perception contains.** **Silence**, and the narrowest of the three. Inner attainment is
+  reportable only by the one attaining, which is testimony rather than observation; **S5** was retracted for
+  asserting exactly this. What *is* open to evidence is the third-person side — what such a person does,
+  sustains and returns to — which is why **C10**'s exemplars are life-arcs and not states.
+- **Whether anything continues after death.** **Silence**, but the line has to be drawn carefully. Whether
+  processes in a body continue is an ordinary empirical question, and the answer is known. What is past reach is
+  whether anything is *experienced* once observation ceases, which inherits the consciousness fork's problem
+  exactly. The item is silent on the second and says nothing about the first.
+
+One case is recorded as having **failed** this test and been moved: **determinism**, which sat under silence
+until 2026-07-26 and now rests on "not needed by the core" alone, because physics may well settle it. That the
+test has moved something is the only evidence that it is a test.
+
 *One distinction the file has to keep, or the principle becomes an excuse* (added 2026-07-25). "Open" covers two
 things. A **principled opening** stays open because F0/F3 say no verdict is reachable — filling it would be the
 betrayal. A **declared debt** is an internal conflict, and leaving *that* open is not principled at all; it is

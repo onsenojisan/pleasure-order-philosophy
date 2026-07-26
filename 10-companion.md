@@ -664,6 +664,18 @@ compression or prediction advantage over its rivals**, and the honest descriptio
 synthesis with no empirical distinctiveness. The framework would not be refuted; it would be **absorbed**, which
 by F4 is the relevant loss. Stating this in advance is what keeps the wager a wager.
 
+*And what absorption would actually cause* **(added v1.12, because naming a defeat condition without naming its
+consequence is what makes a wager look flexible from outside).** Three things, none optional. **This companion
+and the detection programme move to superseded** — not annotated, moved, with a ledger entry recording what was
+claimed and what beat it; a lens whose distinctiveness is gone is not a lens the corpus keeps offering. **The
+hypothetical imperative goes with it.** *If you want to avoid ruin, watch for these signals* holds only if the
+signals beat the alternatives, so on absorption the framework is left with **no usable practical output at
+all** — worth saying plainly, because that imperative is the one thing here anyone could act on. **What does not
+move is the philosophy core** — not because it is shielded, but because it never claimed empirical support, it
+compresses a different object (F4), and it carries its own separate falsifier. Absorption at C11 leaves it
+untouched and leaves it *alone*: the philosophy would then be all there is, which is a smaller corpus than this
+one currently is.
+
 **Three concrete predictions would earn the "distinct synthesis" claim**
 (none following from Scheffer, FEP, or Buddhism alone): (i) a *psychological* collapse (e.g. burnout) shows CSD
 signals *before* an FEP-predicted rise in free energy; (ii) an *AA intervention* (narrative deconstruction)

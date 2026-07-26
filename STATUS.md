@@ -1,7 +1,7 @@
 # STATUS — Ledger of Philosophical Propositions
 
 *Every proposition needed for The Pleasure Order, with its tier, status, and one-line position.*
-Last updated: 2026-07-26 · frozen core at **v1.11** (revision log at the foot of [`00-frozen-core.md`](./00-frozen-core.md))
+Last updated: 2026-07-26 · frozen core at **v1.12** (revision log at the foot of [`00-frozen-core.md`](./00-frozen-core.md))
 
 "Needed" means: load-bearing — what the theory owes for its own claims.
 By the author's own principle (Absence of Final Explanation — frozen as **F0**), the full list of philosophy never closes.
