@@ -15,7 +15,7 @@
 *The third kind was added because the first was being made to cover it, which is a category error: "no verdict
 is reachable" and "we use this without having earned it" are not the same situation, and only the first is
 licensed by F0.*
-Last updated: 2026-07-25
+Last updated: 2026-07-26
 
 *Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
 has solved them. **O5 and O6 were different** — internal conflicts between positions the corpus held at once,
@@ -66,8 +66,10 @@ grain set by an interest or a purpose; the grain at which a system's own regulat
 
 **And the candidates are not symmetric — one of them is already closed** *(sharpened 2026-07-26, from an external
 critique)*. An interest-free grain would need an account of natural joints, and **F1 declines to give one**. So
-the framework is not choosing between two live options; it is on a **forced march toward the purpose-relative
-horn**, and the cost of that horn is larger than "thinner realism". If the grain is set by an interest, then
+the framework is not choosing between two live options. *(Wording corrected v1.10: this used to read "a forced
+march toward the purpose-relative horn", which puts in the future something already settled. With one horn
+closed, the framework **is on** the purpose-relative horn — it arrived there the moment F1 declined the joints.
+What remains open is not which horn but what the horn costs.)* And that cost is larger than "thinner realism". If the grain is set by an interest, then
 value is real not merely relative to *a* description but relative to **whose** — which is a form of
 constructivism, and a thicker commitment than **C13** advertises when it insists it is offering
 response-dependent realism rather than an error theory. Response-dependence and purpose-relativity are not the
@@ -150,6 +152,49 @@ leans toward release, a residual evaluative commitment sits under the descriptiv
 commitment **only if declared** — an undeclared lean is unauditable, and therefore worse than a bounded stated
 one. **No verdict is recorded:** this is a standing audit on the corpus, not a closed finding. → **Open.**
 
+### The standpoint-inflation audit — *a second standing audit (opened 2026-07-26)*
+
+Whether the corpus **inflates a standpoint-relative finding into a universal one**. The failure is specific, and
+the guards already in place do not catch it: **F7** and **C10** forbid *ranking* one mode above another, and
+neither notices when a report made from one position is written as the description of everyone's situation. A
+claim can be perfectly non-evaluative — nobody is called better — and still over-reach in this way.
+
+Named occasions rather than a general warning:
+- **The C4 self-location.** F12 reports that no addressee is found *when sought*. That closes C4 for a theory
+  keeping F12; it shows nothing about someone who has not undertaken the search, and there is no neutral court
+  between the two reports. The index is now written into the core (v1.9).
+- **S5's territory** — any claim about what a released perception contains. This is why S5 was retracted, and
+  the same bar reaches every restatement of it.
+- **Any place the corpus writes "there is no X" where the honest form is "X is not found when sought."** Both
+  **F1** (v1.1) and **F12** have already had to make this correction once.
+
+**Where the index attaches, and where it does not** *(added 2026-07-26, without which the audit reads as a
+solvent)*. It attaches to **reports of a search** — F12's, C4's, S5's territory — where what is available
+depends on whether the search has been undertaken and there is no third party to adjudicate between the
+outcomes. It does **not** attach to the corpus's **third-person dynamical claims**: that a system past a fold
+does not return on its own dynamics, that recovery below the floor requires external forcing, that mutual
+confirmation with no external error source is worse than isolation. Those are open to the same observation from
+any position, and they stand or fall on evidence rather than on standpoint. The distinction is not a convenience:
+the floor's *badness* is already indexed — it rides on **F9**'s near-universal recoil rather than being posited
+(**C11**), and that is why the theory cannot categorically condemn a being that does not mind. What is *not*
+indexed is the dynamics. An audit that failed to draw this line would relativise the empirical wager along with
+everything else, which is the opposite of what it is for.
+
+Three things this audit is *not*. It is not scepticism about the findings: a report from a position is still a
+report, and the discipline is to **index it, not withdraw it**. It is not the claim that the two positions are
+equally good — that is a ranking, and F7 already forbids it. And it is not the claim that the matter is
+**undecidable for everyone**: undecidability reported from one side is itself a standpoint-relative finding, and
+universalising *that* is the same error run in the opposite direction. The audit asks one question only —
+**is the index stated?**
+
+The occasion for opening it was external: the pattern was described for the historical case of Buddhism's
+universalisation of liberation, where the diagnosis is not concealment but over-extension — a truth from the far
+side written as a truth about both sides. Nothing of that analysis is imported here as a position; what is
+adopted is the discipline it turns on itself.
+
+**No verdict is recorded**, for the reason the same-temperature audit gives: an undeclared inflation is
+unauditable, and therefore worse than a bounded stated one. → **Open**, as a standing audit.
+
 ## O2. Out-of-scope declarations (not gaps)
 
 - **Aesthetics** — leave "beauty" as an item in the appearance channels; no more.
@@ -162,7 +207,7 @@ one. **No verdict is recorded:** this is a standing audit on the corpus, not a c
 - **The collapse-floor's detectability — the single decisive open bet.** Whether the approach to the floor
   (Ω̂-collapse as a fold-bifurcation; `10-companion.md` C11) is detectable *before* the point of no return, via
   parameter-light early-warning signals (critical slowing down) that transfer across levels and beat free-energy,
-  is **the one empirical question the whole framework rests on** (with AA, C8, tested as a *pre-hoc* predictor,
+  is **the one empirical question the theory's empirical layer rests on** *(scope corrected 2026-07-26; it used to say "the whole framework", which the philosophy core's own boundary paragraph contradicts)* (with AA, C8, tested as a *pre-hoc* predictor,
   not a post-hoc excuse). Handed to the empirical Ω_proxy track; **currently unproven** — the one head-to-head so
   far went to FEP, and the decisive hysteresis / recovery-arm test is pending. Also open there: operationalizing
   the **(L, P)** frame — validating the proxy P, and above all **identifying the basin** (deciding that a system
@@ -312,6 +357,28 @@ consistency.**
 change. Filing the second under the first is how a framework that uses silence as a principle starts to look as
 though it uses silence as a shelter. The determinism item above was doing this until it was corrected, and it is
 the reason that correction was worth making even though the item's status did not change.
+
+*The distinction, applied once* **(added 2026-07-26; stating a test and never running it is how a test becomes
+decoration)**. The three items most often suspected of being shelter are these, and each is checked against the
+same question — *could evidence bear on this?*
+
+- **The consciousness fork** (feeling as part of the structure, or as the intrinsic nature the structure
+  describes). **Silence.** Not because it is hard: both sides are arguments from conceivability, and no
+  observation distinguishes a world where the fork falls one way from a world where it falls the other. Evidence
+  cannot bear on it *as posed*. Note what this does not cover — the correlates are wide open to evidence, and
+  the corpus makes claims about them that could fail.
+- **What a released perception contains.** **Silence**, and the narrowest of the three. Inner attainment is
+  reportable only by the one attaining, which is testimony rather than observation; **S5** was retracted for
+  asserting exactly this. What *is* open to evidence is the third-person side — what such a person does,
+  sustains and returns to — which is why **C10**'s exemplars are life-arcs and not states.
+- **Whether anything continues after death.** **Silence**, but the line has to be drawn carefully. Whether
+  processes in a body continue is an ordinary empirical question, and the answer is known. What is past reach is
+  whether anything is *experienced* once observation ceases, which inherits the consciousness fork's problem
+  exactly. The item is silent on the second and says nothing about the first.
+
+One case is recorded as having **failed** this test and been moved: **determinism**, which sat under silence
+until 2026-07-26 and now rests on "not needed by the core" alone, because physics may well settle it. That the
+test has moved something is the only evidence that it is a test.
 
 *One distinction the file has to keep, or the principle becomes an excuse* (added 2026-07-25). "Open" covers two
 things. A **principled opening** stays open because F0/F3 say no verdict is reachable — filling it would be the

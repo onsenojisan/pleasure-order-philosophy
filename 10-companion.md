@@ -2,10 +2,19 @@
 
 *status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
 offered as a lens. Revisable.*
-Last updated: 2026-07-25
+Last updated: 2026-07-26
 
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
+
+*A note on the register, since the two can look at odds* **(added v1.10)**. The prose below is written
+assertively while the tier says the truth-value is undecided. That is deliberate: **the hedge is carried by the
+tier label, once, and not repeated inside every sentence.** A companion written in permanent subjunctive would
+be unreadable, and — worse for this corpus — it would be a *temperature* problem of its own, since the parts the
+author finds congenial would inevitably come out less hedged than the rest. So the rule is: read every claim
+below as prefixed by *on this lens*, and hold the corpus to the label rather than to the mood of any sentence.
+Where a companion claim is load-bearing for something in the frozen tier, that is stated at the frozen end, not
+here.
 
 ---
 
@@ -65,6 +74,15 @@ Source: note liberation articles / Zenodo.
 An individual-scale companion. Cessation of suffering = a self-applied fixed point that does not freeze Z
 (self-application of anti-fixation, F6). Liberation = "not grasping" (one thing), from which two directions
 open: the withdrawing path (static) and the returning path (dynamic).
+
+**What this rests on, and therefore what caps it** *(declared v1.14)*. "Not grasping — nothing becomes visible;
+one stops installing an addressee" is not an independent finding: it is **F12's search, restated at this scale**.
+So it inherits F12's declared limit — the search is *described, not specified*, no repeatable procedure is
+given, and the report has the force of **an invitation to look**. Every claim here about what liberation *is*
+carries that cap, and is written in the indicative only because the tier label carries the hedge. The cap was
+stated at F12 and at the C4 self-location and nowhere else until now, which is the third time in this corpus
+that a correction has been applied at one site and not at the others that depend on it — recorded as a pattern
+in the frozen core's v1.14 entry rather than as three separate misses.
 *Hell Fixation* (Zenodo) = the locked state of an individual who has fixated (loss of reversibility, devaluation
 of exit, suffering functioning as a stabilizer) = the loss-end of anti-fixation. Scope: quiescent systems only
 (the ecstatic systems 恍惚系, and the peak-affirmation fork this model admits "the peak-seeker rightly declines",
@@ -418,6 +436,12 @@ liberation-vs-Nietzsche **narrows sharply**: both live on the *reversible* side;
 (fixated / reversible). On the living (reversible) side, two orthogonal phenomenological axes —
 {quiet 静 ↔ ecstatic 恍惚} × {withdraw 退く ↔ hold/engage 持つ} — give four modes:
 
+*What "phenomenological" is doing in that sentence (glossed v1.9).* It marks the **register the axes describe** —
+energy and posture — not the **evidence they run on**. The axes are read off a life-arc from outside: what a
+person does, sustains, produces, returns to. They are not testimony about an inner state, and nothing in the map
+licenses a claim about what any cell is like from within it. That bar is **S5**'s, is restated in full under
+*Honest labelling* below, and the word here does not relax it.
+
 | reversible (alive) | quiet 静 | ecstatic 恍惚 |
 |---|---|---|
 | **withdraw 退く** | quiet withdrawal that can return (**C3**'s *static* path) | ecstatic absorption reached by *letting go* (the mystic's rapture — the 恍惚 release mode C3 parked) |
@@ -500,13 +524,24 @@ reversible modes, the way C7 is F6 at the affective scale and C9 at the finitude
 
 Source: consolidation of a three-round adversarial refinement of the theory (2026-07). It states in one place
 what "the floor" (Hell) is, what the theory does and does not claim about it, how it proposes to *detect* it, and
-the single empirical bet the whole framework rests on. It sharpens C3 (liberation), C7 (Suffering Order), C8 (AA),
+the single empirical bet **the theory's empirical layer** rests on. It sharpens C3 (liberation), C7 (Suffering Order), C8 (AA),
 C10 (the modes), and the relation to Buddhism (C1). Companion — a lens **and a research programme**, not frozen.
 
 **What the floor is — Ω̂-collapse as a fold-bifurcation (not suffering-magnitude, not lock-as-such).** The floor
 is not "enough suffering" and not "revision-lock per se." It is the **loss of *self*-recoverable viability Ω̂ —
 the capacity to keep revising / adapting — modelled as crossing a fold-bifurcation (a tipping point with
 hysteresis) into a basin the system's own dynamics do not carry it out of.**
+
+**Which side of F5's line this sits on** *(added v1.11, in answer to a fair charge that the thin reading of F5
+and the thick causal talk here pull against each other)*. They answer different questions. **F5** says what makes
+a pattern *real* — the compression is objectively available at a grain — and adds nothing to the causal
+furniture. The floor is not about that at all: it is about whether the pattern is **still being instantiated**,
+which is a third-person fact about an actual system and is settled by evidence, not by whether anyone can
+compress it. The style-description of a dead organism remains perfectly compressible, and the organism remains
+dead. **C9** already draws the line in exactly these words for death — *the cessation of a style's
+instantiation, not the annihilation of a substance that was there* — and Ω̂-collapse is the same notion applied
+before the terminus: the maintenance stops being performed. So F5's thinness constrains what may be claimed
+about a pattern's **standing**, not what may be claimed about a system's **fate**.
 - *Not identity-preservation.* Losing your legs / memory / vocation and *adapting* leaves Ω̂ intact — the
   revision-machinery worked (F12). Ω̂-collapse is the destruction of the *machinery of adaptation itself*, not of
   any particular pattern it maintained. (This answers the "viability-for-what?" regress: viability is *for
@@ -567,7 +602,7 @@ is permitted, and is the same discipline O1 imposes on aggregation rules.
 
 *Why this gets a whole companion, if it is only description* **(added 2026-07-26, in answer to a fair question
 about the register)**. Not because collapse matters more than anything else — that would be the value-ranking
-F7 forbids. For two structural reasons. It is **the theory's single empirical wager**, so the whole framework's
+F7 forbids. For two structural reasons. It is **the theory's single empirical wager**, so the *empirical*
 distinctiveness stands or falls here; and it is **the one place the theory offers a hypothetical imperative that
 anyone actually uses** — *if you want to avoid ruin, watch for these signals* — where above the floor it has
 nothing to recommend at all. Length here is a function of load-bearing and of testability, not of importance.
@@ -617,7 +652,13 @@ a **pre-hoc measured predictor, not a post-hoc excuse**: before collapse, measur
 markers, and predict *CSD rises → AA denies → collapse follows*; a case with CSD, no AA-reaction, and no collapse
 counts **against** the theory.
 
-**The single wager the framework rests on (stated plainly).** Everything above compiles to one empirical yes/no:
+**The single wager the empirical layer rests on (stated plainly).** *(Scope corrected v1.10: "the framework"
+used to stand here for two different things. This wager governs **the theory's empirical layer** — the Ω_proxy
+programme and the claims that depend on it. It does not govern the **philosophy core**, whose boundary paragraph
+declines to borrow credibility from the empirical track and which therefore cannot lose it there either. If the
+wager is lost the philosophy is neither vindicated nor refuted; it is what it already says it is, a conceptual
+synthesis offered without empirical support. Conflating the two made the corpus look as though it were staking
+everything on one test while also disclaiming the stake.)* Everything above compiles to one empirical yes/no:
 **do real psychological and social collapses have genuine fold-bifurcation (tipping + hysteresis) structure,
 detectable in advance by parameter-light early-warning signals that transfer across levels and beat free-energy
 (FEP)?** If yes, VOT is a distinct cross-level theory — the collapse-gate as a single primitive, the CSD/AA
@@ -631,6 +672,43 @@ FEP, then by that criterion — the framework's own, not one imported to judge i
 compression or prediction advantage over its rivals**, and the honest description would be a conceptual
 synthesis with no empirical distinctiveness. The framework would not be refuted; it would be **absorbed**, which
 by F4 is the relevant loss. Stating this in advance is what keeps the wager a wager.
+
+*And what absorption would actually cause* **(added v1.12; blast radius corrected v1.13, where the first version
+undercounted it).** Naming a defeat condition without naming its consequence is what makes a wager look flexible
+from outside. The consequence is not confined to this companion, because the fold-and-hysteresis machinery is
+used in eight of the thirteen — **C3, C6, C7, C8, C10, C11, C12, C13** — and v1.12 said only that C11 and the
+detection programme would move, which made the exposure look smaller than it is. Graded, and the grading follows a criterion stated in advance rather than a list drawn by inspection
+*(criterion added v1.14, after the first version's list was fairly called post-hoc)*: **does the claim need the
+fold — a threshold with hysteresis — or does it need only the gradient?** Claims that need the fold go; claims
+that need only "further from / nearer to loss of viability" survive as description; claims resting on other
+literature are untouched. Applied:
+
+- **Moved to superseded.** This companion's **detection programme** in full; **C8**'s claim that
+  abstraction-based coping *covers an early-warning signal* (no signal, no cover); **C11/C12**'s "below the
+  floor" wherever it means *inside a basin the system's own dynamics do not exit*, since that is the fold, and
+  without the fold there is a bad state but no boundary.
+- **Demoted, not deleted.** **Ω̂ as a continuous axis** at C3, C10 and C13 survives as *distance from loss of
+  self-recoverable viability*, a description; what it loses is the tipping-point structure that made it more
+  than a gradient. **C7**'s suffering-as-collapse-rate stays as a dual description and loses the claim that its
+  extreme is a *transition*. **C6**'s use is incidental and survives.
+- **Untouched.** **C12**'s rescue-channel ladder, which rests on the adult-regulation and hidden-regulator
+  literature rather than on the bifurcation; **C9**'s account of death; **C13**'s value-as-style, which needs
+  F5 and F12 and not the floor.
+
+And the practical consequence. *If you want to avoid ruin, watch for these signals* holds only if the signals
+beat the alternatives, so on absorption the framework is left with **no usable practical output at all** —
+worth saying plainly, because that imperative is the one thing here anyone could act on. **What does not move is
+the philosophy core** — not because it is shielded, but because it never claimed empirical support, it
+compresses a different object (F4), and it carries its own separate falsifier.
+
+*One concession, since the point is fair* **(v1.13)**. It has been put to the corpus that if the whole practical
+exposure is a single hypothetical imperative, then losing it is not much of a loss, and calling this a wager
+flatters it. **That is largely right, and defending it would be worse than conceding it.** A framework's
+exposure is proportional to what it claims, and this one claims little that anyone acts on. The correction above
+makes the loss larger than v1.12 stated — eight companions touched, three items retracted outright — but it is
+still a loss of *standing*, not of anything a reader was relying on. What the wager buys is the right to be
+called a distinct theory rather than a re-description; that is what is at stake, and it is smaller than the word
+"wager" suggests.
 
 **Three concrete predictions would earn the "distinct synthesis" claim**
 (none following from Scheffer, FEP, or Buddhism alone): (i) a *psychological* collapse (e.g. burnout) shows CSD
@@ -818,8 +896,14 @@ the ambiguity is load-bearing:
 | (ii) *mere seeming* — value appears present but is not (error theory, Mackie) | a **debunking** claim | **not asserted** — C13 is not an error theory |
 | (iii) *response-dependent real pattern* — real, doing objective work, salience observer-relative | **F5** (Dennett) | **the reading adopted** |
 
-Because F5 is already frozen as Real Patterns — *"they do objective work (compress / predict / constrain); which
-ones are salient is observer-grain-relative"* — reading (iii) needs no new apparatus. **A style is neither an
+Because F5 is already frozen as Real Patterns, reading (iii) needs no new apparatus. **(Requoted v1.9.)** This
+paragraph used to cite F5 as *"they do objective work (compress / predict / constrain)"* — the **pre-v1.6**
+wording. v1.6 removed "constrain" from the criterion because constraining is what a *cause* does, and read
+causally F5 would contradict F13. The criterion is the **objective availability of the compression**: a pattern
+is real when the compressibility is a mind-independent fact about the arrangement. Salience stays
+observer-grain-relative. **The thinness comes with it** — C13 is F5's largest downstream inheritor, so
+value-as-style is real in the sense that the compression is objectively available at a grain, and in no sense
+that has a value pushing anything.*) **A style is neither an
 illusion nor a mind-independent substance**, which is exactly the standing "value is appearance" requires and
 exactly what (ii) would destroy. A reader who takes C13 as debunking has substituted (ii) for (iii).
 
@@ -828,7 +912,18 @@ work. So value-as-style owes an answer to: **what does the value-pattern compres
 answer offered is Dennett's own — it compresses a large body of approach / withdrawal / maintenance regularity
 into a low-dimensional signal, exactly as the intentional stance's beliefs and desires do. Value-as-style
 therefore inherits the intentional stance's defence *and its costs.* **The cost is stance-relativity:** on this
-account "value is real" is never sayable without the qualifier *relative to a grain of description*. Where no such
+account "value is real" is never sayable without the qualifier *relative to a grain of description*.
+
+**And that qualifier is sharper than it reads** *(declared here v1.9, per the owed-account discipline —
+`20-open.md` O1: declare the use at **every** point of use).* O1 has closed the interest-free horn: an
+interest-free grain would need natural joints **F1** declines to give. So the grain in play is the
+**purpose-relative** one, and on it value is real relative not merely to *a* description but to **whose** — a
+thicker commitment than reading (iii) advertises, and a form of constructivism. It does not collapse C13 into
+reading (ii): response-dependent realism may well survive being purpose-indexed, and whether it does is the open
+question, not a settled defeat. What is settled is the cap: the qualifier governing every claim below is
+*relative to whose grain*, and the strength of anything resting on C13 is limited accordingly. The sharpening
+was made in v1.7 and recorded only where the debt is filed; declaring it there and not here was the discipline
+lapsing at the site where the machinery actually runs. Where no such
 work can be shown for some purported value, its honest tier is **superseded (mere seeming)**, not companion —
 "style" is not a courtesy title.
 
