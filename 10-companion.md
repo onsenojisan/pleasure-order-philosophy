@@ -541,6 +541,19 @@ payment** — the same F7-bar that forced the S8 human-rights retraction and C9'
 of what broke — but it re-introduces observer-privilege and paternalism, so it is used, if at all, with explicit
 misgiving.)
 
+**The cost has a sharper shape than "cannot condemn cruelty," and it is worth naming** *(added 2026-07-26, from
+an external critique)*. The hard case is not the being who does not mind its own collapse. It is the one who
+**recoils from its own collapse and not from inducing it in others**. Here the theory can describe the
+asymmetry, and it can point out that the agent applies a standard to itself that it withholds from others — but
+**F9 has already granted that the inconsistency charge carries no binding force.** So the one lever that looks
+available is one the framework has disarmed in advance.
+
+This is not a new defect; it is **P3 seen at its most concrete**. The abstract form ("the theory cannot
+categorically condemn cruelty") reads as a formality and gets skimmed. The specific form does not, and it is the
+honest statement of what the payment buys and what it costs. A user of the framework who wants to say more than
+this will have to import a normative commitment from outside it and **declare that they are doing so** — which
+is permitted, and is the same discipline O1 imposes on aggregation rules.
+
 **Scope — ruin-avoidance + trajectory-description, NOT a theory of flourishing.** Above the floor the theory does
 **not rank** (F7): the wave (ordinary pleasure / suffering), cessation (静×退く / 解脱), and ecstatic affirmation
 (Nietzsche) are all permitted, none higher. It **does** describe **risk-gradients** — 恍惚×持つ sits nearer the
@@ -593,7 +606,14 @@ pairing (formal signal + phenomenological account of the blindness), and the non
 loose redescription of critical-transition theory. **Honest status:** the one head-to-head run so far (an order
 operator vs. FEP, on open EMA data) **went to FEP**; the decisive test (hysteresis + a shared decline↔recovery
 parameter) needs a within-person recovery-arm dataset and is **pending** (the empirical Ω_proxy track). The bet is
-live but behind on the early points. **Three concrete predictions would earn the "distinct synthesis" claim**
+live but behind on the early points. *What a second negative result would mean, by the theory's own standard* **(added 2026-07-26).** **F4** defines
+structural truth as compressing and predicting better than the alternatives. If the pending test also goes to
+FEP, then by that criterion — the framework's own, not one imported to judge it — what remains has **no
+compression or prediction advantage over its rivals**, and the honest description would be a conceptual
+synthesis with no empirical distinctiveness. The framework would not be refuted; it would be **absorbed**, which
+by F4 is the relevant loss. Stating this in advance is what keeps the wager a wager.
+
+**Three concrete predictions would earn the "distinct synthesis" claim**
 (none following from Scheffer, FEP, or Buddhism alone): (i) a *psychological* collapse (e.g. burnout) shows CSD
 signals *before* an FEP-predicted rise in free energy; (ii) an *AA intervention* (narrative deconstruction)
 **reverses** CSD before the threshold is crossed; (iii) a *social* system shows the **same** CSD signature as an
