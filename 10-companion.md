@@ -664,17 +664,39 @@ compression or prediction advantage over its rivals**, and the honest descriptio
 synthesis with no empirical distinctiveness. The framework would not be refuted; it would be **absorbed**, which
 by F4 is the relevant loss. Stating this in advance is what keeps the wager a wager.
 
-*And what absorption would actually cause* **(added v1.12, because naming a defeat condition without naming its
-consequence is what makes a wager look flexible from outside).** Three things, none optional. **This companion
-and the detection programme move to superseded** — not annotated, moved, with a ledger entry recording what was
-claimed and what beat it; a lens whose distinctiveness is gone is not a lens the corpus keeps offering. **The
-hypothetical imperative goes with it.** *If you want to avoid ruin, watch for these signals* holds only if the
-signals beat the alternatives, so on absorption the framework is left with **no usable practical output at
-all** — worth saying plainly, because that imperative is the one thing here anyone could act on. **What does not
-move is the philosophy core** — not because it is shielded, but because it never claimed empirical support, it
-compresses a different object (F4), and it carries its own separate falsifier. Absorption at C11 leaves it
-untouched and leaves it *alone*: the philosophy would then be all there is, which is a smaller corpus than this
-one currently is.
+*And what absorption would actually cause* **(added v1.12; blast radius corrected v1.13, where the first version
+undercounted it).** Naming a defeat condition without naming its consequence is what makes a wager look flexible
+from outside. The consequence is not confined to this companion, because the fold-and-hysteresis machinery is
+used in eight of the thirteen — **C3, C6, C7, C8, C10, C11, C12, C13** — and v1.12 said only that C11 and the
+detection programme would move, which made the exposure look smaller than it is. Graded, because not everything
+using Ω̂ dies with the wager:
+
+- **Moved to superseded.** This companion's **detection programme** in full; **C8**'s claim that
+  abstraction-based coping *covers an early-warning signal* (no signal, no cover); **C11/C12**'s "below the
+  floor" wherever it means *inside a basin the system's own dynamics do not exit*, since that is the fold, and
+  without the fold there is a bad state but no boundary.
+- **Demoted, not deleted.** **Ω̂ as a continuous axis** at C3, C10 and C13 survives as *distance from loss of
+  self-recoverable viability*, a description; what it loses is the tipping-point structure that made it more
+  than a gradient. **C7**'s suffering-as-collapse-rate stays as a dual description and loses the claim that its
+  extreme is a *transition*. **C6**'s use is incidental and survives.
+- **Untouched.** **C12**'s rescue-channel ladder, which rests on the adult-regulation and hidden-regulator
+  literature rather than on the bifurcation; **C9**'s account of death; **C13**'s value-as-style, which needs
+  F5 and F12 and not the floor.
+
+And the practical consequence. *If you want to avoid ruin, watch for these signals* holds only if the signals
+beat the alternatives, so on absorption the framework is left with **no usable practical output at all** —
+worth saying plainly, because that imperative is the one thing here anyone could act on. **What does not move is
+the philosophy core** — not because it is shielded, but because it never claimed empirical support, it
+compresses a different object (F4), and it carries its own separate falsifier.
+
+*One concession, since the point is fair* **(v1.13)**. It has been put to the corpus that if the whole practical
+exposure is a single hypothetical imperative, then losing it is not much of a loss, and calling this a wager
+flatters it. **That is largely right, and defending it would be worse than conceding it.** A framework's
+exposure is proportional to what it claims, and this one claims little that anyone acts on. The correction above
+makes the loss larger than v1.12 stated — eight companions touched, three items retracted outright — but it is
+still a loss of *standing*, not of anything a reader was relying on. What the wager buys is the right to be
+called a distinct theory rather than a re-description; that is what is at stake, and it is smaller than the word
+"wager" suggests.
 
 **Three concrete predictions would earn the "distinct synthesis" claim**
 (none following from Scheffer, FEP, or Buddhism alone): (i) a *psychological* collapse (e.g. burnout) shows CSD

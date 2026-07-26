@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.12** · Last updated: 2026-07-26 · revision log at the foot of this file
+Version: **v1.13** · Last updated: 2026-07-26 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -118,7 +118,7 @@ Gödel's first incompleteness theorem gives, for any consistent (**A**), effecti
 
 **Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 **no P-move at all — which is not the same as no cost** *(distinguished v1.7)*, and **the declining is forced rather than chosen** *(v1.8)*.
 
-*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so, **on this theory's own accounting, there is no one for the repayment to be made to** *(v1.12. The sentence has now been rewritten four times — v1.8 stated the position, v1.9 indexed it, v1.11 tried to fix the verb and produced "nothing to hand it", which was simply unclear English, and this is the plain version. Two things were going wrong at once and it took four passes to separate them: the claim sits at the edge of what the observation limit allows, **and** the earlier attempts were badly written. Both are recorded, because blaming only the first would be self-flattering)*. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. *And that is the entire claim (indexed v1.9).* The compulsion is **relative to a commitment this theory has already made**, and the ground F12 gives for it is a **report of a search**. So nothing here shows that C4 cannot be raised at all: someone who finds an addressee is not refuted by this, and there is no neutral court between the two positions to settle which report governs. Read as "no one has an addressee," the report would be a standpoint-relative finding inflated into a universal one — which is a distinct failure from ranking, is not caught by **F7**, and is what the standing audit in [`20-open.md`](./20-open.md) was opened to watch. What the theory declines is C4 **for itself**, under compulsion; it declines equally to issue that as a verdict on anyone else. *And note where the index attaches (v1.10)*: to a **report of a search**, not to every claim the corpus makes. The third-person dynamical claims — the floor, hysteresis, what recovery requires — are not indexed this way and are not meant to be, because they are open to the same observation from any position. Confusing the two would make the discipline dissolve the corpus rather than police it; the audit in [`20-open.md`](./20-open.md) states the boundary. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). Kant judged that item insupportable and postulated a support; this theory keeps it unsupported. **Those are two treatments of one hole, not two quantities** *(restated v1.10)* — the earlier wording, "a cost of comparable size", asserted a magnitude the taxonomy does not supply and should not be read back into it. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so, **on this theory's own accounting, there is no one for the repayment to be made to** *(v1.12. The sentence has now been rewritten four times — v1.8 stated the position, v1.9 indexed it, v1.11 tried to fix the verb and produced "nothing to hand it", which was simply unclear English, and this is the plain version. Two things were going wrong at once and it took four passes to separate them: the claim sits at the edge of what the observation limit allows, **and** the earlier attempts were badly written. Both are recorded, because blaming only the first would be self-flattering)*. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. *And that is the entire claim (indexed v1.9).* The compulsion is **relative to a commitment this theory has already made**, and the ground F12 gives for it is a **report of a search**. So nothing here shows that C4 cannot be raised at all: someone who finds an addressee is not refuted by this, and there is no neutral court between the two positions to settle which report governs. Read as "no one has an addressee," the report would be a standpoint-relative finding inflated into a universal one — which is a distinct failure from ranking, is not caught by **F7**, and is what the standing audit in [`20-open.md`](./20-open.md) was opened to watch. What the theory declines is C4 **for itself**, under compulsion; it declines equally to issue that as a verdict on anyone else. *And note where the index attaches (v1.10)*: to a **report of a search**, not to every claim the corpus makes. The third-person dynamical claims — the floor, hysteresis, what recovery requires — are not indexed this way and are not meant to be, because they are open to the same observation from any position. Confusing the two would make the discipline dissolve the corpus rather than police it; the audit in [`20-open.md`](./20-open.md) states the boundary. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. *(The obvious reply — "declining is itself a way of paying" — has an answer, and it lives one file over: the appendix §5 works out that **declining a demand is exit, not payment**, which is why the exits from Wall 1 and the P-moves are separate grids there. Cross-referenced here at v1.13, because the objection is raised by this paragraph and answered somewhere the reader has not been sent.)* But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). Kant judged that item insupportable and postulated a support; this theory keeps it unsupported. **Those are two treatments of one hole, not two quantities** *(restated v1.10)* — the earlier wording, "a cost of comparable size", asserted a magnitude the taxonomy does not supply and should not be read back into it. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
 
 Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
 
@@ -322,6 +322,17 @@ Justification (a *principled* agnosticism, not avoidance):
 - **Both sides ride on unreliable armchair conceivability → the armchair cannot settle it → shelving is the
   most honest verdict.**
 
+*Two levels, and only one of them is silent* **(stated v1.13, in answer to the fair observation that "both sides
+ride on conceivability" is plainly a position and not a silence)**. The **first-order** question — are zombies
+possible, does the fork fall one way or the other — is where the silence sits: no verdict, and none coming. The
+**second-order** question — why the armchair cannot settle it — is *answered*, and the answer is an argued
+methodological commitment: the inference from conceivability to modal fact is a leap, and it is a leap in
+**both** directions, which is why asserting impossibility is refused as firmly as asserting possibility. Holding
+the second is not a breach of the first; it is what makes the first **principled rather than a shrug**, and it
+is what allows these items to be *checked* — as [`20-open.md`](./20-open.md) now checks them — instead of merely
+declared. The same shape governs wherever the corpus is silent: F3's ground, and what a released perception
+contains.
+
 Further: on this theory's own OSR + modal humility, "everything else is necessary and feeling alone floats" is
 **false** (nothing is pure necessity; everything, feeling included, is a contingent pattern; there is no
 necessity-substrate for feeling to float free of). The surviving question — "why do some styles feel and others
@@ -405,6 +416,33 @@ from Parfit; see *Neighbours* below.)
 
 **This is what the P4 payment actually is.** "Who, then, is liberated?" (**C3**) has no substantial bearer —
 not because a bearer has been disproved, but because **what is not found when sought is not installed.**
+
+***Which* search, and why it matters** *(specified v1.13; an external reading pointed out that the report has
+been carrying argumentative weight — the whole of the C4 decline rests on it — while what was searched and how
+was never said, and that is correct)*. The corpus already contains **two** searches and has never distinguished
+them:
+
+- **The analytical one, which is what F12 reports.** Among what is found when one looks — sensations, moods,
+  memories, the sense of being the one having them — try to identify the item that is the **bearer** rather than
+  one more of the **borne**. What returns is further borne items and the maintenance relations among them. This
+  is Hume's procedure and the analytical move the emptiness lineage makes; the *Visuddhimagga* formulation
+  records the same result. It is a search **anyone can run**, it needs no attainment, and it is the only one the
+  frozen tier uses.
+- **The real-time one, which F12 §7 explicitly separates off.** The source says the grip loosens through
+  *not-doing it as it happens*, which is a different job from describing the structure correctly. That search —
+  if "search" is even the word — is a practice, and **nothing in the frozen tier rests on it**, because a report
+  from inside it would be testimony about an inner attainment and **S5**'s bar applies.
+
+Three consequences. The report is **not** privileged to anyone who has crossed anything — it is the first
+search, available to a reader in an afternoon, and if it were the second the whole position would be resting on
+exactly what S5 was retracted for. The **v1.9 index sharpens**: someone who "finds an addressee" is either
+running the first search and getting a different result, which is a real disagreement with no neutral court, or
+reporting something else entirely, which is not a disagreement at all — and the corpus cannot tell which from
+outside. And the honest residue: **the first search is described, not specified.** No procedure is given precise
+enough to be run the same way twice, so the report's strength is the strength of an invitation to look, and
+everything resting on it — including the C4 decline — is capped at that. This is stated rather than repaired
+because repairing it would mean supplying a phenomenological method, which the framework has no means to
+validate.
 
 **2 — What "maintained" means, and how the theory reads it.**
 A style is being maintained when three things hold: **(i) restoration** — after perturbation it moves back
@@ -963,6 +1001,51 @@ and F5's two-truths reference was marked an analogy at v1.9. Neither is load-bea
 asymmetry came from the reader summary, which quoted the *Visuddhimagga* formulation and dropped the caution —
 the third time in four rounds that a "gap in the corpus" has turned out to be a gap in the summary, and the
 reason the summary is being rewritten rather than patched again.
+
+### v1.13 — 2026-07-26 · which search, and how far the wager reaches
+
+An eighth external critique. Its best point exposed something the corpus had been leaning on without saying what
+it was, and one of its points corrected a passage added last version.
+
+- **F12 now says *which* search it is reporting, and the corpus turns out to contain two.** The report "the
+  unchanging core is not found when sought" carries the entire C4 decline, and what was searched — and how — was
+  never stated. Distinguished: **the analytical search** (among what is found, identify the bearer rather than
+  one more of the borne; what returns is further borne items and their maintenance relations) is what F12
+  reports, is Hume's procedure and the emptiness lineage's analytical move, and **needs no attainment**. **The
+  real-time practice** F12 §7 separates off is not a search the frozen tier uses, and could not be: a report
+  from inside it would be testimony about an inner attainment, which is what **S5** was retracted for. Three
+  consequences follow, and the third is a limit: the report is available to any reader rather than privileged to
+  anyone; the v1.9 index gets sharper, since someone who "finds an addressee" is either running the same search
+  to a different result (a real disagreement, no neutral court) or doing something else (not a disagreement);
+  and **the search is described, not specified** — no repeatable procedure is given, so the report has the force
+  of an invitation to look, and everything resting on it is capped there. Not repaired, because repairing it
+  would mean supplying a phenomenological method the framework cannot validate.
+- **The blast radius of absorption was undercounted, and the count is now given.** v1.12 said C11 and the
+  detection programme would move to superseded. The fold-and-hysteresis machinery is used in **eight of the
+  thirteen companions**. The consequence is now graded: what is retracted outright (the detection programme;
+  C8's early-warning cover; "below the floor" wherever it means a basin with a boundary), what is demoted to
+  description (Ω̂ as an axis at C3/C10/C13, C7's collapse-rate), and what is untouched (C12's rescue ladder,
+  which rests on the regulation literature; C9; C13's value-as-style).
+- **And the size of the wager is conceded rather than defended.** It was put that if the whole practical
+  exposure is a single hypothetical imperative, losing it is not much of a loss and "wager" flatters it. That is
+  largely right. A framework's exposure is proportional to what it claims, and this one claims little anyone
+  acts on. What is at stake is the right to be called a distinct theory rather than a re-description — real, and
+  smaller than the word suggests.
+- **F8's silence is two-level, and now says so.** "Both sides ride on conceivability" is a position, not a
+  silence — correctly observed. The first-order question (are zombies possible) is silent; the second-order
+  question (why the armchair cannot settle it) is answered by an argued methodological commitment. Holding the
+  second is what makes the first principled rather than a shrug, and is what lets the open tier *check* these
+  items rather than declare them.
+- **"Declining is itself a way of paying" is answered one file over, and the reader is now sent there.** The
+  appendix §5 works out that declining a demand is **exit, not payment**, which is why the Wall-1 exits and the
+  P-moves are separate grids. The objection is raised by the frozen core's self-location and was answered only
+  in the companion-tier appendix — the same misplacement pattern v1.11 recorded for the evidential tiers.
+
+*Not adopted.* That F5's thinness drains "cessation of instantiation" of content. It does not: F5's thinness is
+about what makes a pattern **real**, and whether a maintenance process is running in a physical system is an
+ordinary physical fact that inherits none of it. That line was drawn at v1.11 (standing versus fate) and the
+objection re-applies the thinness to the side the line excludes. Where the same objection *does* land — that
+value-as-style buys less than "real" suggests — the corpus has said so since C13 was written.
 
 ~~**Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
