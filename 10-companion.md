@@ -7,6 +7,15 @@ Last updated: 2026-07-26
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
 
+*A note on the register, since the two can look at odds* **(added v1.10)**. The prose below is written
+assertively while the tier says the truth-value is undecided. That is deliberate: **the hedge is carried by the
+tier label, once, and not repeated inside every sentence.** A companion written in permanent subjunctive would
+be unreadable, and — worse for this corpus — it would be a *temperature* problem of its own, since the parts the
+author finds congenial would inevitably come out less hedged than the rest. So the rule is: read every claim
+below as prefixed by *on this lens*, and hold the corpus to the label rather than to the mood of any sentence.
+Where a companion claim is load-bearing for something in the frozen tier, that is stated at the frozen end, not
+here.
+
 ---
 
 ## C1. Nāgārjuna–Ω theory of mind — a Kant/Yogācāra-flavored reading (not strict Madhyamaka)
@@ -506,7 +515,7 @@ reversible modes, the way C7 is F6 at the affective scale and C9 at the finitude
 
 Source: consolidation of a three-round adversarial refinement of the theory (2026-07). It states in one place
 what "the floor" (Hell) is, what the theory does and does not claim about it, how it proposes to *detect* it, and
-the single empirical bet the whole framework rests on. It sharpens C3 (liberation), C7 (Suffering Order), C8 (AA),
+the single empirical bet **the theory's empirical layer** rests on. It sharpens C3 (liberation), C7 (Suffering Order), C8 (AA),
 C10 (the modes), and the relation to Buddhism (C1). Companion — a lens **and a research programme**, not frozen.
 
 **What the floor is — Ω̂-collapse as a fold-bifurcation (not suffering-magnitude, not lock-as-such).** The floor
@@ -573,7 +582,7 @@ is permitted, and is the same discipline O1 imposes on aggregation rules.
 
 *Why this gets a whole companion, if it is only description* **(added 2026-07-26, in answer to a fair question
 about the register)**. Not because collapse matters more than anything else — that would be the value-ranking
-F7 forbids. For two structural reasons. It is **the theory's single empirical wager**, so the whole framework's
+F7 forbids. For two structural reasons. It is **the theory's single empirical wager**, so the *empirical*
 distinctiveness stands or falls here; and it is **the one place the theory offers a hypothetical imperative that
 anyone actually uses** — *if you want to avoid ruin, watch for these signals* — where above the floor it has
 nothing to recommend at all. Length here is a function of load-bearing and of testability, not of importance.
@@ -623,7 +632,13 @@ a **pre-hoc measured predictor, not a post-hoc excuse**: before collapse, measur
 markers, and predict *CSD rises → AA denies → collapse follows*; a case with CSD, no AA-reaction, and no collapse
 counts **against** the theory.
 
-**The single wager the framework rests on (stated plainly).** Everything above compiles to one empirical yes/no:
+**The single wager the empirical layer rests on (stated plainly).** *(Scope corrected v1.10: "the framework"
+used to stand here for two different things. This wager governs **the theory's empirical layer** — the Ω_proxy
+programme and the claims that depend on it. It does not govern the **philosophy core**, whose boundary paragraph
+declines to borrow credibility from the empirical track and which therefore cannot lose it there either. If the
+wager is lost the philosophy is neither vindicated nor refuted; it is what it already says it is, a conceptual
+synthesis offered without empirical support. Conflating the two made the corpus look as though it were staking
+everything on one test while also disclaiming the stake.)* Everything above compiles to one empirical yes/no:
 **do real psychological and social collapses have genuine fold-bifurcation (tipping + hysteresis) structure,
 detectable in advance by parameter-light early-warning signals that transfer across levels and beat free-energy
 (FEP)?** If yes, VOT is a distinct cross-level theory — the collapse-gate as a single primitive, the CSD/AA

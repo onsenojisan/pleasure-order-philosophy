@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.9** · Last updated: 2026-07-26 · revision log at the foot of this file
+Version: **v1.10** · Last updated: 2026-07-26 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -67,6 +67,15 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 
 **What is frozen here, and what is not.** The **pattern** — no *examined* system secures all five without a P-move or a dropped demand — is F0's evidence and is frozen. **Individual cells are interpretive and revisable** (F6): correct the reading of Kant or Hegel and the pattern almost certainly stands, because the one *provable* corner (F0-L, below) already closes the C1∧C2 escape route independently of any cell. The table is **inductive** (R3): a survey of *examined* systems, offered fallibly — not a God's-eye proof over all *possible* systems, which would itself be move (iii), the very move the schema tracks. It is **falsifiable in the operative sense**: add a row whose "Secures" holds all five and whose "Pays" is empty, *without* dropping a demand, and F0 falls. The two apparent non-payers are instructive, not counterexamples — a system that **drops** C3 / C5 (naturalism) owes nothing but has left the schema; a system that **claims** to pay nothing by embracing the circle (Hegel) has only renamed the payment.
 
+**The taxonomy is categorical, and gives no ordering** *(stated v1.10, in answer to a fair charge)*. A row records
+**which** demand went unsecured and **by which move** — nothing more. It does not rank systems, does not measure
+payments against each other, and supplies no scale on which one payment could be larger than another. This
+matters because the vocabulary invites the opposite reading: "payment", "cost", "pays twice" are the words of a
+ledger, and a ledger implies amounts. There are none here. Where the corpus has compared magnitudes it has
+overstepped its own instrument, and one such comparison is corrected in this version. Note also what the absence
+does *not* license: it is a limit on this taxonomy, not a general denial that theoretical costs can be compared —
+that would be a claim the framework has no standing to make either.
+
 **Modality, stated honestly.** The thesis says "never yet achieved, and structurally hard" — not a God's-eye "impossible". Asserting impossibility over all possible systems would itself require a privileged external standpoint (iii), the very move the schema tracks; so F0 applies **P2 to itself** and does not claim to be a final theorem. It is frozen as the theory's considered bet (R3), and it is falsifiable in the operative sense: exhibit a system meeting C1–C5 under the stated readings without a P-move, and F0 falls.
 
 **Genealogy (borrowed on purpose).** F0 composes known limitative results rather than inventing one: C5 is Agrippa's trilemma (regress / circle / dogma); C3 is Hume's is–ought gap; the C1∧C2 corner is the self-reference territory of Gödel and Tarski. **C4 had no genealogy stated and now has one** *(added v1.6, in answer to the fair charge that the five-demand set looked arbitrary at exactly that point)*: the demand that action and consequence be reconciled along V is **Kant's summum bonum** — virtue and happiness must be proportioned, and because nothing in nature proportions them, immortality and God are *postulated* to do it — and, in other lineages, **theodicy** and the **karmic ledger**. Wall 3 (no natural law guarantees desert) is what *blocks* C4; it was never a reason for counting C4 among the demands. That reason is this genealogy, which also explains why C4 is the demand most often paid with P6: the postulate is precisely a recovery mechanism placed in the world. *(Consequence for the table above, applied v1.6: Kant's row previously recorded only P5 + P2 on C1. If he demands C4 and postulates immortality and God to meet it, he pays **P6** as well — the same settling mechanism the classical-theism row is charged for — and the row now records both. Note what is **not** being said: Kant does not smuggle. He names the postulates as postulates and denies they are knowledge, which is exactly why he is the clearest case of a demand visibly forcing a payment, and why the P-move vocabulary is descriptive rather than pejorative.)* What is added is the composition — reading the classical "unsolved problems" as five faces of a single joint-satisfaction failure — not a new impossibility result.
@@ -86,7 +95,7 @@ Gödel's first incompleteness theorem gives, for any consistent (**A**), effecti
 
 **Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 **no P-move at all — which is not the same as no cost** *(distinguished v1.7)*, and **the declining is forced rather than chosen** *(v1.8)*.
 
-*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so the operation C4 names has no one to be performed on. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. *And that is the entire claim (indexed v1.9).* The compulsion is **relative to a commitment this theory has already made**, and the ground F12 gives for it is a **report of a search**. So nothing here shows that C4 cannot be raised at all: someone who finds an addressee is not refuted by this, and there is no neutral court between the two positions to settle which report governs. Read as "no one has an addressee," the report would be a standpoint-relative finding inflated into a universal one — which is a distinct failure from ranking, is not caught by **F7**, and is what the standing audit in [`20-open.md`](./20-open.md) was opened to watch. What the theory declines is C4 **for itself**, under compulsion; it declines equally to issue that as a verdict on anyone else. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). If Kant's postulates count as a payment, then keeping unsupported what he judged insupportable is a cost of comparable size, borne differently. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so the operation C4 names has no one to be performed on. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. *And that is the entire claim (indexed v1.9).* The compulsion is **relative to a commitment this theory has already made**, and the ground F12 gives for it is a **report of a search**. So nothing here shows that C4 cannot be raised at all: someone who finds an addressee is not refuted by this, and there is no neutral court between the two positions to settle which report governs. Read as "no one has an addressee," the report would be a standpoint-relative finding inflated into a universal one — which is a distinct failure from ranking, is not caught by **F7**, and is what the standing audit in [`20-open.md`](./20-open.md) was opened to watch. What the theory declines is C4 **for itself**, under compulsion; it declines equally to issue that as a verdict on anyone else. *And note where the index attaches (v1.10)*: to a **report of a search**, not to every claim the corpus makes. The third-person dynamical claims — the floor, hysteresis, what recovery requires — are not indexed this way and are not meant to be, because they are open to the same observation from any position. Confusing the two would make the discipline dissolve the corpus rather than police it; the audit in [`20-open.md`](./20-open.md) states the boundary. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). Kant judged that item insupportable and postulated a support; this theory keeps it unsupported. **Those are two treatments of one hole, not two quantities** *(restated v1.10)* — the earlier wording, "a cost of comparable size", asserted a magnitude the taxonomy does not supply and should not be read back into it. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
 
 Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
 
@@ -768,6 +777,59 @@ proof with the force of an argument: the same paragraph separates the tiers and 
 confidence to the other two, which is the opposite of the charge. That the empirical wager is too thin to
 support the philosophy: it is not asked to — the boundary section declines to borrow from the empirical track,
 and the thinness is the corpus's own published statement.
+
+### v1.10 — 2026-07-26 · the instrument does not weigh, and the audit does not dissolve
+
+A fifth external critique, on the v1.9 package. Its sharpest point was one the corpus had left unguarded, and
+two of its objections turned out to be a single defect seen from two sides.
+
+- **The payment taxonomy is categorical, and one sentence had been treating it as a scale.** The charge was that
+  the ledger vocabulary smuggles in the common measure the corpus denies elsewhere. Half right, and the half
+  that lands is precise: a row records *which* demand went unsecured and *by which move*, and there is no
+  quantity anywhere in the instrument — yet v1.7 wrote that keeping unsupported what Kant judged insupportable
+  is "a cost of **comparable size**". That asserts a magnitude nothing supplies. Restated as what it actually
+  is: **two treatments of one hole, not two quantities.** The taxonomy's silence about ordering is now stated
+  where the taxonomy is set out, together with what that silence does *not* license — it is a limit on this
+  instrument, not a general verdict that theoretical costs are incomparable, which would be an equally
+  unsupported claim in the other direction.
+- **The standpoint-inflation audit needed its boundary, or it reads as a solvent.** If F12's report is indexed,
+  a reader reasonably asks what happens to the floor, to hysteresis, to what recovery requires — and whether the
+  empirical wager is relativised along with everything else. It is not. The index attaches to **reports of a
+  search**, where what is available depends on whether the search was undertaken and no third party can
+  adjudicate. It does not attach to **third-person dynamical claims**, which are open to the same observation
+  from any position and stand or fall on evidence. The line is not a convenience: the floor's *badness* was
+  already indexed (it rides on **F9**'s recoil rather than being posited — C11), and what is not indexed is the
+  dynamics. Written into the C4 self-location and into the audit itself.
+- **"The framework" was standing for two different things.** C11 said the wager is what "the whole framework"
+  rests on, while the boundary paragraph says the philosophy does not borrow credibility from the empirical
+  track. Both cannot be read with the same referent. Scoped: the wager governs **the theory's empirical layer**.
+  If it is lost, the philosophy core is neither vindicated nor refuted — it remains what it already says it is.
+- **The grain item said "forced march toward" a horn it is already standing on.** With the interest-free horn
+  closed by F1, arrival happened at the moment of the declining. What is open is the cost, not the direction.
+- **The companion register is now stated rather than left to jar.** The prose is assertive while the tier says
+  the truth-value is undecided. That is deliberate — the hedge is carried by the label once, because a companion
+  in permanent subjunctive would be unreadable and would hedge unevenly, which is a temperature problem of its
+  own.
+- **"Wall" is demoted in the appendix.** Two independent readers flagged the noun *after* the caveat about it
+  was added, which is evidence that a caveat under a heading does not undo the heading. The document and its
+  first section are now titled by what the three results are. Renaming outright was declined: the term is cited
+  across the corpus and in a published deposit, and re-coining it silently would cost more in traceability than
+  the noun costs in flattery.
+
+*Not adopted, and why.* That the grain debt is unresolved and its implications not integrated: the corpus says
+this itself — response-dependent realism *may* survive being purpose-indexed, that is the open question, and the
+distance between the two is the stated size of the item. Restating it is agreement, not a finding. That the thin
+reading of F5 may be a distinction without a difference: the difference it makes is that F5 and F13 do not
+contradict, which is why the reading is forced rather than preferred. That the Gödel corner assumes philosophical
+explanation is a formal system: an explanation without the expressive power for Gödelian self-reference does not
+breach Wall 1 — it takes the **P9** exit and is charged for it, which is already in the grid. That AA cannot be
+operationalised: the corpus binds itself to markers specified in advance and measured independently, and hands
+detectability to the empirical track, where the critique agrees it sits.
+
+*On the style objection* (too many negations, defensively over-qualified). Recorded rather than acted on, with
+its reason: this corpus writes boundaries negatively because it has been injured positively. **S10** and **S11**
+were affirmative paraphrases that hardened into the frozen tier, and every "this is not X" here is a fence built
+after that. The cost in readability is real and is accepted.
 
 ~~**Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**

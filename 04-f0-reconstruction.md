@@ -1,4 +1,4 @@
-# Appendix — F0 Reconstruction: The Three Walls
+# Appendix — F0 Reconstruction: one theorem, one strong argument, one descriptive fact
 
 **Status.** Companion to the frozen core. This appendix strengthens the logical
 basis of **F0** without altering any frozen statement of F0, F0-L, C1–C5, or
@@ -31,7 +31,7 @@ cells display it.
 
 ---
 
-## 1. The three walls
+## 1. The three limits — a theorem, a strong argument, and a descriptive fact
 
 The five conditions partition cleanly across three external results.
 
@@ -41,6 +41,14 @@ impassable in the strict sense — and even that one only within its declared pr
 (**Theorem / Strong Argument / Descriptive Fact**) are what govern; the shared noun is a convenience of exposition
 and should not be allowed to do argumentative work. §3 makes the same point from the other side: the headline is
 cheap, and the real content and real risk sit in the sorting, which the non-theorem walls carry.
+
+*And the note was not enough (v1.10).* Two independent external readings flagged the noun after it was added,
+which is evidence that a caveat under a heading does not undo the heading. So the tier now leads: this document
+and this section are titled by **what the three results are**, and "wall" survives only as the retained
+shorthand inside the rows, where the tier label sits beside it. The word is not being defended; it is being
+demoted. Renaming it outright was considered and declined — the three results are cited as "the three walls"
+across the corpus and in a published deposit, and silently re-coining the term would cost more in traceability
+than the noun costs in flattery.
 
 ### Wall 1 — Gödel (Theorem Tier). Blocks C1 ∧ C2.
 

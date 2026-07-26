@@ -66,8 +66,10 @@ grain set by an interest or a purpose; the grain at which a system's own regulat
 
 **And the candidates are not symmetric — one of them is already closed** *(sharpened 2026-07-26, from an external
 critique)*. An interest-free grain would need an account of natural joints, and **F1 declines to give one**. So
-the framework is not choosing between two live options; it is on a **forced march toward the purpose-relative
-horn**, and the cost of that horn is larger than "thinner realism". If the grain is set by an interest, then
+the framework is not choosing between two live options. *(Wording corrected v1.10: this used to read "a forced
+march toward the purpose-relative horn", which puts in the future something already settled. With one horn
+closed, the framework **is on** the purpose-relative horn — it arrived there the moment F1 declined the joints.
+What remains open is not which horn but what the horn costs.)* And that cost is larger than "thinner realism". If the grain is set by an interest, then
 value is real not merely relative to *a* description but relative to **whose** — which is a form of
 constructivism, and a thicker commitment than **C13** advertises when it insists it is offering
 response-dependent realism rather than an error theory. Response-dependence and purpose-relativity are not the
@@ -166,6 +168,18 @@ Named occasions rather than a general warning:
 - **Any place the corpus writes "there is no X" where the honest form is "X is not found when sought."** Both
   **F1** (v1.1) and **F12** have already had to make this correction once.
 
+**Where the index attaches, and where it does not** *(added 2026-07-26, without which the audit reads as a
+solvent)*. It attaches to **reports of a search** — F12's, C4's, S5's territory — where what is available
+depends on whether the search has been undertaken and there is no third party to adjudicate between the
+outcomes. It does **not** attach to the corpus's **third-person dynamical claims**: that a system past a fold
+does not return on its own dynamics, that recovery below the floor requires external forcing, that mutual
+confirmation with no external error source is worse than isolation. Those are open to the same observation from
+any position, and they stand or fall on evidence rather than on standpoint. The distinction is not a convenience:
+the floor's *badness* is already indexed — it rides on **F9**'s near-universal recoil rather than being posited
+(**C11**), and that is why the theory cannot categorically condemn a being that does not mind. What is *not*
+indexed is the dynamics. An audit that failed to draw this line would relativise the empirical wager along with
+everything else, which is the opposite of what it is for.
+
 Three things this audit is *not*. It is not scepticism about the findings: a report from a position is still a
 report, and the discipline is to **index it, not withdraw it**. It is not the claim that the two positions are
 equally good — that is a ranking, and F7 already forbids it. And it is not the claim that the matter is
@@ -193,7 +207,7 @@ unauditable, and therefore worse than a bounded stated one. → **Open**, as a s
 - **The collapse-floor's detectability — the single decisive open bet.** Whether the approach to the floor
   (Ω̂-collapse as a fold-bifurcation; `10-companion.md` C11) is detectable *before* the point of no return, via
   parameter-light early-warning signals (critical slowing down) that transfer across levels and beat free-energy,
-  is **the one empirical question the whole framework rests on** (with AA, C8, tested as a *pre-hoc* predictor,
+  is **the one empirical question the theory's empirical layer rests on** *(scope corrected 2026-07-26; it used to say "the whole framework", which the philosophy core's own boundary paragraph contradicts)* (with AA, C8, tested as a *pre-hoc* predictor,
   not a post-hoc excuse). Handed to the empirical Ω_proxy track; **currently unproven** — the one head-to-head so
   far went to FEP, and the decisive hysteresis / recovery-arm test is pending. Also open there: operationalizing
   the **(L, P)** frame — validating the proxy P, and above all **identifying the basin** (deciding that a system
