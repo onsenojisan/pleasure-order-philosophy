@@ -361,6 +361,17 @@ it *can* say is precise, and it separates two things the fear usually fuses:
 Holding the fact and the grip apart is the whole content: **the irreversibility is not negotiable; the suffering
 is.**
 
+*A canonical precedent for exactly this split* **(noted 2026-07-26; cite/map, no novelty claimed)**. **SN 36.6,
+the dart**: struck by a dart, the untaught person is struck by a second one — grief and resistance at the
+first — and so feels two pains where there was one; the trained person feels the first and not the second. **The
+first dart still lands.** Nothing about the fact is softened, and only the second is dropped. That is C9's
+structure with the terms exchanged, and it is worth recording that the split was not invented here.
+
+*And what is not borrowed.* The canon's treatment of irrecoverability at large runs through **kamma**, which is
+a settling mechanism — the demand met rather than declined (F0's C4, paid with P6). That part is **not**
+adopted: this theory has no addressee for a repayment (see the C4 self-location in the frozen core), so it takes
+the split without the ledger.
+
 **The civilizational face (C2) — descriptive only.** Under the scale-transition constraints (**C2**: carrier
 replaceability + non-personal memory + reversible correction), individual finitude is *structurally* the
 mechanism by which a collective style persists while its carriers turn over — a *literally* immortal,
