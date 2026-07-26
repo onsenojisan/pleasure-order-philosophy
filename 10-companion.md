@@ -522,6 +522,17 @@ C10 (the modes), and the relation to Buddhism (C1). Companion — a lens **and a
 is not "enough suffering" and not "revision-lock per se." It is the **loss of *self*-recoverable viability Ω̂ —
 the capacity to keep revising / adapting — modelled as crossing a fold-bifurcation (a tipping point with
 hysteresis) into a basin the system's own dynamics do not carry it out of.**
+
+*Which side of F5's line this sits on* **(added v1.11, in answer to a fair charge that the thin reading of F5
+and the thick causal talk here pull against each other).* They answer different questions. **F5** says what makes
+a pattern *real* — the compression is objectively available at a grain — and adds nothing to the causal
+furniture. The floor is not about that at all: it is about whether the pattern is **still being instantiated**,
+which is a third-person fact about an actual system and is settled by evidence, not by whether anyone can
+compress it. The style-description of a dead organism remains perfectly compressible, and the organism remains
+dead. **C9** already draws the line in exactly these words for death — *the cessation of a style's
+instantiation, not the annihilation of a substance that was there* — and Ω̂-collapse is the same notion applied
+before the terminus: the maintenance stops being performed. So F5's thinness constrains what may be claimed
+about a pattern's **standing**, not what may be claimed about a system's **fate**.
 - *Not identity-preservation.* Losing your legs / memory / vocation and *adapting* leaves Ω̂ intact — the
   revision-machinery worked (F12). Ω̂-collapse is the destruction of the *machinery of adaptation itself*, not of
   any particular pattern it maintained. (This answers the "viability-for-what?" regress: viability is *for
