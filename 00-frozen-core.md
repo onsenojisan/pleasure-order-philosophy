@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.7** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.8** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -36,7 +36,7 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 - **C1 — completeness of explanation:** a description/explanation system E finally and consistently explains the world W.
 - **C2 — integrity of the subject:** the subject S (experience, self-identity) is identifiable within E and survives as the bearer of E.
 - **C3 — integrity of the normative:** a value system V connects to W and E without contradiction and carries objective binding force.
-- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it — and below, **no P-move is made at C4 while the cost is nonetheless large**.)*
+- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it — though "drops" understates it: **the demand requires an addressee for the repayment, and F12 finds none**, so the option of raising C4 is closed by a commitment made elsewhere. See the self-location below: **no P-move at C4, a large cost, and no choice in the matter**.)*
 - **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
 
 **Thesis (no joint satisfaction).** No system examined satisfies C1–C5 simultaneously under their strong readings. Every candidate has (i) silenced / shelved a condition, (ii) swapped a condition for something weaker, or (iii) bought it with a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
@@ -84,7 +84,9 @@ Gödel's first incompleteness theorem gives, for any consistent (**A**), effecti
 
 **Scope discipline (what F0-L does not show).** (i) It binds any reading on which a complete explanation must settle facts about its own system — including its own consistency (see the defense above). A notion of explanation that is *not self-including* (owes no account of itself) escapes, but only by dropping B — move (iii); a purely non-statable "explanation" is outside the bite but arguably not explanation at all. (ii) The "self" doing the work is **syntactic self-modeling**, not an experiencing subject — F0-L shows a system cannot completely model itself; it says nothing about consciousness (which stays shelved under F8). (iii) It covers the C1∧C2 corner only; C3, C4 and C5 remain philosophical territory, carried by Hume and Agrippa, not by proof.
 
-**Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 **no P-move at all — which is not the same as no cost** *(distinguished v1.7, because the shorter wording invited the wrong reading)*. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). If Kant's postulates count as a payment, then keeping unsupported what he judged insupportable is a cost of comparable size, borne differently. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+**Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 **no P-move at all — which is not the same as no cost** *(distinguished v1.7)*, and **the declining is forced rather than chosen** *(v1.8)*.
+
+*Why forced.* C4 asks that A→R be attributable to S **and repaid to S** along V. **Repayment needs an addressee.** P4 has already thinned the subject to a maintained style (**F12**), and F12 reports that the core **is not found when sought** — so the operation C4 names has no one to be performed on. This is not a preference for austerity. Take F12 and the demand loses its foothold; the theory could not raise C4 while keeping F12 even if it wanted to. The canonical form is the one F12 already carries: **the deed is there, the doer is not found**. Deeds propagate — that is ordinary causation (**R1**), actual processes with actual connections — but nothing in the propagation is *addressed to* anyone, and nothing in it *settles* anything. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). If Kant's postulates count as a payment, then keeping unsupported what he judged insupportable is a cost of comparable size, borne differently. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
 
 Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
 
@@ -688,6 +690,32 @@ introduced in v1.6.
   **whose**. That is a form of constructivism and a thicker commitment than **C13** advertises. Response-
   dependence and purpose-relativity are not the same size of concession, and the corpus has been writing the
   first while owing the second.
+
+### v1.8 — 2026-07-26 · why C4 is declined: the repayment has no addressee
+
+From the author, following a reading of how the Buddhist material handles irrecoverability. It states a
+connection the corpus had left as two separate facts.
+
+**Declining C4 is forced, not chosen.** The demand asks that action be repaid **to S**, and repayment needs an
+addressee. **P4** has already thinned the subject to a maintained style, and **F12** reports that the core is
+not found when sought — so the operation C4 names has nothing to be performed on. The corpus had been saying
+"the core does not need C4", which reads as austerity by preference. It is stronger than that: take F12, and the
+demand cannot be raised. The canonical formulation F12 already carries says it exactly — *the deed is there, the
+doer is not found*.
+
+Two things this keeps straight. **Causation is untouched**: deeds propagate, and that is R1's ordinary
+business — what is denied is that the propagation is *addressed* to anyone or *settles* anything. And the
+register stays the one F12 fought for: **not "there is no self"** (a negative verdict past the observation
+limit, the form F1 v1.1 was corrected for) **but "no addressee is found when sought"** — a report of the search,
+not a metaphysical finding.
+
+*What this does not license.* It is tempting to finish the thought as "and that is the world as the liberated
+one sees it." The corpus does not say that, and **S5** is why: "ZZ integration as a fact achieved by the Buddha"
+was withdrawn precisely because it asserts an inner attainment past the observation limit, and the same bar
+applies to any claim about what a liberated perception contains. What survives is structural, not testimonial —
+**what is left when the grip is released**, which is the register C10 already uses for its exemplars (they
+*embody the pattern*, they do not verify inner attainment). It is also why **C3**'s liberation is *one thing —
+not grasping* — rather than an insight: nothing becomes visible; one stops installing an addressee.
 
 **Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
