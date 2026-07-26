@@ -554,6 +554,14 @@ honest statement of what the payment buys and what it costs. A user of the frame
 this will have to import a normative commitment from outside it and **declare that they are doing so** — which
 is permitted, and is the same discipline O1 imposes on aggregation rules.
 
+*Why this gets a whole companion, if it is only description* **(added 2026-07-26, in answer to a fair question
+about the register)**. Not because collapse matters more than anything else — that would be the value-ranking
+F7 forbids. For two structural reasons. It is **the theory's single empirical wager**, so the whole framework's
+distinctiveness stands or falls here; and it is **the one place the theory offers a hypothetical imperative that
+anyone actually uses** — *if you want to avoid ruin, watch for these signals* — where above the floor it has
+nothing to recommend at all. Length here is a function of load-bearing and of testability, not of importance.
+Read as urgency it would be exactly the smuggled evaluative weight the standing audit is watching for.
+
 **Scope — ruin-avoidance + trajectory-description, NOT a theory of flourishing.** Above the floor the theory does
 **not rank** (F7): the wave (ordinary pleasure / suffering), cessation (静×退く / 解脱), and ecstatic affirmation
 (Nietzsche) are all permitted, none higher. It **does** describe **risk-gradients** — 恍惚×持つ sits nearer the
