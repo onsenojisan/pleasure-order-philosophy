@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.6** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.7** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -36,7 +36,7 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 - **C1 — completeness of explanation:** a description/explanation system E finally and consistently explains the world W.
 - **C2 — integrity of the subject:** the subject S (experience, self-identity) is identifiable within E and survives as the bearer of E.
 - **C3 — integrity of the normative:** a value system V connects to W and E without contradiction and carries objective binding force.
-- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it, which is why C4 is the one demand it answers with no payment at all — it is never raised.)*
+- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it — and below, **no P-move is made at C4 while the cost is nonetheless large**.)*
 - **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
 
 **Thesis (no joint satisfaction).** No system examined satisfies C1–C5 simultaneously under their strong readings. Every candidate has (i) silenced / shelved a condition, (ii) swapped a condition for something weaker, or (iii) bought it with a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
@@ -84,7 +84,7 @@ Gödel's first incompleteness theorem gives, for any consistent (**A**), effecti
 
 **Scope discipline (what F0-L does not show).** (i) It binds any reading on which a complete explanation must settle facts about its own system — including its own consistency (see the defense above). A notion of explanation that is *not self-including* (owes no account of itself) escapes, but only by dropping B — move (iii); a purely non-statable "explanation" is outside the bite but arguably not explanation at all. (ii) The "self" doing the work is **syntactic self-modeling**, not an experiencing subject — F0-L shows a system cannot completely model itself; it says nothing about consciousness (which stays shelved under F8). (iii) It covers the C1∧C2 corner only; C3, C4 and C5 remain philosophical territory, carried by Hume and Agrippa, not by proof.
 
-**Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 no recovery device is smuggled in — non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
+**Consequence — how F0 grounds this repository.** The single governing rule is **licensed and motivated** by F0 — and, on the C1∧C2 corner under F0-L's reading, forced. F0 does not dictate *which* demand to sacrifice; that is the theory's own choice, made for stated reasons (workability + anti-escapism, as in F2). Self-location within the schema's own taxonomy: **P2** (silence) on C1 and C5; **P3** (de-normativization) on C3; **P4** (the subject thinned to a maintained style — F12) on C2; and on C4 **no P-move at all — which is not the same as no cost** *(distinguished v1.7, because the shorter wording invited the wrong reading)*. "Payment" in this taxonomy names a P-move made to secure a demand one is **keeping**; VOT makes none at C4, neither smuggling a recovery mechanism (P6) nor grounding one elsewhere. But **declining a demand is itself expensive.** What is given up is any claim that accounts are ever settled, and that loss is not a footnote — it is where most of the theory's hard content lives: **C8** (the irrecoverable is not delayed but *undefined*, and the coping that covers it is characteristically painless while the structure degrades) and **C9** (death unsoftened, with no afterlife-smuggle and equally no "provably nothing", and the consolations of legacy named as misfires). If Kant's postulates count as a payment, then keeping unsupported what he judged insupportable is a cost of comparable size, borne differently. Non-recovery is held descriptively (C8; the Freeze-discipline retained in S7). Move (iii) is explicitly refused: no God, no Absolute, no privileged external point. These payments are **not cost-free virtues that merely sound humble**: P3 is exactly why the theory cannot categorically condemn cruelty — or a being that wants its own collapse (the retracted S8 "ought"; the un-condemnable content case in `10-companion.md` C11); P2 is why it must refuse *both* afterlife-comfort *and* "provably nothing" at death (C9); P4 is why "who, then, is liberated?" has no substantial bearer (C3). The self-inclusion is meant to be *felt*, not performed. And because the five demands cannot (on this bet) be jointly closed, the Open tier cannot close either: `20-open.md` is **principled, not a backlog** — completing it would betray F0 and F6.
 
 Two further consequences stay in the companion, not the core: why humans nonetheless *demand* a final explanation (a stabiliser for action / responsibility / prediction / agreement — C8), and how a civilization without a terminus distributes the terminus-function into local structures.
 
@@ -430,6 +430,15 @@ and a thinned subject has no use for a separate mental cause. Saying instead tha
 the exclusion argument would overstate — the argument is *accepted*, and its sting is denied. Naming which of
 those two is being done is the honest part.
 
+**And this is not epiphenomenalism** *(clarified v1.7, against the natural reading)*. Epiphenomenalism posits a
+further item — a mental state that is caused and causes nothing, dangling off the physical. The position here
+denies that there is a further item at all: the bias is not a causally idle addition to the process, it **is how
+the actual process goes**, described at a grain (F5). Nothing is left over to be idle. *Residual, left standing:*
+one may reply that a pattern which is "merely a description" is epiphenomenalism under another name, and this
+framework has no knock-down answer — what it has is that it never posited the extra item whose idleness would be
+the problem. Whether that is a difference in kind or in bookkeeping is a live dispute, and it is not settled
+here.
+
 *(Corrected v1.2: this previously read "**a structural constraint on lower-order patterns**", which is stronger
 than the source and imports downward constraint. Source wording: *"the bias in how the internal structure
 transforms outer causation … is what agency essentially is"*, and *"volition appears as a direction within the
@@ -655,6 +664,30 @@ F5's new two-truths defence above, which is why the residue is flagged there rat
 
 *Also noted*: "wall" is one noun for three things of different evidential weight, and the appendix now says so
 where it introduces them.
+
+### v1.7 — 2026-07-26 · payment is not the same as cost
+
+A third external critique, mostly favourable. Three points were live, and one of them corrects wording
+introduced in v1.6.
+
+- **"No payment at all" at C4 was bad phrasing, and it flattered the theory.** *Payment* in this taxonomy names
+  a **P-move made to secure a demand one is keeping**; VOT makes none at C4. But **declining a demand is itself
+  expensive**, and the shorter wording made it sound as though C4 came free. It does not. What is given up is any
+  claim that accounts are ever settled — and that is not a footnote, it is where most of the theory's hard
+  content lives (**C8**, **C9**). If Kant's postulates count as a payment, then keeping unsupported what he
+  judged insupportable is a cost of comparable size, borne differently. The distinction is now stated at both
+  places where the self-location appears.
+- **F13 is not epiphenomenalism, and now says so.** Epiphenomenalism posits a further item that is caused and
+  causes nothing; this position denies there is a further item at all — the bias *is* how the actual process
+  goes, described at a grain. Nothing is left over to be idle. The residual is left standing rather than
+  papered over: one may reply that a pattern which is "merely a description" is epiphenomenalism renamed, and
+  the framework has no knock-down answer, only the observation that it never posited the idle item.
+- **The grain question's two horns are not symmetric, and that makes the item bigger.** An interest-free grain
+  needs natural joints **F1 declines to give**, so the framework is not choosing between live options — it is on
+  a **forced march to the purpose-relative horn**, where value is real relative not to *a* description but to
+  **whose**. That is a form of constructivism and a thicker commitment than **C13** advertises. Response-
+  dependence and purpose-relativity are not the same size of concession, and the corpus has been writing the
+  first while owing the second.
 
 **Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
