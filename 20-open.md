@@ -39,6 +39,25 @@ the honest statement is not that the core can do without aboutness, but that **t
 descriptively while owing no account of what makes representation about anything.** The use is declared here;
 the account stays open.
 
+### What fixes the grain
+
+**F5** makes salience **observer-grain-relative** — which patterns stand out depends on the grain of description
+— and **C13** carries that through to value, where "value is real" is never sayable without the qualifier
+*relative to a grain*. **What fixes the grain is not said.**
+
+Candidate answers exist and are not equivalent: the grain at which a pattern affords predictive leverage; the
+grain set by an interest or a purpose; the grain at which a system's own regulation operates. Taking one has
+consequences. A purpose-relative grain makes the relativity **thicker** than the corpus currently admits — value
+would be relative not merely to a description but to whose description, and O1's commensurability item would get
+harder. An interest-free grain would need an account of natural joints that **F1** declines to give.
+
+This is **used, not merely omitted**: grain-relativity does load-bearing work at F5, in C13's stance-relativity,
+in the commensurability item below, in F5's own two-truths defence (v1.5), and in how C12 restates distributed
+maintenance. It is inherited along with the rest of the real-patterns apparatus from Dennett, whose formulation
+carries the same underdetermination — which is where the debt came from, not an excuse for keeping it.
+→ **Open**, and in the same category as intentionality above: **the core uses it while owing an account of it.**
+*(Opened 2026-07-26, from an external critique of the deposit's reader summary.)*
+
 ### Determinism or indeterminism
 Whether the world is fully deterministic. **Not needed by the core** *(opened 2026-07-25)*: the theory uses two
 things — that there is **no independent free causation** at the action layer, and that agency is a **bias within

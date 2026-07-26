@@ -1,10 +1,17 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.4** · Last updated: 2026-07-25 · revision log at the foot of this file
+Version: **v1.5** · Last updated: 2026-07-25 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
+
+*The rule's own status (stated here so it is not mistaken for a self-evident starting point — v1.5).* It is not
+self-standing. It is licensed by **F0**, which is itself a fallible bet that applies its own P2 to itself and
+declines to be a final theorem; and the particular payment the rule makes — silence plus description — is
+**chosen for stated reasons**, workability and anti-escapism, exactly as at **F2**. So the rule is conditional
+all the way down: it is what *this* theory pays, not what any theory must. Read as a categorical starting
+premise it would be self-undermining, and the corpus does not so read it.
 
 ---
 
@@ -167,6 +174,17 @@ patterns**:
 **The five-sense limit "hands over structure, not substance" — and thereby *drives* OSR.** The limit is not
 the dissolution of the position but its engine: because the senses deliver structure rather than intrinsic
 natures, what is real is structure/relations, and the intrinsic floor is unknowable.
+
+**At which level are real patterns real?** *(added v1.5.)* At the **conventional** one. A pattern is real
+because it does work *at a grain* — not because it names something that would stand there independently of any
+grain. This is what keeps F5 compatible with the emptiness lineage **F6** descends from, rather than in tension
+with it: Madhyamaka denies nothing at the conventional level and permits designation there; what it forbids is
+grasping emptiness itself as a further, ultimate reality — precisely the error **C1** flags in this theory's own
+ancestor papers. So "real patterns" and "no self-standing natures" are not two theses pulling against each
+other. They are the two truths kept apart: description reaches structure conventionally (F5), and the ultimate
+is left silent (F3) — which is also how **F2** already describes its own posit ("the correct use of conventional
+truth"). *Residue:* this defence leans on "at a grain", and what fixes the grain is not said — see
+[`20-open.md`](./20-open.md) O1.
 
 ### F6. Core criterion = anti-fixation / reversibility
 
@@ -357,9 +375,18 @@ not **animalism** (carrier turnover is allowed). No novelty is claimed.
 
 Emergence = "higher-order constrains lower-order", but directionality (agency) is **not a rival cause competing
 with physics**: it is **the bias in how a structure transforms the causes running through it** — a direction
-appearing *within* the causal flow, not a second force acting on it. This blocks Kim's exclusion argument (that
-higher-order mental causation is either redundant or overdetermining), because a bias in an actual process is
-not an additional cause competing for the same effect.
+appearing *within* the causal flow, not a second force acting on it. **What this does and does not do to Kim's argument** *(sharpened v1.5)*.
+The exclusion argument offers a dilemma: higher-order mental causation is either **redundant** or
+**overdetermining**. This position **takes the redundancy horn and denies that it is a cost.** Directionality is
+not an extra cause; it is a **real pattern (F5) in the actual process**, and its reality is the reality F5
+grants — doing compression and prediction work at a grain. Nothing competes for the same effect, so
+overdetermination never arises.
+
+What is given up is that directionality does causal work *over and above* the physical. The theory gives that up
+without loss, because it never wanted it: **P4** has already thinned the subject to a maintained style (**F12**),
+and a thinned subject has no use for a separate mental cause. Saying instead that this **"blocks" or "defeats"**
+the exclusion argument would overstate — the argument is *accepted*, and its sting is denied. Naming which of
+those two is being done is the honest part.
 
 *(Corrected v1.2: this previously read "**a structural constraint on lower-order patterns**", which is stronger
 than the source and imports downward constraint. Source wording: *"the bias in how the internal structure
@@ -527,6 +554,32 @@ analysed intra-personally; the chariot simile is mereological), and the Huayan I
 support it is the reification **C1** warns against. The nearest canonical support — **SN 45.2**, good friendship
 as *the whole* of the holy life — lands on **C12**'s claim, not F12's, which is independent confirmation that
 the section was in the wrong place.
+
+### v1.5 — 2026-07-26 · three points from an external critique of the deposit
+
+An outside reading of the reader summary raised eight objections. Four were answered in the corpus but dropped
+by the summary, one restated the appendix's own self-assessment, and one independently rediscovered the
+same-temperature audit already standing at O1. Three were live, and are taken here.
+
+- **F13 — what it does to Kim is now named honestly.** The text said the position "blocks" the exclusion
+  argument. It does not. The dilemma is *redundant or overdetermining*, and this position **takes the redundancy
+  horn and denies that it is a cost** — directionality is a real pattern (F5) in the actual process, not an
+  extra cause, so nothing competes and overdetermination never arises. What is given up is causal work *over and
+  above* the physical, which the theory never wanted: **P4** had already thinned the subject, and a thinned
+  subject has no use for a separate mental cause. Accepting an argument and denying its sting is a different
+  move from defeating it, and the difference is now stated.
+- **F5 — the level at which real patterns are real is now stated: the conventional one.** Real *at a grain*, not
+  independently of any grain. This is what keeps F5 from pulling against the emptiness lineage F6 descends from:
+  Madhyamaka permits conventional designation and forbids only grasping emptiness as a further ultimate reality
+  — C1's warning. The two truths kept apart, which is how F2 already described its own posit.
+- **The governing rule now states its own status** at the head of the file, instead of leaving it to be
+  inferred from F0's consequence section. It is licensed by F0, which self-applies P2; its payment is chosen for
+  workability and anti-escapism. Conditional all the way down — read as a categorical premise it would be
+  self-undermining.
+
+**A debt was opened rather than paid:** *what fixes the grain* (O1). F5 and C13 lean on grain-relativity
+throughout, and nothing in the corpus says what fixes the grain. It is used, not merely omitted — including by
+F5's new two-truths defence above, which is why the residue is flagged there rather than left implicit.
 
 **Known conflicts *not* resolved** (declared, not fixed — see [`20-open.md`](./20-open.md) O5, O6):
 the fit between **R1**'s process causation / counterfactual ban and the structural-constraint answer at **F13**
