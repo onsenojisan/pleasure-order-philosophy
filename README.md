@@ -1,6 +1,6 @@
 # The Pleasure Order — Philosophy Core
 
-*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-13 · License: CC-BY 4.0*
+*Author: Hiroaki Aizawa (onsen_ojisan) · Last updated: 2026-07-26 · License: CC-BY 4.0*
 
 Japanese source of the underlying deliberation is kept in [`ja/`](./ja).
 
@@ -29,7 +29,7 @@ reversible correction, non-identity-based justification).
 |---|---|---|
 | [`00-frozen-core.md`](./00-frozen-core.md) | **Frozen core** | Defended, stable. Settled. Revised only under explicit versioning. |
 | [`10-companion.md`](./10-companion.md) | **Companion** | Speculative / applied. Not the core. Revisable. |
-| [`20-open.md`](./20-open.md) | **Open** | Deliberately open questions. Not to be filled — by design. |
+| [`20-open.md`](./20-open.md) | **Open** | Deliberately open questions, in **three kinds**: *principled openings*, not to be filled; *declared debts*, which must be closed; *owed accounts*, machinery used while owing an account of it. Plus two standing audits. |
 | [`30-superseded.md`](./30-superseded.md) | **Superseded** | Retracted early positions, with why and what replaced them — the theory's own revision history. |
 | [`STATUS.md`](./STATUS.md) | Ledger | Every proposition with its tier, status, and one-line position. **Read this first.** |
 
@@ -38,7 +38,10 @@ reversible correction, non-identity-based justification).
 - **Frozen** — settled; a defensible position is fixed.
 - **Ready-stance** — a position that follows automatically from the foundation; only needs writing down (the deciding is over).
 - **Companion** — speculation derived from the core; truth-value undecided; offered as a lens.
-- **Open** — undecidable or not-yet-addressed; honestly declared open.
+- **Open** — declared open, in three kinds with different disciplines: *principled openings* (no verdict is
+  reachable, so filling one would be the betrayal), *declared debts* (internal conflicts — not principled at
+  all, and they must be closed), and *owed accounts* (machinery used while owing an account of it — declare the
+  use at every point of use, and let it cap what rests on it).
 
 ## The single governing principle
 
