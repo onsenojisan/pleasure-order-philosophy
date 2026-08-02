@@ -394,12 +394,19 @@ addressee for a repayment"*), so it takes the split without the ledger.
 *Three things stated honestly here* (**added 2026-08-02**). **(i) P6 is not "smuggling."** Theravāda raises kamma
 openly as doctrine and places its fruition among the things one is warned not to speculate about. The treatment
 the frozen core gives Kant's row is owed here too — **the P-move vocabulary is descriptive, not pejorative.**
-**(ii) The direction of the borrowed formula is probably the reverse of its direction here.** The Visuddhimagga
-formula cited at F12 §3 sits as an answer to "if there is no self, whose kamma?" — that is, no-self is deployed
-to *preserve* fruition. This theory uses the same formula to *remove* desert. The frozen core's lineage caution
-guards the **provenance** but not the **direction**. ⚠ *This reading is unverified. Until the sources are
-checked, treat it as an extension of the caution, not a hardened claim* (per this file's closing rule that
-citations are invitations to verify, not warranties). **(iii) One reading of kamma has been chosen.** The
+**(ii) The direction of the borrowed formula in its source is the reverse of its direction here**
+(*verified against the source 2026-08-02; the unverified flag is removed*). The verse cited at F12 §3 sits in
+Visuddhimagga XIX under a section headed **"No Doer Apart from Kamma and Result."** The chapter's own task is
+to overcome the sixteen doubts about whether "I" was in the past or shall be in the future, and its move is
+that **one sees no doer over and above the doing and no experiencer over and above the occurrence of the
+result, while the linking of cause with fruit continues**. So no-self is deployed not to dissolve fruition but
+to **preserve** it, in answer to "if there is no self, whose kamma?" Two attendant points: the verse is
+attributed to **the Ancients (porāṇā)**, not composed by Buddhaghosa, so the formula predates the
+Visuddhimagga; and its opponents are **self-theorists outside Buddhism**, not other Buddhist schools — being a
+reply to "no self, therefore no kamma", the preserving direction is sharper still. This theory uses the same
+formula to *remove* desert. **That is not misuse** (cite / map, not a lineage claim) **but the reversal has to
+be written down.** The frozen core's lineage caution guarded **provenance** and not **direction**, so a
+cross-reference sits there too. **(iii) One reading of kamma has been chosen.** The
 paragraph above reads kamma as a **settling mechanism**, which is not the only reading — there is also a
 non-proportional, state-dependent reading on which the same deed has wholly different consequences depending on
 the state of the system, and on that reading the distance is **much smaller than written here**. Choosing is
