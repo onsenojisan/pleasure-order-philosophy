@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.14** · Last updated: 2026-07-26 · revision log at the foot of this file
+Version: **v1.15** · Last updated: 2026-08-02 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -36,7 +36,7 @@ Philosophy tacitly wants one system to satisfy five conditions at once:
 - **C1 — completeness of explanation:** a description/explanation system E finally and consistently explains the world W.
 - **C2 — integrity of the subject:** the subject S (experience, self-identity) is identifiable within E and survives as the bearer of E.
 - **C3 — integrity of the normative:** a value system V connects to W and E without contradiction and carries objective binding force.
-- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it — though "drops" understates it: **the demand requires an addressee for the repayment, and F12 finds none**, so the option of raising C4 is closed by a commitment made elsewhere. See the self-location below: **no P-move at C4, a large cost, and no choice in the matter**.)*
+- **C4 — recovery of action:** actions and their consequences (A→R) are attributable to S and are recovered (repaid / reconciled) along V. *(What makes this a demand rather than an obvious truth — added v1.6: it is Kant's summum bonum, on which the complete good is virtue **plus happiness proportioned to it**, against both the Stoic reading where virtue alone suffices and the Epicurean one where happiness alone does. So the demand is **optional**: drop the proportion, or the obligation to realise it, or the strong reading of "ought implies can", and nothing forces a settling mechanism. This theory drops it — though "drops" understates it: **the demand requires an addressee for the repayment, and F12 finds none**, so the option of raising C4 is closed by a commitment made elsewhere. See the self-location below: **no P-move at C4, a large cost, and no choice in the matter**.)* *(And what is demanded is **complete** recovery — stated v1.15. Without this, C4 is misread as **R1**. That consequences actually land — on the maintained style, through ordinary causation — is R1, and this theory **keeps it intact**. What C4 adds is **proportion**, and that is the only thing dropped. The difference is of kind, not of degree: partial propagation is an observed fact, complete settlement is a demand, and what forces a settling mechanism is precisely that proportion does not hold within a lifetime — which is why Kant postulates immortality and God, to close that gap. So "the theory denies desert" is a misstatement. The accurate form is **the partial holds, the complete does not**.)*
 - **C5 — final ground of meaning:** the ultimate ground of V is given without circularity or leap.
 
 **Thesis (no joint satisfaction).** No system examined satisfies C1–C5 simultaneously under their strong readings. Every candidate has (i) silenced / shelved a condition, (ii) swapped a condition for something weaker, or (iii) bought it with a circularity, a leap, or a privileged external point (a God, an Absolute, a practical terminus).
@@ -393,13 +393,18 @@ force). The deep "why care at all" cannot be grounded from inside a descriptive 
   freely, but a phenomenon that arises naturally when the conditions are met"*.)
 - **Whether the world is fully deterministic is not asserted** *(corrected v1.2)*. The source applies the
   observation limit to this very question — *"humans have no way of verifying the truth of the ultimate (真諦)
-  layer"* — so this is a case where **F3's silence governs** and the theory returns no verdict. Independent
+  layer"* — but this is **not** a case where F3's silence governs *(grounding replaced 2026-07-26: it used to
+  rest there, which was an overreach — the thing-in-itself is unreachable in principle, whereas determinism may
+  one day be settled by physics, and declining a question evidence may yet reach, then calling it a limit of
+  reach, is what makes a framework's silence look convenient)*. The question is held open **on "not needed by
+  the core" alone**, and the theory returns no verdict. Independent
   support: the denial of libertarian free will **does not depend on determinism**, because indeterminism does
   not deliver it either (an undetermined act is luck, not authorship). The conclusion holds whichever is true,
   so nothing is bought by betting on one. → [`20-open.md`](./20-open.md) O1.
 - **Agency = Intrinsic Directionality**: the bias / grain in how outer causes are transformed internally — an
   agency that arises *within* causation, not an independent will.
 - "There is no free will; but there is agency as directionality; the direction can change."
+- *How "can change" is to be read* (**added v1.15. Not an anticipated misreading — an external reading actually took this as "the subject can choose its direction"**). What changes is **the bias itself**; a subject does not steer it. **F13** already closes this gap: the bias is *how the actual process runs*, with **no slack to play with** — there is structurally no place where a choosing could occur. A river's course can change; the river does not choose its course. The same caution reaches the practice vocabulary of **F12 §7**: its *"not-doing, an altogether different work"* is likewise, as the first bullet above states, **a phenomenon that arises when the conditions are met**, not an exercise of independent free causation. That connection was written nowhere in the corpus.
 - That article already contains the **observation-limit → silence** epistemology (Ω-itself is unseen; only the
   reconstructed image is available) = the origin of F3 and F8. *(The article said "BYXCZ-reconstructed"; that
   five-symbol faculty scheme is retired — see **S9**. The point is independent of how the layering is carved.)*
@@ -1117,6 +1122,27 @@ Struck through rather than deleted, because a file that keeps its history audita
 found by an external critic, having survived four rounds of internal review.
 
 ---
+
+### v1.15 — 2026-08-02 · the partial holds, the complete does not; and "can change" has no agent
+
+From an external exchange. Neither item moves a position; both **close an entrance to misreading**.
+
+- **Stated that what C4 demands is *complete* recovery.** Because this was unwritten, the renunciation of C4
+  could be read as "the theory denies desert." In fact **R1** keeps the partial — consequences do land, on the
+  maintained style, through ordinary causation. What is dropped is **proportion**, and proportion is precisely
+  what forces a settling mechanism (Kant's postulates are placed to close that gap). The distinction was already
+  implied by v1.6's "drop the proportion and nothing forces a settling mechanism", but **it stayed implied** —
+  a reader had to find the R1 / C4 boundary unaided. Closed in one paragraph.
+- **Added a note to F10's "the direction can change" forbidding the agential reading.** This was not an
+  anticipated misreading: an external reading actually took it as "the subject can choose its direction."
+  **F13** already closes the gap (the bias is how the process runs, with no slack to play with), but F10 carried
+  no reference to it and the sentence was being read alone. The practice vocabulary of **F12 §7** ("not-doing,
+  an altogether different work") was connected to F10's first bullet at the same time — that not-doing is
+  likewise a phenomenon arising when conditions are met. That connection was written nowhere in the corpus.
+
+*Not addressed in this version (for the record):* the transfer of load from Wall 3 to P6; the demotion of
+v1.8's addressee argument; the three lines at C9's "what is not borrowed". Each involves rearranging an
+argument, so each waits for a full pass and a later version.
 
 ## References
 
