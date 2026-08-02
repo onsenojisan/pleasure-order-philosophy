@@ -387,8 +387,23 @@ structure with the terms exchanged, and it is worth recording that the split was
 
 *And what is not borrowed.* The canon's treatment of irrecoverability at large runs through **kamma**, which is
 a settling mechanism — the demand met rather than declined (F0's C4, paid with P6). That part is **not**
-adopted: this theory has no addressee for a repayment (see the C4 self-location in the frozen core), so it takes
-the split without the ledger.
+adopted: complete settlement requires the carrier to cross death, and this theory cannot supply that while **F3**
+is kept (see the C4 self-location in the frozen core; *grounding replaced v1.16 — this used to rest on "no
+addressee for a repayment"*), so it takes the split without the ledger.
+
+*Three things stated honestly here* (**added 2026-08-02**). **(i) P6 is not "smuggling."** Theravāda raises kamma
+openly as doctrine and places its fruition among the things one is warned not to speculate about. The treatment
+the frozen core gives Kant's row is owed here too — **the P-move vocabulary is descriptive, not pejorative.**
+**(ii) The direction of the borrowed formula is probably the reverse of its direction here.** The Visuddhimagga
+formula cited at F12 §3 sits as an answer to "if there is no self, whose kamma?" — that is, no-self is deployed
+to *preserve* fruition. This theory uses the same formula to *remove* desert. The frozen core's lineage caution
+guards the **provenance** but not the **direction**. ⚠ *This reading is unverified. Until the sources are
+checked, treat it as an extension of the caution, not a hardened claim* (per this file's closing rule that
+citations are invitations to verify, not warranties). **(iii) One reading of kamma has been chosen.** The
+paragraph above reads kamma as a **settling mechanism**, which is not the only reading — there is also a
+non-proportional, state-dependent reading on which the same deed has wholly different consequences depending on
+the state of the system, and on that reading the distance is **much smaller than written here**. Choosing is
+legitimate; saying that one has chosen is required.
 
 **The civilizational face (C2) — descriptive only.** Under the scale-transition constraints (**C2**: carrier
 replaceability + non-personal memory + reversible correction), individual finitude is *structurally* the
