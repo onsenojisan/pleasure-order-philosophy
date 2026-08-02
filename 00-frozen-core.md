@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.16** · Last updated: 2026-08-02 · revision log at the foot of this file
+Version: **v1.17** · Last updated: 2026-08-02 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -485,7 +485,7 @@ itself** — 「業は在る、しかし作者は見出されない」; 「行�
 *"Kammassa kārako natthi, vipākassa ca vedako / suddhadhammā pavattanti"* — there is no doer of the deed nor
 experiencer of the result; mere phenomena roll on. §3 is that, restated. *(Lineage caution: the Visuddhimagga is
 Buddhaghosa's Theravāda commentary — not sutta, and not Madhyamaka. This is a **cite / map**, not a lineage
-claim; **C1**'s "not strict Madhyamaka" stands.)* *(This caution guards **provenance**, not **direction** — for the argumentative role the formula plays in its source, see [`10-companion.md`](./10-companion.md) C9 (ii), where the reading is flagged as unverified. v1.16.)*
+claim; **C1**'s "not strict Madhyamaka" stands.)* *(This caution guards **provenance**, not **direction** — for the argumentative role the formula plays in its source, see [`10-companion.md`](./10-companion.md) C9 (ii). **That reading was verified against the source 2026-08-02** — the verse sits under a section headed "No Doer Apart from Kamma and Result", where no-self is deployed to *preserve* fruition. v1.17.)*
 
 This discharges the dependency declared at **04 §6**: **attribution works without installing a bearer**, so
 nothing needs to stand behind the deed for it to be attributed, and attribution is absorbed into C2/P4 as
@@ -1172,6 +1172,27 @@ The three items v1.15 deferred. None moves a position; each rewrites **where the
   **direction**, so a cross-reference was placed in the frozen core as well. **The reading is flagged as
   unverified.** **(iii)** One reading of kamma has been chosen — the settling-mechanism reading, not the
   non-proportional state-dependent one. Choosing is legitimate; saying so is required.
+
+### v1.17 — 2026-08-02 · the unverified flag comes off: the borrowed formula's direction is confirmed
+
+The single item v1.16 posted as `⚠ unverified`. **The source was checked and the reading holds — more strongly than v1.16 worded it.**
+
+- **The verse sits under a section headed "No Doer Apart from Kamma and Result"** (Visuddhimagga XIX). The
+  heading states the direction; no inference was needed. The chapter's task is to overcome the sixteen doubts
+  about whether "I" was in the past or shall be in the future, and its move is that **one sees no doer over and
+  above the doing and no experiencer over and above the occurrence of the result, while the linking of cause
+  with fruit continues**. No-self is placed there to **preserve** fruition, not to dissolve it.
+- **Two attendant points.** The verse is attributed to **the Ancients (porāṇā)** rather than composed by
+  Buddhaghosa, so the formula predates the Visuddhimagga — which makes the **cite / map** framing more apt, not
+  less. And its opponents are **self-theorists outside Buddhism**, not other Buddhist schools: as a reply to
+  "no self, therefore no kamma", the preserving direction is sharper still.
+- **This theory's use is unchanged.** Deploying the same formula to *remove* desert is not misuse, since no
+  lineage claim is made. What changed is only that **the reversal is now recorded as a checked fact rather than
+  a conjecture**: v1.16's "probably" is dropped, and the unverified flag is removed from both companion C9 (ii)
+  and this file's lineage caution.
+
+*For the record:* this was the only item in the corpus standing published without its source checked. It was
+open for one day.
 
 ## References
 
