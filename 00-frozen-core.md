@@ -393,7 +393,11 @@ force). The deep "why care at all" cannot be grounded from inside a descriptive 
   freely, but a phenomenon that arises naturally when the conditions are met"*.)
 - **Whether the world is fully deterministic is not asserted** *(corrected v1.2)*. The source applies the
   observation limit to this very question — *"humans have no way of verifying the truth of the ultimate (真諦)
-  layer"* — so this is a case where **F3's silence governs** and the theory returns no verdict. Independent
+  layer"* — but this is **not** a case where F3's silence governs *(grounding replaced 2026-07-26: it used to
+  rest there, which was an overreach — the thing-in-itself is unreachable in principle, whereas determinism may
+  one day be settled by physics, and declining a question evidence may yet reach, then calling it a limit of
+  reach, is what makes a framework's silence look convenient)*. The question is held open **on "not needed by
+  the core" alone**, and the theory returns no verdict. Independent
   support: the denial of libertarian free will **does not depend on determinism**, because indeterminism does
   not deliver it either (an undetermined act is luck, not authorship). The conclusion holds whichever is true,
   so nothing is bought by betting on one. → [`20-open.md`](./20-open.md) O1.
