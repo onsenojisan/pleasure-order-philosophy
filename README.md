@@ -63,3 +63,18 @@ fallible bet elsewhere. The rule is this theory's chosen payment under that sche
 ## Language
 
 English is primary. The Japanese source of the deliberation (from which this was distilled) is in [`ja/`](./ja).
+
+🔴 **Unresolved, recorded 2026-08-14: the two READMEs disagree about which language is normative.** This line
+says *"English is primary"*; [`ja/README.md`](./ja/README.md) says 「一次言語は日本語（技術用語は英語併記）。英語版は必要に
+応じて別途作成する。」 — *Japanese is the primary language; an English version is produced separately as needed.*
+**Both files are current, and they state opposite things about the same repository.**
+
+⚠️ **This is not cosmetic, because the two sides have already diverged.** The C9 register limitation added on
+2026-08-14 exists in the English `10-companion.md` and **not** in `ja/10-companion.md`. Until the question is
+settled, a reader cannot tell whether the Japanese file is behind or whether the English file is a derived
+translation that ran ahead.
+
+**What is owed, and it is the author's call, not an editorial one:** name one side normative, then state a sync
+rule — either *"the other side is updated in the same commit"*, or *"the other side is explicitly allowed to lag
+and carries a pointer saying so."* **Nothing here should be guessed at by a maintainer.** Raised by external
+review.

@@ -387,3 +387,26 @@ simply unpaid. Both were listed here at once in July 2026, which is why the dist
 discipline licenses the first and gives no cover to the second. The repository's four tiers (Frozen / Companion / Open / Superseded), each carrying a status, exist to make
 the theory's own text embody the four scale-transition constraints (reversible correction, non-personal
 memory, and the rest).
+
+## O8. The empirical time parameter `τ` is not F11's time index — **declared open 2026-08-14**
+
+**F11** holds that time is *"an index that arises when the self (Z layer) observes the **rate** of coherence
+change."* The empirical layer, meanwhile, runs on `dC/dt`, frozen lags, and windows `T0`–`T3`, all of which
+**presuppose an ordering**. Read as one quantity these are circular: a rate is defined over time, and time is
+said to arise from observing a rate.
+
+**They are declared here to be two things, and neither is asserted to ground the other:**
+
+- **`τ` — the observational / causal ordering** used by the empirical layer: sampling order, lag structure,
+  window boundaries. It is a **methodological posit** in exactly F2's sense, adopted for workability.
+- **F11's index** — a claim about **how time appears to a Z-layer system**, not about what the empirical layer
+  measures with.
+
+**What this does and does not settle.** It removes the circularity *as a reading*, and it does **not** answer
+whether the two are ultimately the same thing — that question sits behind the observation limit with the rest of
+**O4**. What is owed, and declared here as owed: **wherever the empirical layer says "time", it means `τ`**, and
+no result computed in `τ` may be cited as evidence about F11's index.
+
+⚠️ **This is an *owed account* in the O1 sense**, not a principled opening: machinery is being used (a time
+ordering) while an account of its relation to the core's own position on time is outstanding. Raised by external
+review, 2026-08-14.

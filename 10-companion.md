@@ -2,7 +2,7 @@
 
 *status: Companion (not the core). Speculation and application derived from the core. Truth-value undecided;
 offered as a lens. Revisable.*
-Last updated: 2026-07-26
+Last updated: 2026-08-14 — ⚠️ *this line read `2026-07-26` while the C9 register note was added on 2026-08-14; a header that does not move when the body does is the defect this repository keeps finding elsewhere, committed here.*
 
 These are readings and applications derived from the core in `00-frozen-core.md`; they are **not the canonical
 core**. They are put forward as strong hypotheses / lenses, not asserted.
