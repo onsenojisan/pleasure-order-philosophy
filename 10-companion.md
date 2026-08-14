@@ -167,7 +167,7 @@ readings, as a fallible bet. **What defeats it:** an artificial system that inst
 consequences returning to itself — under the definition used below. The *Honest labelling* paragraph at the
 end of this section says the same about the memo's own status (*"a bet, not an answer"*); it is repeated
 here because a reader meets the claim first and the qualification last.
-*(Added 2026-08-13, after an external review read the claim as an unqualified impossibility assertion. The
+*(Added 2026-08-14, after an external review read the claim as an unqualified impossibility assertion. The
 claim is unchanged and is deliberately **not** narrowed to current architectures — what was missing was its
 register, at the point of use.)*
 
