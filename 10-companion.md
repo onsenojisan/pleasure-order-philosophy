@@ -330,6 +330,20 @@ reading, not a frozen commitment.
 **The position in one line.** Death is the **maximal, unconditional case of individual irrecoverability** — the
 one loss for which F0's "recovery of action" demand (**C4**) is structurally unpayable.
 
+🛑 **Register, stated first because "unconditional" cannot be read cold.** *"Irrecoverable"* here is a
+position **inside the recovery concept this theory uses and inside observable structural description**. It is
+**not a metaphysical verdict on post-mortem existence or non-existence.** The scope is set at O6 below — C11's
+floor is where *self*-recovery ends, C9 is where *external* recovery ends too — and the twin refusal that goes
+with it is load-bearing in **both** directions: this section refuses the afterlife-smuggle (F0's **P6**) **and
+equally refuses *"there is provably nothing"***. The second refusal is **F3's silence applied here**, and
+dropping either one breaks the position rather than tidying it.
+
+*(Hoisted 2026-08-14. An external reader took the headline alone as a metaphysical claim and first proposed
+downgrading it to "operationally irrecoverable in the observable record" — which would have kept the first
+refusal and lost the second, converting a structural claim under F11 into an epistemic one and re-opening the
+"rescue may be possible, we merely cannot see it" reading that the P6 refusal exists to close. The content is
+therefore unchanged; what was owed was the register, at the top rather than two paragraphs down.)*
+
 *(Boundary ownership, decided 2026-07-25 — O6.* The corpus had been using "irreversible" for two different
 lines. **C11's floor** is where *self*-recovery ends: hysteresis, the lower basin, externally reversible, and the
 object of the detection programme. **C9 owns the terminus**: where *external* recovery ends too — every rescue
