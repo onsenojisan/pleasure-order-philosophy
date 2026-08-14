@@ -10,7 +10,7 @@
 - ***Owed accounts*** *(named 2026-07-26): **machinery the corpus uses while owing an account of it.** Neither
   a conflict nor beyond reach, so neither of the first two disciplines fits. The discipline is: **declare the
   use at every point of use, and let it cap the strength of what rests on it.** Currently: **intentionality**
-  and **what fixes the grain** — see O1.*
+  **what fixes the grain**, and the **independence of F0-L's corrected conditions** — see O1.*
 
 *The third kind was added because the first was being made to cover it, which is a category error: "no verdict
 is reachable" and "we use this without having earned it" are not the same situation, and only the first is
@@ -85,6 +85,19 @@ carries the same underdetermination — which is where the debt came from, not a
 → **Open** as an **owed account** — the same kind as intentionality above: the core uses it while owing an
 account of it, so the use is declared at each site and caps what rests on it.
 *(Opened 2026-07-26, from an external critique of the deposit's reader summary.)*
+
+### Independence of F0-L's corrected conditions
+
+F0-L's condition **C** now explicitly includes **effective axiomatization**, because the Gödel step depends on it.
+That correction leaves its joint theorem intact, but it changes the former claim that *each* of A–D is independently
+necessary: the listed cases D → F4/R3, C → Presburger, B → outside description, and A → paraconsistency have not been
+rederived under the corrected C. In particular, a system retaining arithmetic expressiveness while dropping only
+effective axiomatization cannot be disposed of by calling it non-statable; whether it satisfies B is an independent
+question.
+
+**Kind: owed account, not a principled opening.** The independence table was used to infer that silence is the only
+exit preserving the other conditions. Until the cases are rederived, the corpus may rely only on the joint Gödel
+conclusion under corrected A–D, not on the stronger independence claim. → **Open.**
 
 ### Determinism or indeterminism
 Whether the world is fully deterministic. **Not needed by the core** *(opened 2026-07-25)*: the theory uses two
