@@ -158,6 +158,19 @@ achieved fact" (beyond the observation limit — withdrawn to a hypothesis).
 Source: private note "AI Has Meaning but No Directionality" (Dec 2025) + the later, authoritative fixed memo
 "個人・文明・AIにおける『方向性・主体・姿勢』の最終整理" (私用固定稿, Jan 2026).
 
+🟡 **Companion premise / authorial wager — stated here rather than twenty lines down.** What follows is
+**neither an empirical conclusion nor a settled modal one.** It is the author's wager, and the modal claim
+inside it — that stake is the degree of freedom an artificial system cannot acquire *in principle* — is
+asserted **as the content of that wager**, not as a result. **R2** removes any commitment to modal
+metaphysics, so no such commitment is carried here; the claim is offered the way **R3** offers directional
+readings, as a fallible bet. **What defeats it:** an artificial system that instantiates stake —
+consequences returning to itself — under the definition used below. The *Honest labelling* paragraph at the
+end of this section says the same about the memo's own status (*"a bet, not an answer"*); it is repeated
+here because a reader meets the claim first and the qualification last.
+*(Added 2026-08-13, after an external review read the claim as an unqualified impossibility assertion. The
+claim is unchanged and is deliberately **not** narrowed to current architectures — what was missing was its
+register, at the point of use.)*
+
 **Content:** An LLM generates *meaning* but does not sustain *directionality* Ω. A self-updating
 directional system needs five independent degrees of freedom — **stake** (consequences returning to oneself),
 **meaning**, **integration / decision**, **other-adjustment**, **irreversible self-history** — flowing forward
