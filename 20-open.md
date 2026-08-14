@@ -15,7 +15,7 @@
 *The third kind was added because the first was being made to cover it, which is a category error: "no verdict
 is reachable" and "we use this without having earned it" are not the same situation, and only the first is
 licensed by F0.*
-Last updated: 2026-07-26
+Last updated: 2026-08-14 — local same-temperature audit findings recorded and repaired
 
 *Note on O5–O6 (2026-07-25): most items here are open because the theory does not need them, or because nobody
 has solved them. **O5 and O6 were different** — internal conflicts between positions the corpus held at once,
@@ -150,7 +150,10 @@ Whether the corpus can describe **fixation and release at the same temperature**
 grip loosens" are two directions on one axis, the text should be equally willing to describe either; wherever it
 leans toward release, a residual evaluative commitment sits under the descriptive surface. C13 permits such a
 commitment **only if declared** — an undeclared lean is unauditable, and therefore worse than a bounded stated
-one. **No verdict is recorded:** this is a standing audit on the corpus, not a closed finding. → **Open.**
+one. **Three local findings were recorded and repaired 2026-08-14:** C10's *"mature centre"*; C3/C10's
+unsupported *"the peak-seeker rightly declines"*; and C11's unqualified corpus-voice use of *"Hell"*. These are
+point-of-use corrections, not a corpus-wide verdict. **The general audit remains open:** this is a standing audit
+on the corpus, not a closed finding. → **Open.**
 
 ### The standpoint-inflation audit — *a second standing audit (opened 2026-07-26)*
 
