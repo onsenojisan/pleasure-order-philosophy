@@ -338,7 +338,7 @@ with it is load-bearing in **both** directions: this section refuses the afterli
 equally refuses *"there is provably nothing"***. The second refusal is **F3's silence applied here**, and
 dropping either one breaks the position rather than tidying it.
 
-*(Hoisted 2026-08-13. An external reader took the headline alone as a metaphysical claim and first proposed
+*(Hoisted 2026-08-14. An external reader took the headline alone as a metaphysical claim and first proposed
 downgrading it to "operationally irrecoverable in the observable record" — which would have kept the first
 refusal and lost the second, converting a structural claim under F11 into an epistemic one and re-opening the
 "rescue may be possible, we merely cannot see it" reading that the P6 refusal exists to close. The content is
