@@ -161,10 +161,12 @@ Source: private note "AI Has Meaning but No Directionality" (Dec 2025) + the lat
 🟡 **Companion premise / authorial wager — stated here rather than twenty lines down.** What follows is
 **neither an empirical conclusion nor a settled modal one.** It is the author's wager, and the modal claim
 inside it — that stake is the degree of freedom an artificial system cannot acquire *in principle* — is
-asserted **as the content of that wager**, not as a result. **R2** removes any commitment to modal
-metaphysics, so no such commitment is carried here; the claim is offered the way **R3** offers directional
-readings, as a fallible bet. **What defeats it:** an artificial system that instantiates stake —
-consequences returning to itself — under the definition used below. The *Honest labelling* paragraph at the
+asserted **as the content of a falsifiable companion conjecture**, not as a result licensed by **R2**. R2
+supplies no modal proof for it; **R3's general fallibilism** supplies only the discipline of betting without
+promoting the bet to knowledge. **What defeats it:** an artificial system that instantiates stake —
+consequences returning to itself — under criteria declared independently of the verdict. If “stake” is
+operationalized so that an artificial system is excluded by definition, the wager is circular and has no
+admissible pass or fail. The *Honest labelling* paragraph at the
 end of this section says the same about the memo's own status (*"a bet, not an answer"*); it is repeated
 here because a reader meets the claim first and the qualification last.
 *(Added 2026-08-14, after an external review read the claim as an unqualified impossibility assertion. The
