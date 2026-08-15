@@ -134,7 +134,7 @@ The theory holds individual terminality / irrecoverability (the individual-level
 The *structural position* on death — the limit case of individual irrecoverability, closing the arc
 **F0.C4 → C8 → C3 → F12 → F11** — is now written as **companion C9** (previously this item read "writable, not
 yet undertaken"). What remains **Open** here are the residues C9 deliberately does *not* close:
-- the **phenomenology of dying** ("what it is like" for observation to cease) → **F8**-shelved, in principle;
+- the **phenomenology of dying** ("what it is like" for observation to cease) → **F8**-shelved in this corpus;
 - **whether anything continues** → **F3** silence, cutting both ways (no afterlife-smuggle P6, but equally no
   "provably nothing");
 - **the death of others** (grief, the loss of a Thou) → routed through C5 + the Other-Minds item, sketched not
@@ -250,9 +250,9 @@ Each Ready-stance is a defensible position, not a "solution." The following resi
 ## O4. The consciousness fork (the inside of F8)
 
 "Feeling = part of the structure (functionalism) / the intrinsic nature of the structure (Russellian monism ≈
-proto-panpsychism)" is undecidable from the armchair → **both kept as undecided options, open.**
-No commitment either way. The outer→inner bridge (the hard problem) is beyond the observation limit. →
-**open (in principle).**
+proto-panpsychism)" is not decided by the armchair conceivability arguments used here → **both kept as unresolved
+options, open.** No commitment either way. The outer→inner bridge (the hard problem) is not decided in this corpus;
+other empirical or theoretical routes are not ruled out. → **open.**
 *(F1 v1.1 removed a conflict here: the frozen core no longer denies intrinsic natures outright, so the Russellian
 option is genuinely available rather than nominally kept while being ruled out one file over.)*
 
@@ -379,9 +379,9 @@ decoration)**. The three items most often suspected of being shelter are these, 
 same question — *could evidence bear on this?*
 
 - **The consciousness fork** (feeling as part of the structure, or as the intrinsic nature the structure
-  describes). **Silence.** Not because it is hard: both sides are arguments from conceivability, and no
-  observation distinguishes a world where the fork falls one way from a world where it falls the other. Evidence
-  cannot bear on it *as posed*. Note what this does not cover — the correlates are wide open to evidence, and
+  describes). **Silence in this corpus.** Both arguments used here depend on conceivability, and the present framing
+  does not supply an observation that distinguishes the forks. This does not establish that evidence or theory can
+  never bear on a better-posed version. Note what this does not cover — the correlates are wide open to evidence, and
   the corpus makes claims about them that could fail.
 - **What a released perception contains.** **Silence**, and the narrowest of the three. Inner attainment is
   reportable only by the one attaining, which is testimony rather than observation; **S5** was retracted for
