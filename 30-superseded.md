@@ -39,8 +39,9 @@ F3**. Only the *idealist overshoot* (observer = world = necessity; no mind-indep
 
 **Why dropped.** Too strong; it conflates the *signal* with the *structure*.
 
-**Replaced by:** pleasure = dC/dt — a rate / signal, a functional correlate (F8). Coherence is not identical to
-pleasure.
+**Replacement history:** the first repair was “pleasure = dC/dt” as a functional correlate. **v1.19 supersedes
+that overloaded terminology:** `r_C+` / `r_C-` name structural formation/collapse rates, felt pleasure/suffering
+remain appearance terms, and their empirical relation is open (F8).
 
 ## S3. "Value = Ω", "Ω = growth / expansion", "one scale-invariant law" (early; retracted in v1.2)
 

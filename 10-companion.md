@@ -39,8 +39,8 @@ with Yogācāra" objection.
 **Relation to the core:**
 - Where Ω is treated as a "real cosmic coherence field (ground)", it conflicts with the core (F1: Ω = a
   descriptive reading (D), not a real field). → kept in the companion.
-- "Feeling = the universe feeling through compassion" (panpsychism) is retained only as **one of the undecided
-  options under core F8** (alongside functionalism, an undecidable fork; it falls out naturally when combined
+- "Feeling = the universe feeling through compassion" (panpsychism) is retained only as **one of the unresolved
+  options under core F8** (alongside functionalism, a fork not decided here; it falls out naturally when combined
   with OSR). It is not discarded.
 - "Goodness = entropy minimization / compassion = physical necessity" (a naturalistic ethics crossing is→ought)
   conflicts with core F7 (non-normative). → kept as companion speculation.
@@ -85,8 +85,8 @@ that a correction has been applied at one site and not at the others that depend
 in the frozen core's v1.14 entry rather than as three separate misses.
 *Hell Fixation* (Zenodo) = the locked state of an individual who has fixated (loss of reversibility, devaluation
 of exit, suffering functioning as a stabilizer) = the loss-end of anti-fixation. Scope: quiescent systems only
-(the ecstatic systems 恍惚系, and the peak-affirmation fork this model admits "the peak-seeker rightly declines",
-are taken up in **C10** on F6's fixated/reversible axis).
+(the ecstatic systems 恍惚系 and the peak-affirmation fork are taken up in **C10** on F6's
+fixated/reversible axis).
 
 **Note (refined in C11):** "cessation of suffering" here does **not** mean *eliminating* suffering (that would
 still the whole pleasure/suffering wave); it means *non-fixation* — staying off the collapse-floor. The floor
@@ -203,13 +203,15 @@ prescriptions (keep Z human-side; use reversibly and distributed; do not delegat
 irreversible judgment) are **hypothetical imperatives** ("if you do not wish to lose the interdependence bet,
 then …"), not categorical oughts. Kept in the companion, not the core.
 
-## C7. The Suffering Order (−dC/dt) — collapse as the dual of pleasure
+## C7. The Suffering Order — historical rate-dual proposal
 
 Source: "The Suffering Order / 苦の秩序論" (9 parts + appendices A–C; Zenodo record 17500483) +
 "快と苦の双対構造 / 再整合の知" + the popular "人間の可能性 ⑥" (false-suffering → false-pleasure loop).
 
-**Content:** If pleasure is the rate of coherence formation (dC/dt, F8), suffering is its collapse rate:
-**Suffering = −dC/dt**. It appears layer-specifically (B fear, Y meaninglessness, X over-control/perfectionism,
+**Content (historical proposal, terminology corrected v1.19):** Earlier texts proposed a symmetric rate dual,
+using “pleasure” for coherence formation and “suffering” for coherence collapse. Current terminology instead
+uses `r_C+` / `r_C-` for those structural rates and does not identify either with ordinary felt experience.
+The proposal appears layer-specifically (B fear, Y meaninglessness, X over-control/perfectionism,
 C empathic burnout, Z dissociation), but all forms share one structure — **causal inversion**: the causal flow
 closes into a self-loop and loses reversibility. Recovery = re-opening the loop through non-judging observation.
 Pleasure and suffering are one reversible movement, symmetric about a zero-crossing.
@@ -219,14 +221,13 @@ of a category) restated at the affective / individual scale.** The Suffering Ord
 suffering side — the −dC/dt dual the core was missing.
 
 **The misfire corollary (qualifies F8 / S2):** a *false recovery* (擬似快 / false-pleasure) can fire —
-aggression, "false compassion", numbing — without any real dC/dt > 0; symmetrically a *false alarm* (偽苦)
-fires from the B-layer while Y/X read "safe". This is an important limit on "pleasure = dC/dt": the correlate
-can **misfire** (fire while decoupled from real coherence change) — exactly why F8 keeps it a *functional
-correlate*, not an identity.
+aggression, "false compassion", numbing — without structural formation; symmetrically a *false alarm* (偽苦)
+fires from the B-layer while Y/X read "safe". This motivates testing the felt channel and structural rates as
+distinct variables rather than protecting an assumed correlate.
 
 **The misfire clause is under the same discipline C11 imposes on AA — pre-hoc, not post-hoc.** A correlate that
-may misfire in *both* directions can absorb every counterexample to "pleasure = dC/dt", which would make the
-correlate unfalsifiable — the protective-belt failure C11 explicitly forbids for abstraction-based coping. The
+may misfire in *both* directions can absorb every counterexample to a pleasure/rate association, which would make
+the association unfalsifiable — the protective-belt failure C11 explicitly forbids for abstraction-based coping. The
 same bar therefore applies here: **a misfire may only be declared on a marker specified in advance and measured
 independently of dC/dt** (e.g. a stated dissociation between the B-layer signal and the Y/X-layer appraisal), and
 a case where the correlate reads high while the specified marker is absent and coherence is *not* forming counts
@@ -252,7 +253,7 @@ fold-bifurcation)**, not −dC/dt magnitude; and the identity "suffering = −dC
 bad is *collapse / fixation* rather than the *reaching-structure itself* — is held as a **wager against the
 Buddhist rival**, not a theorem (C11).
 
-*Note: "suffering = −dC/dt" here (and its dual, "pleasure = dC/dt" at F8) names **felt** suffering/pleasure only — the graded, reversible slope of coherence. Structural collapse (irreversibility) is a **separate axis**, treated at C11. The two dissociate: near the collapse gate, critical slowing makes −dC/dt small while structural danger is maximal — the painless character of Abstraction-based coping (C8). And the same low −dC/dt marks either serenity (structure open) or numbing (structure frozen); only the second axis tells them apart. Felt-suffering and the floor are therefore different quantities, not two readings of one scale.*
+*Current reading: felt suffering/pleasure, `r_C+` / `r_C-`, and the collapse-floor are separate variables. Near a collapse gate, critical slowing can make observed change small while structural danger is high; a low observed rate can occur with either serenity or numbing. Their association is an empirical question, not a definition.*
 
 **Relation to the core:** Appendix B (social coherence as neural synchronization *without any collective
 consciousness*, a "coherence window") is the careful version that **supersedes the loose "social
@@ -452,8 +453,8 @@ primitive**: it is F6 / F0 read at the finitude scale, the way C7 is F6 read at 
 ## C10. The affirmation fork — Nietzsche and the ecstatic modes (恍惚系)
 
 Source: derived here from the core (F6) and the liberation model (**C3**), which explicitly parked two things —
-the *ecstatic* systems (恍惚系) and the fork it admitted "the peak-seeker rightly declines" (the affirmation of
-intensity / the peak). C10 takes up both, because they are the same unfinished territory seen from two sides.
+the *ecstatic* systems (恍惚系) and the peak-affirmation fork (the affirmation of intensity / the peak). C10
+takes up both, because they are the same unfinished territory seen from two sides.
 The early Hatena layer-mapping of Nietzsche onto BYXCZ/Ω is **not adopted** (superficial; it misreads the
 *Übermensch* as a Buddhist-style total integration, ZZ). Offered as a companion lens, not a frozen commitment,
 and not as Nietzsche scholarship — a *structural placement*, not an exegesis.
@@ -495,11 +496,17 @@ plane becomes a **topographic map**: each cell's *fixated shadow* is not a separ
 and collapse-distance (how high on z) are orthogonal; a life is a *trajectory across the map*, and the
 "higher-risk" cells (恍惚×持つ) are simply those whose plane-position sits over steeper descent.
 
-**"Holding quietly" is real — and it is the mature centre, not an empty box.** The 静×持つ (reversible) cell —
+**"Holding quietly" is real — it is C3's returning path in its quiet register, not an empty box.** The 静×持つ
+(reversible) cell —
 hold a direction / a love / a duty *fully, calmly, and lightly, ready to revise or release* — is not a
 contradiction but essentially **C3's returning path in its quiet register**. What C3 forbids is never *holding*;
 it is *freezing*. (An earlier internal 2×2 mislabelled this cell "rare" by conflating 持つ with 把持; the
 correction is kept visible, per F6.)
+
+⚠️ **Wording corrected 2026-08-14.** This called the quiet-holding cell *"the mature centre"*. **C8 declines
+that word by name** — *"not evaluated as good / bad / mature"* — so the corpus was using, in its own voice,
+an evaluation it had refused one section over. The cell's structural placement is unchanged; the ranking term
+is removed. The external review that caught it is recorded in the same-temperature audit.
 
 **Where Nietzsche sits, precisely — 恍惚×持つ×reversible.** Intense, engaged, **anti-fixation** affirmation:
 *amor fati* (loving even what returns), **eternal recurrence** as the test — *could you will this to repeat
@@ -521,18 +528,22 @@ exactly the F5 discipline the theory applies to its own Ω.
 humans in it tend to tip into 恍惚×固着 — mania, addiction, burnout, the intensity-addict. **Nietzsche is both the
 theorist of this cell and its cautionary case**: the writing aspires to sustained reversible affirmation, the life
 arced toward collapse. The cell is real but structurally unstable; the theory must not romanticize it. (This is the
-descriptive counterpart of C3's admission that the peak-seeker's path is *legitimately chosen* — legitimate does
-not mean safe.)
+descriptive claim that a peak-affirming path can be reversible without being low-risk.)
 
 **Non-ranking (F7) — the theory maps, it does not crown.** C3's liberation is the *non-grasping fixed point* on
 the reversible side; C10 shows liberation was always **one region of a larger reversible space**, not the whole of
 it. Under **F7** the theory *maps* both forks **without ranking them**: it does not say quiet is higher than
 ecstatic, or release higher than affirmation. It says only that **any cell, frozen, is the death of that category**
-(F6, descriptive). The peak-seeker "rightly declines" liberation not because liberation is wrong but because the
-two are **different reversible attractors**; choosing intensity over peace is the **agent's freedom** (F9).
+(F6, descriptive). A peak-seeker **may coherently decline** liberation: not because liberation is wrong but because
+the two are **different reversible attractors**; choosing intensity over peace is the **agent's freedom** (F9).
 (That 恍惚×持つ sits nearer the floor is a **risk-gradient (descriptive)**, *not* a value-ranking; the floor its
 shadow falls to is refined in **C11** as Ω̂-collapse, where "holding" 持つ is defined as *unconditional present
 investment* — full care now, no demand on the future — as against clinging 把持.)
+
+⚠️ **Wording corrected 2026-08-14.** C10 traced *"the peak-seeker rightly declines"* to C3, but C3 supplied no
+referent or external source for its quotation marks; no external source has been verified. It is therefore retired
+as an unsupported corpus formulation, rather than retained as a quotation. The replacement keeps the structural
+claim and F9's freedom without supplying an undeclared normative verdict.
 
 **Honest labelling — the F8 / S5 discipline (non-negotiable).** (i) The exemplars below **exemplify the pattern in
 documented lives / works**; they are **not** evidence that anyone *inwardly attained* a pure state — inner
@@ -584,7 +595,8 @@ about a pattern's **standing**, not what may be claimed about a system's **fate*
   continued revisability at level L*, not for preserving pattern X.)
 - *Descriptive → maskable by bliss (the anti-hedonist core).* Ω̂ is third-person; the subject need not feel it.
   So collapse can wear a pleasant face — a revision-locked ecstatic state (wireheading; ecstatic psychosis under
-  long institutionalisation) is Hell **because viability is destroyed, not because it hurts.** That the floor is
+  long institutionalisation) sits at the **collapse-floor** — *"Hell Fixation"* is the legacy label of the cited
+  Zenodo source — **because viability is destroyed, not because it hurts.** That the floor is
   *not phenomenal* is precisely why the theory is anti-hedonist. (Radical, but load-bearing: it is the whole point
   that a pleasant appearance can hide a collapsing Ω̂.)
 - *Basin-indexed, not horizon-indexed* **(decided 2026-07-25, O6)**. "Below the floor" = **the system is in the
