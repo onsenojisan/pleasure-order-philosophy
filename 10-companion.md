@@ -39,8 +39,8 @@ with Yogācāra" objection.
 **Relation to the core:**
 - Where Ω is treated as a "real cosmic coherence field (ground)", it conflicts with the core (F1: Ω = a
   descriptive reading (D), not a real field). → kept in the companion.
-- "Feeling = the universe feeling through compassion" (panpsychism) is retained only as **one of the undecided
-  options under core F8** (alongside functionalism, an undecidable fork; it falls out naturally when combined
+- "Feeling = the universe feeling through compassion" (panpsychism) is retained only as **one of the unresolved
+  options under core F8** (alongside functionalism, a fork not decided here; it falls out naturally when combined
   with OSR). It is not discarded.
 - "Goodness = entropy minimization / compassion = physical necessity" (a naturalistic ethics crossing is→ought)
   conflicts with core F7 (non-normative). → kept as companion speculation.
@@ -203,13 +203,15 @@ prescriptions (keep Z human-side; use reversibly and distributed; do not delegat
 irreversible judgment) are **hypothetical imperatives** ("if you do not wish to lose the interdependence bet,
 then …"), not categorical oughts. Kept in the companion, not the core.
 
-## C7. The Suffering Order (−dC/dt) — collapse as the dual of pleasure
+## C7. The Suffering Order — historical rate-dual proposal
 
 Source: "The Suffering Order / 苦の秩序論" (9 parts + appendices A–C; Zenodo record 17500483) +
 "快と苦の双対構造 / 再整合の知" + the popular "人間の可能性 ⑥" (false-suffering → false-pleasure loop).
 
-**Content:** If pleasure is the rate of coherence formation (dC/dt, F8), suffering is its collapse rate:
-**Suffering = −dC/dt**. It appears layer-specifically (B fear, Y meaninglessness, X over-control/perfectionism,
+**Content (historical proposal, terminology corrected v1.19):** Earlier texts proposed a symmetric rate dual,
+using “pleasure” for coherence formation and “suffering” for coherence collapse. Current terminology instead
+uses `r_C+` / `r_C-` for those structural rates and does not identify either with ordinary felt experience.
+The proposal appears layer-specifically (B fear, Y meaninglessness, X over-control/perfectionism,
 C empathic burnout, Z dissociation), but all forms share one structure — **causal inversion**: the causal flow
 closes into a self-loop and loses reversibility. Recovery = re-opening the loop through non-judging observation.
 Pleasure and suffering are one reversible movement, symmetric about a zero-crossing.
@@ -219,14 +221,13 @@ of a category) restated at the affective / individual scale.** The Suffering Ord
 suffering side — the −dC/dt dual the core was missing.
 
 **The misfire corollary (qualifies F8 / S2):** a *false recovery* (擬似快 / false-pleasure) can fire —
-aggression, "false compassion", numbing — without any real dC/dt > 0; symmetrically a *false alarm* (偽苦)
-fires from the B-layer while Y/X read "safe". This is an important limit on "pleasure = dC/dt": the correlate
-can **misfire** (fire while decoupled from real coherence change) — exactly why F8 keeps it a *functional
-correlate*, not an identity.
+aggression, "false compassion", numbing — without structural formation; symmetrically a *false alarm* (偽苦)
+fires from the B-layer while Y/X read "safe". This motivates testing the felt channel and structural rates as
+distinct variables rather than protecting an assumed correlate.
 
 **The misfire clause is under the same discipline C11 imposes on AA — pre-hoc, not post-hoc.** A correlate that
-may misfire in *both* directions can absorb every counterexample to "pleasure = dC/dt", which would make the
-correlate unfalsifiable — the protective-belt failure C11 explicitly forbids for abstraction-based coping. The
+may misfire in *both* directions can absorb every counterexample to a pleasure/rate association, which would make
+the association unfalsifiable — the protective-belt failure C11 explicitly forbids for abstraction-based coping. The
 same bar therefore applies here: **a misfire may only be declared on a marker specified in advance and measured
 independently of dC/dt** (e.g. a stated dissociation between the B-layer signal and the Y/X-layer appraisal), and
 a case where the correlate reads high while the specified marker is absent and coherence is *not* forming counts
@@ -252,7 +253,7 @@ fold-bifurcation)**, not −dC/dt magnitude; and the identity "suffering = −dC
 bad is *collapse / fixation* rather than the *reaching-structure itself* — is held as a **wager against the
 Buddhist rival**, not a theorem (C11).
 
-*Note: "suffering = −dC/dt" here (and its dual, "pleasure = dC/dt" at F8) names **felt** suffering/pleasure only — the graded, reversible slope of coherence. Structural collapse (irreversibility) is a **separate axis**, treated at C11. The two dissociate: near the collapse gate, critical slowing makes −dC/dt small while structural danger is maximal — the painless character of Abstraction-based coping (C8). And the same low −dC/dt marks either serenity (structure open) or numbing (structure frozen); only the second axis tells them apart. Felt-suffering and the floor are therefore different quantities, not two readings of one scale.*
+*Current reading: felt suffering/pleasure, `r_C+` / `r_C-`, and the collapse-floor are separate variables. Near a collapse gate, critical slowing can make observed change small while structural danger is high; a low observed rate can occur with either serenity or numbing. Their association is an empirical question, not a definition.*
 
 **Relation to the core:** Appendix B (social coherence as neural synchronization *without any collective
 consciousness*, a "coherence window") is the careful version that **supersedes the loose "social

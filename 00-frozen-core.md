@@ -1,7 +1,7 @@
 # Frozen Core — the defensible philosophical skeleton
 
 *status: Frozen (settled). Revised only under explicit versioning.*
-Version: **v1.18-draft** · Last updated: 2026-08-14 · revision log at the foot of this file
+Version: **v1.19-draft** · Last updated: 2026-08-15 · revision log at the foot of this file
 
 The single governing rule:
 **What cannot be reached is left silent and not inflated; the structure of the accessible world is reached, reversibly and fallibly.**
@@ -149,7 +149,7 @@ two claims together, and only the first is argued for:
   or relates;
 - **intrinsicality** (a nature a relatum has in itself) — **not denied**. The argument does not reach it, since
   a relatum of a relation is not thereby an independent existent. Denying it would contradict **F3** (whether a
-  svabhāva-floor exists is undecidable — neither asserted nor denied), **F5** (the intrinsic floor is
+  available method does not establish whether a svabhāva-floor exists — neither asserted nor denied), **F5** (the intrinsic floor is
   *unknowable*), and **F8**, which keeps Russellian monism — structure having an intrinsic nature — as a live
   undecided option.
 
@@ -193,10 +193,10 @@ The brain reconstructs the world from the senses. What we see is a **partial, in
 dependent world. But we do **not** posit a hidden noumenal "final floor" (Kantian two-world). Indirect realism
 needs only a "mind-independent source of sensory input", and that source can itself be *more dependent world*.
 
-**Whether a self-standing ground (svabhāva-floor) exists is undecidable and untouchable.** Neither "it exists"
+**Whether a self-standing ground (svabhāva-floor) exists is not established by the available method.** Neither "it exists"
 nor "it does not" is asserted; no shape is given to it (not even "it is 4-dimensional"). Note: even asserting
 "there is an unreachable true world" slightly overreaches (to know it is there you would have to reach it).
-The safe form is **"no verdict is reachable → silence."** This is, in fact, close to Nāgārjuna's *no-thesis*
+The safe form is **"this theory has no warranted verdict → silence."** This is a methodological refusal to inflate the available evidence, not a proof of formal or in-principle undecidability. It is, in fact, close to Nāgārjuna's *no-thesis*
 (Vigrahavyāvartanī 29: "I have no thesis").
 
 ### F4. Truth
@@ -330,7 +330,7 @@ epistemic normativity would be quietly exempted from Wall 2.)
 **C13**. That answer changes no frozen statement and adds no primitive; it fills the vacancy left by **S3**'s
 retraction of "value = Ω".)
 
-### F8. Consciousness / qualia (closed by the observation limit)
+### F8. Consciousness / qualia (not decided in this corpus)
 
 **The deep fact of "why is structure/function accompanied by *feeling*" lies beyond the observation limit →
 shelved (principled agnosticism).**
@@ -339,7 +339,7 @@ Structure:
 - **Inner observation:** Nāgārjuna reached the terminus (the self is empty; concepts do not reach the ultimate;
   the observation limit is fixed).
 - **Outer observation:** left open to science (the frontier moves).
-- **The outer→inner bridge** (can outer structure explain inner feeling?) = **the hard problem = undecidable.**
+- **The outer→inner bridge** (can outer structure explain inner feeling?) = **the hard problem = not decided here.**
   Nāgārjuna did not address this bridge.
 
 Justification (a *principled* agnosticism, not avoidance):
@@ -351,7 +351,7 @@ Justification (a *principled* agnosticism, not avoidance):
 
 *Two levels, and only one of them is silent* **(stated v1.13, in answer to the fair observation that "both sides
 ride on conceivability" is plainly a position and not a silence)**. The **first-order** question — are zombies
-possible, does the fork fall one way or the other — is where the silence sits: no verdict, and none coming. The
+possible, does the fork fall one way or the other — is where the silence sits: no verdict from this argument. The
 **second-order** question — why the armchair cannot settle it — is *answered*, and the answer is an argued
 methodological commitment: the inference from conceivability to modal fact is a leap, and it is a leap in
 **both** directions, which is why asserting impossibility is refused as firmly as asserting possibility. Holding
@@ -363,18 +363,19 @@ contains.
 Further: on this theory's own OSR + modal humility, "everything else is necessary and feeling alone floats" is
 **false** (nothing is pure necessity; everything, feeling included, is a contingent pattern; there is no
 necessity-substrate for feeling to float free of). The surviving question — "why do some styles feel and others
-(a rock, perhaps an insect) not?" — becomes, under OSR, an undecidable fork:
+(a rock, perhaps an insect) not?" — becomes, under OSR, an unresolved fork:
 ⟨feeling = part of the structure (functionalism) / feeling = the intrinsic nature the structure describes from
 outside (Russellian monism ≈ proto-panpsychism)⟩.
 → **Commit to neither; keep both as undecided options, shelved.**
-Consequence: we do *not* say "feeling is explained by pleasure = dC/dt". Pleasure = dC/dt is a **functional
-correlate**; whether it exhausts felt experience is **open**.
+Consequence: we do *not* say feeling is explained by a structural coherence rate. The current empirical surface
+uses `r_C+` / `r_C-` for structural formation/collapse rates and reserves ordinary “felt pleasure/suffering” for
+appearance terms. Whether and how those rates correlate with felt experience is **open**.
 
 **What that leaves the theory's central vocabulary** *(drawn out v1.6; the consequence was there and had not been
-stated)*. If the correlate may not exhaust the felt phenomenon, then **"pleasure" and "suffering" as this theory
-uses them are technical terms** naming functional quantities — rates of coherence formation and collapse — and
-their relation to felt pleasure and felt suffering is precisely what F8 leaves open. The theory's terms and the
-ordinary ones may not be co-referential, and **the theory is the one saying so**.
+stated; terminology corrected v1.19)*. Earlier versions used **“pleasure” and “suffering” as technical labels**
+for functional rates. That overload is now retired on the current empirical surface: `r_C+` / `r_C-` name the
+structural rates, while ordinary felt pleasure/suffering remain appearance terms. Their empirical relation is
+precisely what F8 leaves open.
 
 Two things follow, and neither is an embarrassment. First, **the name is a lineage label, not a thesis**: "The
 Pleasure Order" records where the work came from, not a claim to be a theory of felt pleasure — which is also
@@ -1217,6 +1218,15 @@ open for one day.
 - **F2 no longer calls its methodological posit a refutation.** The world is posited as not constituted by the
   individual observer's experience; this is independence, not temporal priority. Intersubjectivity and resistance
   warrant treating solipsism as methodologically unhelpful, without claiming to refute it.
+
+### v1.19-draft — 2026-08-15 · modal strength and empirical terminology corrected
+
+- **F3 no longer asserts in-principle undecidability.** The available method supplies no warranted verdict, so this
+  theory adopts silence. That is a methodological boundary, not a theorem that no future route could bear on the issue.
+- **F8 no longer turns an armchair limitation into “none coming.”** Conceivability does not decide the hard problem;
+  the text leaves other scientific or theoretical routes open rather than declaring them impossible in principle.
+- **The overloaded pleasure/rate terminology is retired on the current empirical surface.** `r_C+` / `r_C-` name
+  structural formation/collapse rates; felt pleasure/suffering remain appearance terms. The lineage title is unchanged.
 
 ## References
 
